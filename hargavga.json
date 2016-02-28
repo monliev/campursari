@@ -1,0 +1,2906 @@
+{
+  "contacts":
+  [
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 980 Ti HOF 6GB DDR5 - Triple Fan",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 10,899,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 980 Ti OC 6GB GDDR5 - Black Edition",
+        "MEMORY": "6GB",
+        "HARGA": "Rp 9,949,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 980 HOF 4GB DDR5 - Triple Fan",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 8,199,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 970 HOF 4GB DDR5 - Triple Fan",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 6,199,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 970 EXOC (EXTREME OVERCLOCK) 4GB DDR5 - Black Sniper Edition",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,299,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 960 EXOC (EXTREME OVERCLOCK) 4GB DDR5 - Dual Fan - Black Edition",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,215,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 960 EXOC (EXTREME OVERCLOCK) 2GB DDR5 - Dual Fan ",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 950 OC 2GB DDR5 - Single Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,499,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 950 BLACK OC SNIPER 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,869,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 950 EXOC (EXTREME OVERCLOCK) 2GB DDR5 - Dual Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,949,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 750 Ti EXOC (EXTREME OVERCLOCK) 2GB DDR5 - Dual Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,249,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GTX 750 OC 1GB DDR5 - Out Of Stock",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,599,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GT 740 OC Slim 2GB DDR5 - With Low Profile Bracket",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,425,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GT 730 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,025,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GT 730 EXOC (EXTREME OVERCLOCK) 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 920,000"
+    },
+    {
+        "MERK": "Galax",
+        "JENIS": "Galax Geforce GT 610 1GB DDR3 PROMO PRICE !",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 410,000"
+    },
+    {
+        "MERK": "EVGA",
+        "JENIS": "EVGA GeForce GTX 950 2GB SSC GAMING ACX 2.0+ Grs 2 Tahun",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,990,000"
+    },
+    {
+        "MERK": "EVGA",
+        "JENIS": "EVGA GeForce GTX 960 4GB SSC GAMING ACX 2.0+ Grs 2 Tahun",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 4,350,000"
+    },
+    {
+        "MERK": "EVGA",
+        "JENIS": "EVGA GeForce GTX 970 4GB SSC GAMING ACX 2.0+ Grs 2 Tahun",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 6,300,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon R9 390X 8GB DDR5 Dual Fan - R9-390X-8DFS",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 6,290,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon R9 390 8GB DDR5 Black Edition Dual Fan - R9-390P-8DBS",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 5,525,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon R9 380X 4GB DDR5 Dual Fan - R9-380X-4DFS",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,990,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon R7 370 4GB DDR5 Dual Fan - R7-370P-4DFS",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 2,950,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon R7 370 2GB DDR5 - R7-370P-2SFS",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,300,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon R7 360 2GB DDR5 - R7-360P-2SFS",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,790,000"
+    },
+    {
+        "MERK": "XFX",
+        "JENIS": "XFX Radeon HD 5450 1GB DDR3 HYPER MEMORY 2.8GB - ON-XFX1-PLS2",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX TITAN X 12GB DDR5 - GTXTITANX-12GBDDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 18,300,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX TITAN BLACK 6GB DDR5 - GTXTITAN-6GD5",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 16,835,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Ti Gold 20Th Anniversary",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 14,000,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Ti Matrix Platinum 6GB DDR5",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 13,050,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Ti Reference 6GB DDR5",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 11,760,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Ti Poseidon 6GB DDR5 ",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 12,650,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Ti DirectCU III OC 6GB DDR5 STRIX-GTX980TI-DC3OC-6GD5",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 12,350,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Matrix Platinum 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 9,970,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 Poseidon Platinum 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 9,300,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 980 DirectCU II OC 4GB DDR5 STRIX GTX980-DC2OC-4GD5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 8,900,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 970 DirectCU II OC 4GB DDR5 STRIX GTX970-DC2OC-4GD5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 6,290,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 970 Turbo OC 4GB DDR5 - White ",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,530,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 960 DirectCU II OC 2GB DDR5 STRIX",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,650,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 960 DirectCU II OC 4GB DDR5 STRIX",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,140,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 960 Turbo OC 4GB DDR5 - White",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,750,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 960 Turbo OC 2GB DDR5 - White",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,230,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 960 DirectCU II OC 2GB DDR5 - Black",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,550,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 950 DirectCU II OC 2GB DDR5 STRIX - GTX950-DC2OC-2GD5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,900,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX GTX950 OC White Edition",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 2,650,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 950 MINI 2GB DDR5 - GTX950-M-2GD5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,990,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 780 Ti DirectCU II OC 3GB DDR5",
+        "MEMORY": "3GB ",
+        "HARGA": "Rp 5,860,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 760 MARS",
+        "MEMORY": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 760 4GB DDR5 Striker Platinum - GTX760-P-4GD5",
+        "MEMORY": "4GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 760 2GB DDR5 DirectCU II OC - GTX760-DC2OC-2GD5",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 Ti Strix 4GB DDR5 128 Bit - Strix-GTX750Ti-OC-4GD5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 2,630,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 Ti Strix 2GB DDR5 128 Bit - Strix-GTX750Ti-OC-2GD5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,430,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 Ti 2GB DDR5 128 Bit - GTX750TI-OC-2GD5 (Dual Fan)",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,300,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 Ti 2GB DDR5 128 Bit - GTX750TI-PH-2GD5 (Single Fan)",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,260,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 4GB DDR5 128 Bit - GTX750-OC-4GD5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 2,290,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 2GB DDR5 128 Bit - GTX750-PHOC-2GD5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,110,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GTX 750 1GB DDR5 128 Bit - GTX750-PHOC-1GD5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,930,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GT 730 TWEAK 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,055,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GT 730 KEPLER 2GB DDR5 64 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,055,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus GeForce GT 730 KEPLER 2GB DDR3 64 Bit - GT730-SL-2GD3-BRK ",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 960,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GTX 670 2048MB DDR5 DirectCU II / Diablo - GTX670-DC2OG-2GD5 ",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 4,842,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GT 630 Silent 1024MB DDR3 64 Bit - GT630-1GD3-L ",
+        "MEMORY": "1024MB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GT 630 Silent/Kepler 2048MB DDR3 128 Bit - GT630-2GD3L",
+        "MEMORY": "2048MB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Geforce GT 210 1GB DDR3 64Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 475,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 FURYX 4GB 4096BIT GDDR5 - 4GB HBM",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 9,450,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 390X 8GB DDR5 DirectCU III OC STRIX - R9390X-DC3OC-8GD5-GAMING",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 6,900,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 390 8GB DDR5 DirectCU III OC STRIX - R9390-DC3OC-8GD5-GAMING",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 6,030,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 380 4GB DDR5 DirectCU II OC STRIX - R9380-DC2OC-4GD5-GAMING",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,330,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 380 2GB DDR5 DirectCU II OC STRIX - R9380-DC2OC-2GD5-GAMING",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 4,025,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R7 370 4GB DDR5 DirectCU II OC STRIX - R7370-DC2OC-4GD5-GAMING",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,160,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R7 360 2GB DDR5 OC - R7360-OC-2GD5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,840,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 290 4GB DDR5 512 Bit DirectCU II OC",
+        "MEMORY": "4GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R9 270 2GB DDR5 256 Bit DirectCU II OC - R9-270-DCII-OC",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R7 250 1GB DDR5 128 Bit - R7-250-1GD5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,485,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon R7 240 2GB DDR3 128 Bit - R7240-2GD3-L",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 875,000"
+    },
+    {
+        "MERK": "ASUS",
+        "JENIS": "Asus Radeon HD5450 1GB DDR3 64 Bit - EAH5450 SILENT/DI/1GD3 (LP)",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 480,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon Fury X 4GB HBM DDR5",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 9,650,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 390X DEVIL HYBRID 8GB DDR5",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 6,630,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 390X 8GB DDR5 PCS+",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 6,250,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 390 8GB DDR5 PCS+",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 5,520,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 380 4GB DDR5 PCS+",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,510,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 370 2GB DDR5 PCS+",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,430,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 360 2GB DDR5 OC",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,740,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 285 2GB DDR5 256 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,070,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 270X OC PCS+ 2GB DDR5 256 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,820,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R9 270 2GB DDR5 256 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,140,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 265 TURBO OC 2GB DDR5 256 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,380,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 250X 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,378,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 250 OC 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,178,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 240 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 240 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 905,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R7 240 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 790,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon R5 230 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 480,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon HD7730 2048MB DDR3 128 bit",
+        "MEMORY": "2048MB",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon HD6570 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon HD6570 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 665,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon HD6570 1GB DDR3 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon HD5450 2GB DDR3 64 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 470,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Color Radeon HD5450 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 420,000"
+    },
+    {
+        "MERK": "Power Color",
+        "JENIS": "Power Jack - VGA Supporter (Penyangga VGA)",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 95,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GT 210 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 422,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GT 610 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 447,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GT 730 1024MB DDR5 64 Bit",
+        "MEMORY": "1024MB ",
+        "HARGA": "Rp 752,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GT 730 2048MB DDR3",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 833,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GT 740 1024MB DDR5",
+        "MEMORY": "1024MB ",
+        "HARGA": "Rp 1,130,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GT 740 2048MB DDR5",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,215,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 750 1024MB DDR5",
+        "MEMORY": "1024MB ",
+        "HARGA": "Rp 1,400,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 750 Ti 1024MB DDR5",
+        "MEMORY": "1024MB ",
+        "HARGA": "Rp 1,455,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 750 Ti 2048MB DDR5",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,615,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 750 Ti OC 2048MB DDR5",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,755,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 950 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,265,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 950 2GB DDR5 OC",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,455,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 950 2GB DDR5 AMP",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,595,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 960 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,735,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 960 2GB DDR5 AMP",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,880,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 970 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,590,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 970 4GB DDR5 AMP OMEGA",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,080,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 970 4GB DDR5 AMP OMEGA CORE",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,225,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 980 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 7,150,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 980 4GB DDR5 AMP",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 7,415,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 980 4GB DDR5 AMP OMEGA",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 7,555,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 980Ti 6GB DDR5 AMP",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 9,280,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce GTX 980Ti 6GB DDR5 AMP EXTREME",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 10,500,000"
+    },
+    {
+        "MERK": "Zotac",
+        "JENIS": "Zotac Geforce TITAN BLACK 6GB DDR5",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 10,460,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 NANO 4GB HBM",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 8,554,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 390X ICEQ X2 OC 8G DDR5",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 6,104,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 390 ICEQ X2 OC 8GB DDR5",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 4,732,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 380X ICEQ X2 TURBO 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,235,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 380X ICEQ X2 OC 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,332,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 380 ICEQ X2 OC 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,080,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 380 ICEQ X2 OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,800,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 370 ICEQ X2 OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,191,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 360 ICOOLER OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,488,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 280X ICEQ X2 3GB DDR5",
+        "MEMORY": "3GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 280X ICEQ X2 TURBO 3GB DDR5",
+        "MEMORY": "3GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 280 ICEQ OC 3GB DDR5 BOOST CLOCK",
+        "MEMORY": "3GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270X ICEQ X2 TURBO 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270X ICEQ X2 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,932,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270X IPOWER ICEQ X2 2GB DDR5 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,540,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270X IPOWER ICEQ 2GB DDR5 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,370,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270X ICEQ X2 2GB DDR5 BOOST CLOCK - MINI",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270 ICEQ X2 2GB DDR5 TURBO",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,946,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270 IPOWER ICEQ X2 2GB DDR5 TURBO BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,190,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270 IPOWER ICEQ X2 2GB DDR5 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,184,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R9 270 ICEQ X2 2GB DDR5 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 265 ICOOLER 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 265 iPower IceQ X2 2GB DDR5 Boost Clock",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,085,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 260X ICEQ X2 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 260X ICEQ X2 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 260X ICOOLER 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 260X ICOOLER 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,650,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 250X ICOOLER 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 250 ICEQ 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,151,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 250 ICEQ 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,130,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 250 ICOOLER 2GB DDR5 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 250 ICOOLER 1GB DDR5 BOOST CLOCK",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,061,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 250 ICOOLER 2GB DDR3 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,061,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 240 iCooler Boost Clock 2GB DDR5 4600 Mhz",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,020,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 240 iCooler Boost Clock 2GB DDR3 1800 MHz",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 945,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 240 2GB DDR5 BOOST CLOCK",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 860,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD R7 240 2GB DDR3",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 800,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD 5450 1GB DDR3",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 425,000"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD 7730 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD 7970 3GB DDR5 384 Bit",
+        "MEMORY": "3GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "HIS",
+        "JENIS": "HIS Radeon HD 7970 3GB DDR5 384 Bit ICEQ X2 DUAL FAN (BOOST CLOCK)",
+        "MEMORY": "3GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon R9 290 4GB DDR5 512 Bit (Royal Ace)",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 6,191,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon R9 290 4GB DDR5 512 Bit (Royal King)",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,690,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon R9 285 2GB DDR5 256 Bit (Royal Queen)",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,480,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon R9 280X 3GB DDR5 384 Bit (Royal King)",
+        "MEMORY": "3GB ",
+        "HARGA": "Rp 4,089,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon R9 280 3GB DDR5 384 Bit (Royal King)",
+        "MEMORY": "3GB ",
+        "HARGA": "Rp 3,654,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon R7 250 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,250,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon HD7850 1GB DDR5 256 Bit (Royal King)",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 2,392,000"
+    },
+    {
+        "MERK": "Club",
+        "JENIS": "Club Radeon HD7970 3GB DDR5 384 Bit SUPER OC (13 Series)",
+        "MEMORY": "3GB ",
+        "HARGA": "Rp 5,147,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro 315 NVS 512MB DDR3 64 Bit (PCI Express x16)",
+        "MEMORY": "512MB ",
+        "HARGA": "Rp 2,780,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro 510 NVS 2GB DDR3 DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 8,040,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro 6000 - 6GB DDR5 384 Bit",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 59,080,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K420 - 1GB DDR3 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 2,850,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K620 - 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 4,280,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K1200 - 4GB DDR5 128 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 9,450,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K2200 - 4GB DDR5 128 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 9,950,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K4200 - 4GB DDR5 256 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 17,490,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K5200 - 8GB DDR5 256 Bit",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 34,090,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K5000 - 8GB DDR5 256 Bit For Mac",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 34,090,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Kepler K6000 - 12GB DDR5 384 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 72,100,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Nvidia 3D Vision Pro",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 2,780,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Nvidia Quadro Sync for Kepler , Synchronize up to four Quadro Kepler GPUs",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 12,730,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Nvidia Quadro SDI output for Kepler , Compatible : Quadro K4000/K5000",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 48,550,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Nvidia Quadro SDI output , Compatible : Quadro FX3800/FX4800/FX5800 , Quadro 4000/5000/6000",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 44,330,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Nvidia Quadro SDI Capture",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 37,851,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Plex 7000 Turnkey System",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 199,144,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Tesla K20C - GK110 5GB 384 Bit",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 51,600,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Tesla K40C - GK110 12GB DDR5 384 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 62,100,000"
+    },
+    {
+        "MERK": "Leadtek Quadro",
+        "JENIS": "Leadtek Quadro Tesla K40M - GK110 12GB DDR5 384 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 63,100,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GTX 750 Ti 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,935,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GTX 750 1GB DDR5 128 Bit - 2 DVI + Mini HDMI",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,686,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GTX 750 1GB DDR5 128 Bit - DVI + VGA + HDMI",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,686,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 740 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,178,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 740 4GB DDR3 128 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 1,541,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 740 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 990,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 730 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 955,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 730 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 976,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 730 1GB DDR3 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 822,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GTX 650 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,241,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 640 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,082,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 630 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 873,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 630 1GB DDR3 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 620 2GB DDR3 64 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 655,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 620 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 573,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 610 2GB DDR3 64 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 600,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 610 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 525,000"
+    },
+    {
+        "MERK": "Biostar",
+        "JENIS": "Biostar Geforce GT 210 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 430,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "iGame nVidia GTX 980Ti 6GB DDR5 OC - X-6GD5 Top - Triple Fan - Best Performance VGA !",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 9,499,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "iGame nVidia GTX 970 4GB DDR5 Ymir TOP OC - With Air Kit - Triple Fan - Best Performance VGA !",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,199,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "iGame nVidia GTX 970 4GB DDR5 OC - Dual Fan - Best Performance VGA ! - Out Of Stock",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,749,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "iGame nVidia GTX 960 4GB DDR5 U-4GD5 BA1 - Best Performance VGA !",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,699,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "iGame nVidia GTX 960 2GB DDR5 OC -Triple Fan - X-2GD5-V2-HA1 - Best Performance VGA !",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,299,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "iGame nVidia GTX 950 2GB DDR5 OC Ymir U - Dual Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,799,000"
+    },
+    {
+        "MERK": "Colorful iGAME",
+        "JENIS": "Colorful nVidia GTX 750 Ti 2GB DDR5 - Dual Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,949,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce Titan X 12GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 14,760,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 980 TI REFERENCE",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 11,740,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 980 TI ICHILL BLACK SERIES HYBRID S",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 11,170,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 980 TI ICHILL ULTRA",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 10,800,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 980 4GB DDR5 Hybrid Water Cooling System",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 9,710,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 980 4GB DDR5 ICHILL ULTRA",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 8,300,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 980 4GB DDR5 OC",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 7,450,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 970 4GB DDR5 ICHILL ULTRA",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 6,290,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 970 4GB DDR5 OC",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,070,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 960 2GB DDR5 ICHILL ULTRA",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,450,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 960 4GB DDR5 OC",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,720,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 960 2GB DDR5 OC",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,145,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 950 2GB DDR5 ICHILL - Dual Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,900,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 950 2GB DDR5 OC - Single Fan",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,525,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 760 4GB DDR5 OC",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,050,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 760 2GB DDR5 ICHILL",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,895,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 760 2GB DDR5 OC",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,810,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 750 TI OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,080,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GTX 750 2GB DDR5 ",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,820,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GT 730 2GB DDR5 64 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 855,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GT 730 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 875,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GT 730 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 795,000"
+    },
+    {
+        "MERK": "Inno 3D",
+        "JENIS": "Inno 3D Geforce GT 210 1GB DDR2",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 430,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GT 210 1GB DDR3 - N210-MD1G/D3",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 532,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GT 610 1GB DDR3 - N610-MD1G/D3",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 592,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GT 610 2GB DDR3 - N610-MD2G/D3",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 700,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GT 730 2GB DDR3 - N730/2GD3 V2",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,076,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GT 730 2GB DDR5 - N730K-2GD5/OC V1 (White PCB)",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,135,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 750 Ti 2GB DDR5 - 2GD5/OC (1 Fan)",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,182,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 750 Ti 2GB DDR5 - Twin Frozr 2GD5/OC Gaming V1 (2 Fan)",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,379,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 950 2048MB DDR5 - (Armor 2X)",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,823,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 950 2048MB DDR5 - Gaming 2G ",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,021,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 960 2048MB DDR5 - Tiger Edition",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,416,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 960 2048MB DDR5 - Gaming 2G",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,762,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 960 4096MB DDR5 - Gaming 4G",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 4,354,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 970 4096MB DDR5 -Tiger Edition",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 5,391,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 970 4096MB DDR5 - Gaming",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 6,280,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 980 4096MB DDR5 - 4GD5T OC (Armor 2X)",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 8,600,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 980 Ti 6144MB DDR5 - Gaming 6G",
+        "MEMORY": "6144MB ",
+        "HARGA": "Rp 12,383,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 980 Ti 6144MB DDR5 - 6GD5T OC (Armor 2X)",
+        "MEMORY": "6144MB ",
+        "HARGA": "Rp 10,882,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Geforce GTX 980 Ti 6144MB DDR5 - Lightning",
+        "MEMORY": "6144MB ",
+        "HARGA": "Rp 13,370,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R9 Fury X 4GB DDR5 - R9 FuryX",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 11,939,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R9 390X Gaming 8GB DDR5",
+        "MEMORY": "8GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R9 390 Gaming 8GB DDR5",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 5,934,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R9 380 Gaming 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,334,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R9 380 2GD5T OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,564,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7 370 Gaming 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,268,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7 370 2GD5T OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,675,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7 360 2GD5 OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,984,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7-260X 2GB DDR5 128 Bit - 2GD5/OC",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,984,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7-250X 1GB DDR5 128 Bit - 1GD5/OC",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,836,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7-250 1GB DDR5 128 Bit - 1GD5/OC",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,490,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon R7-240 2GB DDR3 128 Bit - 2GD3/LP",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,016,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon HD 5450 1GB DDR3 - R5450-MD1GD3H/LP",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 503,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon HD 7730 2GB DDR5 - R7730-2GD5 ",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,115,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI Radeon HD 7730 1GB DDR5 - R7730-1GD5 ",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,016,000"
+    },
+    {
+        "MERK": "MSI",
+        "JENIS": "MSI 2 Way SLI Bridge - L",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 410,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 295X2 8GB DDR5 512BIT",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 9,440,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 290X2 DUAL 8GB DDR5 512BIT",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 15,024,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 290X 8GB DDR5 512BIT",
+        "MEMORY": "8GB ",
+        "HARGA": "Rp 5,650,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 290X 4GB DDR5 512BIT",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,985,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 290 4GB DDR5 512BIT",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,235,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 285 2GB DDR5 256BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,370,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 280X 3GB DDR5 384BIT",
+        "MEMORY": "3GB ",
+        "HARGA": "Rp 3,620,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 280 3GB DDR5 384BIT",
+        "MEMORY": "3GB ",
+        "HARGA": "Rp 2,970,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R9 270X 2GB DDR5 256BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,495,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R7 265 OC 2GB DDR5 256BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,890,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R7 260X 2GB DDR5 128BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,530,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R7 250X 2GB DDR5 128BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,265,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R7 250 OC 1GB DDR5 128BIT",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,030,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R7 240 OC 1GB DDR5 128BIT",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 745,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon R7 240 OC 2GB DDR3 128BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 705,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon HD5450 1GB DDR3 64BIT",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 395,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon HD6570 1GB DDR3 128BIT",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 600,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon HD6570 2GB DDR3 128BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 700,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon HD6570 1GB DDR5 128BIT",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 655,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Radeon HD7730 2GB DDR3 128BIT",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 810,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT210 1GB DDR3 64BIT",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 445,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 630 1024MB DDR3 64 Bit Kepler",
+        "MEMORY": "1024MB ",
+        "HARGA": "Rp 655,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 630 2048MB DDR3 64 Bit Kepler",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 630 2048MB DDR3 128 Bit",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 650 1024MB DDR5",
+        "MEMORY": "1024MB ",
+        "HARGA": "Rp 1,335,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 650 2048MB DDR5",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,490,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 730 2GB DDR3 64 Bit Kepler",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 840,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 730 1GB DDR5 64 Bit Kepler",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 865,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 730 1GB DDR3 64 Bit Kepler",
+        "MEMORY": "1GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 730 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 905,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 740 2GB DDR3 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,265,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 740 OC 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GT 740 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,465,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 750 StormX OC 1GB DDR5 128 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 750 StormX 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 750 Ti StormX OC 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 750 Ti StormX Dual 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,970,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 950 StormX 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,520,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 950 StormX Dual 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,595,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance GeForce GTX 960 2048MB DDR5 Palit OC 128 Bit",
+        "MEMORY": "2048MB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance GeForce GTX 960 2048MB DDR5 Palit Jetstream 128 Bit",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,180,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance GeForce GTX 960 2048MB DDR5 Palit Super Jetstream 128 Bit",
+        "MEMORY": "2048MB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance GeForce GTX 960 4096MB DDR5 Palit Jetstream 128 Bit",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 3,530,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 970 4096MB DDR5 256 Bit Jetstream",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 5,050,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 980 4096MB DDR5 256 Bit Super Jetstream",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 7,800,000"
+    },
+    {
+        "MERK": "Digital Alliance",
+        "JENIS": "Digital Alliance Geforce GTX 980 Ti 6144MB DDR5 384 Bit Super Jetstream",
+        "MEMORY": "6144MB ",
+        "HARGA": "Rp 10,200,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX TITAN Black 6GB DDR5 - GV-NTITANBLKGHZ-6GD-B",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 18,870,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX TITAN 12GB DDR5 - GV-NTITANXD5-12GD-B",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 17,160,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 4096MB DDR5 - GV-N980X3WA-4GD ",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 45,270,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 Ti XTREME 6GB DDR5 - GV-N98TXTREME-6GD",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 13,100,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 Ti 6GB DDR5 - GV-N98TD5-6GD-B",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 11,890,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 TI 6GB DDR5 - GV-N98TG1 GAMING-6GD",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 12,430,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 XTREME 4GB DDR5 - GV-N980XTREME-4GD",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 9,870,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 4096MB DDR5 - GV-N980G1 Gaming-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 9,255,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX980 4096MB DDR5 - GV-N980WF3OC-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 8,720,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX970 XTREME 4096MB DDR5 - GV-N970XTREME-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 6,920,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX970 Twin Turbo OC 4096MB DDR5 - GV-N970TTOC-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 5,950,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX970 4096MB DDR5 - GV-N970G1 Gaming-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 6,595,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX970 MINI OC 4096MB DDR5 - GV-N970IXOC-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 6,140,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX970 OC 4096MB DDR5 - GV-N970WF3OC-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 6,120,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX960 OC 4096MB DDR5 - GV-N960G1 GAMING-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 4,445,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX960 OC 4096MB DDR5 - GV-N960WF2OC-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 4,305,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX960 OC 4096MB DDR5 - GV-N960OC-4GD",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 3,895,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX960 OC 2048MB DDR5 - GV-N960G1 GAMING-2GD ",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 4,315,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX960 OC 2048MB DDR5 - GV-N960OC-2GD",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,560,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX960 MINI OC 2048MB DDR5 - GV-N960IXOC-2GD",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,575,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX950 Xtreme Gaming 2048MB DDR5 - GV-N950XTREME-2GD",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,320,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX950 OC 2048MB DDR5 - GV-N950OC-2GD",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,910,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX950 OC 2048MB DDR5 - GV-N950WF2OC-2GD",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,910,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX760 2048MB DDR5 - GV-N760OC-2GD",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 3,887,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX750 Ti 4096MB DDR5 - GV-N75TWF2OC-4GI",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 2,780,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX750 Ti 2048MB DDR5 - GV-N75TWF2BK-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,650,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX750 Ti 2048MB DDR5 - GV-N75TOC-2GL",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,355,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX750 Ti 2048MB DDR5 - GV-N75TOC2-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,450,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX750 Ti 2048MB DDR5 - GV-N75TOC-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,450,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GTX750 2048MB DDR5 - GV-N750OC-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 2,020,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GT740 2048MB DDR5 - GV-N740D5OC-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,905,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GT740 2048MB DDR3 - GV-N740D3-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,430,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GT730 2048MB DDR5 - GV-N730D5-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,110,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GT730 2048MB DDR3 - GV-N730-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 1,050,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GT420 2048MB DDR3 - GV-N420-2GI",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 883,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Geforce GT210 1GB DDR3 GV-N210D3-1GI",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 543,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 FURY X 4GB 4096BIT GDDR5 - GV-R9FURYX-4GD",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 12,200,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 NANO 4GB 4096BIT GDDR5 - GV-R9NANO-4GD-B",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 11,650,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 390X 8GB 512BIT GDDR5 - GV-R939XG1 GAMING-8GD",
+        "MEMORY": "8GB",
+        "HARGA": "Rp 7,325,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 390 8GB 512BIT GDDR5 - GV-R939G1 GAMING-8GD",
+        "MEMORY": "8GB",
+        "HARGA": "Rp 5,900,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 380 4GB 2x256BIT GDDR5 - GV-R938G1 GAMING-4GD",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 4,450,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 380 2GB 256BIT GDDR5 - GV-R938WF2OC-2GD",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 3,380,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R7 370 2GB 256BIT GDDR5 - GV-R737WF2OC-2GD",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,675,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R7 360 2GB 128BIT GDDR5 - GV-R736OC-2GD",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,268,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R9 285 2GB 256BIT GDDR5 - GV-R9285WF2OC-2GD",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 4,280,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R7 260X 2GB 128BIT GDDR5 - GV-R726XOC-2GD",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,190,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R7 250X 2GB 128BIT GDDR3 - GV-R725XOC-2GI",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 1,790,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R7 250 2GB 128BIT GDDR3 - GV-R725OC-2GI",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 1,449,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon R7 240 2GB 128BIT GDDR3 - GV-R724OC-2GI",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 1,110,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "JENIS": "Gigabyte Radeon HD5450 1GB DDR3 GV-R545-1GI",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 575,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire AMD FIREPRO W600 2G GDDR5 ",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 9,550,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire AMD FIREPRO W7100 8G GDDR5 ",
+        "MEMORY": "8GB",
+        "HARGA": "Rp 13,290,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire AMD FIREPRO W5100 4G GDDR5 ",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 8,790,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire AMD FIREPRO W4100 2G GDDR5",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,890,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire AMD FIREPRO W2100 2G DDR3 ",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,250,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire R9 FURY X 4G DDR5",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 10,870,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire R9 NANO 4G HBM",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 9,220,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire R9 FURY 4G HBM TRI-X (UEFI)",
+        "MEMORY": "N/A",
+        "HARGA": "Rp 8,550,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 390X 8G GDDR5 TRI-X OC VERSION",
+        "MEMORY": "8GB",
+        "HARGA": "Rp 7,510,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 390 8G GDDR5 Nitro TRI-X OC VERSION",
+        "MEMORY": "8GB",
+        "HARGA": "Rp 5,750,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 380X 4G GDDR5 DUAL-X OC W/BP",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 4,170,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 380 4G GDDR5 Nitro DUAL-X OC VERSION",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 3,610,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 370 4G GDDR5 Nitro DUAL-X OC",
+        "MEMORY": "4GB",
+        "HARGA": "Rp 2,860,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 370 2G GDDR5 DUAL-X OC VERSION",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,490,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 360 2G GDDR5 NITRO ",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,020,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 360 2G GDDR5 OC VERSION",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 1,860,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon VAPOR-X R9 290X 8GB GDDR5 TRI-X",
+        "MEMORY": "8GB",
+        "HARGA": "Rp 8,570,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 285 2G GDDR5 DUAL-X OC VERSION",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 4,650,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 270X 2G GDDR5 TOXIC",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 4,170,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 270X 2G GDDR5 VAPOR-X",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 3,660,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R9 270X 2G GDDR5 DUAL-X WITH BOOST & OC",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 3,320,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 265 2G GDDR5 Dual-X ",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,540,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 260X 2G GDDR5 OC Version",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,150,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 260X 1G GDDR5 OC Version",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,930,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 250X 1G GDDR5 VAPOR-X OC Version",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,620,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 250X 1G GDDR5",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,480,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 250 2G GDDR3 PCI-E WITH BOOST",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 1,360,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 250 1G GDDR5 PCI-E WITH BOOST",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,430,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 240 2G DDR3 PCI-E WITH BOOST",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon R7 240 1G DDR5 PCI-E WITH BOOST",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 910,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon HD7730 2G GDDR5",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 940,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire Radeon HD5450 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 455,000"
+    },
+    {
+        "MERK": "Sapphire",
+        "JENIS": "Sapphire ACTIVE DISPLAY PORT TO SINGLE LINK DVI CABLE",
+        "MEMORY": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 760 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,170,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 760 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,720,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 750 Ti OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,170,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 750 2GB DDR5 Green",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,780,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 750 1GB DDR5 ",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,670,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GT 730 4GB DDR3",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 1,230,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GT 730 2GB DDR3",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 895,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 650Ti BOOST 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,770,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 650 OC 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,820,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 650 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,480,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 650 OC 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,710,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GTX 650 1GB DDR5",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 1,280,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GT 630 4096MB DDR3 128 Bit",
+        "MEMORY": "4096MB ",
+        "HARGA": "Rp 1,165,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GT 630 2048MB DDR3 128 Bit",
+        "MEMORY": "2048MB ",
+        "HARGA": "Rp 795,000"
+    },
+    {
+        "MERK": "Pixel View",
+        "JENIS": "Pixel View Geforce GT 210 1GB DDR3 64 Bit",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 435,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GT 210 1GB DDR3 64 Bit - DVI - VGA - HDMI",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 415,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTS 450 1GB DDR3 128 Bit - DVI - VGA - HDMI",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 758,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GT 630 1GB DDR3 128 Bit - DVI - VGA - HDMI",
+        "MEMORY": "1GB ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GT 710 1GB DDR3 64 Bit - DVI - HDMI - VGA",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 580,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GT 730 2GB DDR3 64 Bit - DVI - HDMI - VGA",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 660,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GT 730 2GB DDR3 128 Bit - DVI - HDMI - VGA",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GT 730 4GB DDR3 128 Bit - DVI - HDMI - VGA",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 1,130,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 750 2GB DDR5 128 Bit - DVI - HDMI - DP",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,515,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 750 TI 2GB DDR5 128 Bit - DVI - HDMI - DP",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,810,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 760 Ultimate 2GB DDR5 384 Bit - 3 DVI - Mini DP",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,500,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 760 Ultimate 4GB DDR5 384 Bit - 3 DVI - Mini DP",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 3,870,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 770 Ultimate 4GB DDR5 384 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,160,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 950 Ultimate 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 2,620,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 960 Ultimate 2GB DDR5 128 Bit",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,395,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 960 Ultimate 4GB DDR5 128 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 4,000,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 970 Ultimate Plus 4GB DDR5 256 Bit",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 6,180,000"
+    },
+    {
+        "MERK": "Manli",
+        "JENIS": "Manli Geforce GTX 980 4GB DDR5 256 Bit - TWIN COOLER",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 7,630,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GTX680 2048MB GDDR5 - AF680-2048D5H1",
+        "MEMORY": "2048MB",
+        "HARGA": "Rp 7,297,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GTX670 2048MB GDDR5 - AF670-2048D5H1",
+        "MEMORY": "2048MB",
+        "HARGA": "Rp 5,456,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GTX660 2048MB GDDR5 - AF660-2048D5H1",
+        "MEMORY": "2048MB",
+        "HARGA": "Rp 3,001,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GTX650Ti 1024MB GDDR5 - AF650TI-1024D5H3",
+        "MEMORY": "1024MB",
+        "HARGA": "Rp 1,978,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GTX650 1024MB GDDR5 - AF650-1024D5H1-V2",
+        "MEMORY": "1024MB",
+        "HARGA": "Rp 1,487,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT640 2GB DDR3 - AF640-2048D3L1",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,228,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT630 2GB DDR3 - AF630-2048D3H1",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 846,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT630 1GB DDR3 - AF630-1024D3H1",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 791,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT610 1GB DDR3 - AF610-1024D3L1",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 573,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GTX560SE 1GB GDDR5 - AF560SE-1024D5H1",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,391,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT550TI 2GB DDR3 - GT550-2048D3HG2 Green edition",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,269,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT440 2GB DDR3 - AF440-2048D3L1",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 682,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT430 1GB DDR3 - AF430-1024D3LG1 Green edition",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 648,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce GT220 1GB DDR3 - AF220-1024D3L3",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 573,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Geforce G210 1GB DDR3 - AF210-1024D3S1",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 416,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7970 3GB GDDR5 - AF7970-3072D5H1",
+        "MEMORY": "3GB",
+        "HARGA": "Rp 6,070,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7970 3GB GDDR5 - AF7970-3072D5H2",
+        "MEMORY": "3GB",
+        "HARGA": "Rp 6,070,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7950 3GB GDDR5 - AF7950-3072D5H1",
+        "MEMORY": "3GB",
+        "HARGA": "Rp 4,501,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7870 2GB GDDR5 - AF7870-2048D5H1",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 3,478,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7850 2GB GDDR5 - AF7850-2048D5S1",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,482,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7850 2GB GDDR5 - AF7850-2048D5L1",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 2,414,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7770 1GB GDDR5 - AF7770-1024D5H1",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,773,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 7750 1GB GDDR5 - AF7750-1024D5H1",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,500,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6850 1GB GDDR5 - AF6850-1024D5S1",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,978,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6790 1GB GDDR5 - AF6790-1024D5L1",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,500,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6670 1GB GDDR5 - AF6670-1024D5H2",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 1,269,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6670 2.8GB HyperMemory GDDR5 - AF6670-HM28GD5H1",
+        "MEMORY": "2.8GB",
+        "HARGA": "Rp 1,159,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6670 2GB DDR3 - AF6670-2048D3H1 ",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 1,023,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6570 2GB DDR3 - AF6570-2048D3H2",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 941,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6570 1GB DDR3 - AF6570-1024D3H2",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 832,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6450 2GB DDR3 - AF6450-2048D3L1 ",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 614,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 6450 1GB DDR3 - AF6450-1024D3L2",
+        "MEMORY": "1GB ",
+        "HARGA": "Rp 573,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 5570 2GB DDR3 - AF5570-2048D3H2",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "AFOX",
+        "JENIS": "AFOX Radeon HD 5450 3.8GB HyperMemory DDR3 - AF5450-1024D3L3-HM",
+        "MEMORY": "3.8GB",
+        "HARGA": "Rp 436,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GT 610 2048 MB DDR3",
+        "MEMORY": "2048 MB ",
+        "HARGA": "Rp 765,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GT 730 2048 MB DDR3",
+        "MEMORY": "2048 MB ",
+        "HARGA": "Rp 985,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GT 730 OC 2048 MB DDR3",
+        "MEMORY": "2048 MB ",
+        "HARGA": "Rp 1,160,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 750 OC 2048 MB DDR5",
+        "MEMORY": "2048 MB ",
+        "HARGA": "Rp 1,945,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 750 Ti 2048 MB DDR5",
+        "MEMORY": "2048 MB ",
+        "HARGA": "Rp 2,130,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 960 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,200,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 960 OC Hurricane 2GB DDR5",
+        "MEMORY": "2GB ",
+        "HARGA": "Rp 3,480,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 970 OC Hurricane 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 5,490,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 980 OC Hurricane 4GB DDR5",
+        "MEMORY": "4GB ",
+        "HARGA": "Rp 8,500,000"
+    },
+    {
+        "MERK": "Winfast",
+        "JENIS": "Winfast Geforce GTX 980TI 6GB DDR5",
+        "MEMORY": "6GB ",
+        "HARGA": "Rp 10,580,000"
+    },
+    {
+        "MERK": "Forsa",
+        "JENIS": "FORSA PCIE GT 210, 1GB, 64BIT,DDR3,DVI,HDMI",
+        "MEMORY": "1GB",
+        "HARGA": "Rp 365,000"
+    },
+    {
+        "MERK": "Forsa",
+        "JENIS": "FORSA PCIE GT 630, 2GB, DDR3, 128BIT ",
+        "MEMORY": "2GB",
+        "HARGA": "Rp 575,000"
+    },
+    {
+        "MERK": "Forsa",
+        "JENIS": "FORSA FX 5500 256MB AGP Box",
+        "MEMORY": "256MB",
+        "HARGA": "Rp 150,000"
+    },
+    {
+        "MERK": ""
+    }
+]
+}
