@@ -1,0 +1,3501 @@
+{
+  "contacts": 
+  [
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful iGame Z170 Ymir U (Z170 M.2 Support)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,950,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.Z170 Gamer (Z170 M.2 Support)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,350,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful C.B150M-K Plus V20 (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,280,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful C.H110M-K Plus V20 (H110)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,080,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Maximus VIII Formula (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 6,550,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Maximus VIII Hero Alpha (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 5,580,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Maximus VIII Impact (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,830,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Maximus VIII Hero (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,700,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Maximus VIII Gene (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,485,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Maximus VIII Ranger (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,085,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Sabertooth Z170 Mark 1 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,670,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170 Deluxe (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 5,320,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170 Pro-Gaming (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,530,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170I Pro-Gaming (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,590,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170-A (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,200,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170-K (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,625,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170P (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,495,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170P D3 (Z170)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,430,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus Z170M-Plus (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,540,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus B150M-Pro Gaming D3 (B150)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,930,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus B150M-A D3 (B150)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,585,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H170 Pro-Gaming (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,560,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H170M PLUS (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,235,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H170 Pro (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,255,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H170 Plus D3 (H170)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,935,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H170M-E D3 (H170)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,900,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H110M-D D3 (H110)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,000,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H110M-E D3 (H110)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,105,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A GAMING M9 ACK (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 7,168,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A XPOWER GAMING (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 5,490,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A GAMING M7 (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,206,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170I Gaming Pro AC (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,623,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A GAMING M5 (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,416,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A KRAIT GAMING R6 SIEGE (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,218,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A GAMING PRO (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,070,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A KRAIT GAMING (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,021,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A GAMING M3 (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,922,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A TOMAHAWK (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,626,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170M MORTAR (Z170A)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,231,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H170A GAMING PRO (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,428,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H170 GAMING M3 (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,330,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H110M GAMING (H110)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,392,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150A GAMING PRO (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,231,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150 GAMING M3 (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,132,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150M NIGHT ELF (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,846,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150M MORTAR (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,787,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150M BAZOOKA (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,638,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150M BAZOOKA D3 (B150)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,609,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z170A PC Mate (Z170A) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,624,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150M-PRO VDH (B150) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,520,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B150M-PRO VDH D3 (B150) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,510,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H170A PC Mate (H170) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,309,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H170M-PRO VDH (H170) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,758,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H110M-PRO VD DVI (H110) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H110M-PRO VH (H110) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H110M-PRO VD  DVI (H110) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,135,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H110M-C3D (Intel H110)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 995,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170X-Gaming G1 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 8,879,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170X-SOC Force (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 5,335,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170X-Gaming 7 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,545,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170X-Gaming 5 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,050,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170X-Gaming 3 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,190,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170N-Gaming 5 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,390,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170X-UD3 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,245,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170-HD3 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,650,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170-HD3  (Z170)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,415,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-Z170M-D3H (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,360,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-B150M-HD3  (B150)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,495,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H170-Gaming 3 (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,565,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H170-HD3 (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,360,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H110M-DS2  (H110)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,265,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Z170 OC FORMULA (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 5,110,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Z170 Extreme 7+ (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 4,750,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FataL1ty Z170 GAMING K6+ (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,625,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Z170 EXTREME4 (Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,870,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H170 Performance (H170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,115,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock B150 Gaming K4 (B150)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,860,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock B150 Gaming K4/D3 (B150)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,775,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H110M-GL/D3 (H110)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,080,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H110M-HDV (H110)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,220,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Gaming Z170X (Intel Z170)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 3,235,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Gaming Z170T (Intel Z170)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 2,210,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Gaming H170Z3 (Intel H170DDR3/)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1151",
+        "HARGA": "Rp 1,655,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.Z97 X3 V20 (Intel Z97 USB 3.0Msata Support)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,750,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.H97M-E V20 (Intel H97 USB 3.0)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,250,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.B85M-G V21 (Intel B85 USB 3.0)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,050,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful C.H81-DV plus V20 (Intel H81 USB 3.0)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VII Formula (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 5,620,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VII Hero (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,680,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VII Gene (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,965,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VII Ranger (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,720,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VII Impact (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,819,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Sabertooth Z97 Mark 1 (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,820,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Sabertooth Z97 Mark 2 (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,985,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Sabertooth Z97 Mark S (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,730,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Gryphon Z97 Armor Edition (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,140,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97-DELUXE (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,260,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97-PRO (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,340,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97-PRO GAMER (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,230,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97-A (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,170,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97-C (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,900,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97I-PLUS (Intel Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,399,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97-K (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,055,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z97M-PLUS (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,280,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS H97M-PLUS (Intel H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,660,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H97M-E (Intel H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,560,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H97-PLUS (Intel H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,750,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H97I-PLUS (Intel H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,876,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "Asus H97 PRO GAMER (Intel H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,110,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VI Extreme (Intel Z87) - DROP PRICE",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,910,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VI Gene (Intel Z87) - DROP PRICE",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,140,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Maximus VI Impact (Intel Z87) - DROP PRICE",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,640,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Sabertooth Z87 (Intel Z87) - DROP PRICE",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,783,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Gryphon Z87 (Intel Z87) - DROP PRICE",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,919,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS B85 Trooper (Intel B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,525,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS B85 Pro Gamer (Intel B85) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,920,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS B85M-G (Intel B85) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,295,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS H81M-E (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 905,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS H81M-A (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS H81M-C (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 930,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H81M-E33 (H81) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 855,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H81M-E35 V2 (HDMI) (H81) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 900,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H81M-P33 V2 (DVI) (H81) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 876,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H81M-P32L (H81) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 955,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H81M-ECO HDMI (H81) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,150,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H81i (H81) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,082,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85M-E45 (B85) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,333,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85M-ECO (B85) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,474,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85M-P32 (B85) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,254,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85M-P33 V3 (B85) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,285,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85-G41 PC Mate (B85) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,333,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85i-Gaming (B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,589,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85M-Gaming (B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,425,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI B85-G43 Gaming (B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,717,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H87-G43 Gaming (H87SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,787,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H87M-E35 (H87SATA3USB3) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,310,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H87-G41 PC Mate (H87SATA3USB3) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,427,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z87-G41 PC Mate (Z87SATA3USB3) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,734,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H97M-E35 (H97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,537,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H97-Gaming 3 (H97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,964,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H97-PC Mate (H97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,742,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H97M-G43 (H97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,632,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97-PC Mate (Z97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,278,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97 U3 Plus (Z97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,624,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97S SLI Plus (Z97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,700,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97i-Gaming AC (Mini ITX) (Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,974,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97i-Gaming ACK (Mini ITX) (Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,988,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97-G43 Gaming (Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,330,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97 MGaming (Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,774,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97 MPower (Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,169,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97A Gaming 7(Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,959,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97 MPower Max AC (Z97) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,749,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97S SLI Krait Edition (Z97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,467,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97 SLI Plus (Z97) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97-Gaming 3 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,478,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97-Gaming 5 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,070,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97A-Gaming 6 (Z97USB 3.1 Type C)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,972,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97-Gaming 7 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,315,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97A-Gaming 9 ACK (Z97USB 3.1 Type A) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 5,030,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI Z97 XPower AC (Z97USB 3.1 Type A) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 7,415,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-Gaming G1 Wifi-BK (Black Edition) (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 6,820,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-Gaming GT (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 5,456,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper Z97 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,165,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-Gaming 7 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,415,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-Gaming 5 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,888,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-Gaming 3 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,497,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-SOC Force (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,988,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-SOC (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,680,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-UD3H-BK (Black Edition) (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,245,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97X-UD3H (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,796,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97MX-Gaming 5 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,080,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97-HD3 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,410,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z97M-D3H (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,190,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper H6 (H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,114,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H97-Gaming 3 (H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,024,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper 5 (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 6,684,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87X-OC Force (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,140,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87X-UD5 TH (Thunderbot) (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,433,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper M5 (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,024,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87X-OC (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,480,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper Z87 (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 3,274,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87X-UD3H (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,025,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87X-D3H (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,701,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87-D3HP (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,428,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H97N-WIFI (H97SATA3USB3) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,114,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H97M-D3H (H97DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,530,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H97-HD3 (H97DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,640,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H87-HD3 (H87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,910,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-P81-D3 (H81DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,310,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-Z87M-D3H (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,978,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H87N WIFI (Z87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,995,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H87M-D3H (H87DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,705,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper B6 (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,702,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE G1.Sniper B5 (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,691,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-B85M-Gaming 3 (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,408,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-P85-D3 (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,398,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-B85M-D3H (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,337,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-B85M-DS3H-A (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,255,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-B85M-HD3-A (B85DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H81M-S2PH (H81DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,007,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H81M-DS2 (H81DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 945,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H81M-H (H81DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 985,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GA-H81M-S1 (H81DDR3SATA3)",
+        "DDR": "USB3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 923,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "GIGABYTE GP-Op Amp (Upgrade Kit For G1.Sniper 5 G1.Sniper M5 & G1.Sniper B5)",
+        "DDR": "N/A",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 627,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Fatal1ty Z97X KILLER (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,850,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "Asrock Z97 Extreme4 (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,540,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "Asrock Fatal1ty Z97 KILLER (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,360,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "Asrock Fatal1ty Z97 Anniversary (Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,020,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "Asrock Fatal1ty H97 PERFORMANCE (H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,970,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "Asrock H97M Anniversary (H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,165,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "Asrock H97M PERFORMANCE (H97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Z87E-ITX (Z87) (Intel Haswell Refresh Compatible)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Z87 KILLER (Z87) (Intel Haswell Refresh Compatible)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,110,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Z87 Pro4 (Z87) (Intel Haswell Refresh Compatible)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,570,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock B85M-Pro 3 (B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 985,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock B85 KILLER (B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,495,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock B85M-HDS (B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H87M-ITX (H87) (Intel Haswell Refresh Compatible)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H81M-HDS (H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 860,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H81M-DGS (H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H81M-VG4 (H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 780,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z97 Machine (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,100,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z97-PK (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,675,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z87H3-M (Intel Z87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,580,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z87H3-A3X Drone (Intel Z87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,665,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z87H3-A2X Golden (Intel Z87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 5,000,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z87H3-A2X Extreme (Intel Z87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 4,330,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS B85H3-M7 (Intel B85) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,195,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS B85H3-M3 (Intel B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,265,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H81H3-M3S (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 960,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H81H3-MV (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 757,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H81H3-M4 (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H87H3-M3 (Intel H87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,194,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H87H3-M (Intel H87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,180,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Z97X-Gaming (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,701,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Z97WE+ (Intel Z97)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 2,180,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Z87X 3D (Intel Z87)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,901,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI K1-I (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 1,142,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H81MHP2-LSP (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 778,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H81MDC-LSP (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H81MHV3 (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H81MDV3 (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 728,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H81MLV3 (Intel H81)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 707,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar B85MG (Intel B85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1150",
+        "HARGA": "Rp 819,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS P8H61M-C (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 835,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS P8H61M-E (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS P8H61M-K (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS P8H61M-A/USB3 (Intel H61 USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H61M-P31/W8 (Intel H61) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H61M-P32/W8 LPT (Intel H61) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 885,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI H61M-P20 (Intel H61) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 756,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H61N-USB3 (LGA155H61USB 3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 1,214,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H61M-S2P R3 (H61. )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 959,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H61M-S2PV (H61. )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 937,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H61M-DS2 (H61. )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 893,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-H61M-S1 (H61. )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H61M-VS4 (Intel H61SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 542,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H61M-VG4 (Intel H61SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 670,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H61M-VG3 (Intel H61SATA2) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 660,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H61M-PS4 (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 615,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock H61M-HP4 (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 615,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI Z77X (Intel Z77)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 2,110,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TZ77A(Intel Z77)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TZ77MXE (Intel Z77)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 1,665,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar B75MU3B (Intel B75)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TZ68A+ USB 3.0 (Intel Z68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TP67XE (Intel P67)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H61IL (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 555,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H61MGP (Intel H61USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 710,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI H61S3 (Intel H61USB 3.0)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 675,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H61MGV3 (Intel H61USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 665,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H61MLV (Intel H61USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 635,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H61MLV2 (Intel H61USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 635,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar H61MLV3 (Intel H61USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 635,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z77H2-A2X Deluxe (Intel Z77USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 2,495,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS Z77H2-A3 (Intel Z77USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 1,660,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS X77H2-A3 (Intel H77USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H77H2-M3 (Intel H77USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS B75H2-M3 (Intel B75USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-A2 Deluxe (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 1,295,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-A (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-M3 (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-M7 (Intel H61USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 1,160,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-M12 (Intel H61D-SUB)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 627,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-MV (Intel H61)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 690,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-M16 (Intel H61HDMI)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 757,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS H61H2-M17 (Intel H61HDMI)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 1155",
+        "HARGA": "Rp 660,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z170PE-D8WS (Intel® C612 PCHQuad Channel PCIE 3.0SATA3USB3) ",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 10,550,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS X99 Sabertooth (Intel X99Quad Channel PCIE 3.0SATA3USB3)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,440,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS X99 Deluxe (Intel X99Quad Channel PCIE 3.0SATA3USB3)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 7,135,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS X99-A (Intel X99Quad Channel PCIE 3.0SATA3USB3)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 4,990,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS RAMPAGE V EXTREME (Intel X99 Quad Channel PCIE 3.0 SATA3 USB 3.1)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 7,320,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A GODLIKE GAMING (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 9,361,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A Gaming 9 ACK (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 7,810,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A Gaming 7 (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,490,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A Mpower (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 4,749,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99S SLI Plus (X99) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 4,908,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A SLI Plus (X99) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 4,593,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A Krait Edition (X99) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,065,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI X99A Raider (X99) (By WPG)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 4,120,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-X99-Gaming G1 Wifi (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 6,950,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-X99-SOC Force (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 6,400,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-X99-Gaming 5 (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,050,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-X99-UD5 Wifi (X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,630,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-X99-UD4 (LGA 2011v3X99)",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,190,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Fatal1ty X99 XKiller (Intel X99 Quad Channel PCIE 3.0 SATA3 USB3) - New!",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 5,050,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Fatal1ty X99 Extreme4 (Intel X99 Quad Channel PCIE 3.0 SATA3 USB3) - New!",
+        "DDR": "DDR4",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 2011v3",
+        "HARGA": "Rp 3,870,000"
+    },
+    {
+        "MERK": "HP",
+        "NAMA": "HP IG41-uATX Rev 1.1 (PCIe16x vga.sc.lan)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "Jetway",
+        "NAMA": "Jetway MI5-G41SGMD3 (G41) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "Rp 716,000"
+    },
+    {
+        "MERK": "Xtreme",
+        "NAMA": "Xtreme G41 (G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "Rp 540,000"
+    },
+    {
+        "MERK": "Xtreme",
+        "NAMA": "Xtreme G41 + Dual Core 2.33Ghz (G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "Rp 668,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS P5G41T-M LX3 Plus (Intel G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI G41M-P33 Combo (LGA755Intel G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-G41M-Combo (Intel G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "Rp 1,130,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock G41M-VS3 R2 (Intel G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar G41D3+ (Intel G41)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL LGA 775",
+        "HARGA": "Rp 997,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Q1900B Intel Quad-Core Processor J1900 2 GHzmicro ATXHDMI",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock Q1900M Intel Quad-Core Processor J1900 2 GHzmicro ATXHDMI",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "Rp 1,170,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock D1800M Intel Dual-Core Processor J1800 2.41 GHzmicro ATXHDMI",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI J1800I (Processor Onboard Intel Celeron J1800  ) (By WPG)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "Rp 1,130,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI C847MS-E33 (Processor Onboard,NM70)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "Rp 1,132,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar N3150NH (INTEL Celeron Braswell Quad Core 1.8Ghz-2.08Ghz HDMI VGA)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "Rp 1,060,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar J1900NH2 (INTEL Celeron J1900 (2.0GHZ) Quad-Core Processor HDMI VGA)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "Rp 1,026,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar NM70I-1037U (INTEL Celeron 1037U 1.8Ghz Dual-Core Processor HDMI VGA)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL Atom On Board Processor",
+        "HARGA": "Rp 916,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS P8B-X (Single Socket SATA2)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 2,387,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z9PA-D8 (Dual Socket LGA 2011SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 5,661,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Z9PR-D12 (Dual Socket LGA 2011SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 6,547,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel DBS1200BTSR Server Board",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 2,278,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel DBS1200V3RPLIntel® Xeon® processor E3 v3 series LGA1150",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 3,645,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel DBS1200V3RPSIntel® Xeon® processor E3 v3 series LGA1150",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 2,600,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel E-Series Server Board S2600IP4 - Intel® Server Board S2600IP4",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 8,934,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel E-Series Server Board W2600CR2 - Intel® Workstation Board W2600CR2",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 8,934,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel E-Series Server Board DBS2600CP2 - Intel® Server Board S2600CP2",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 6,899,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel E-Series Server Board DBS2400SC2 - Intel® Server Board S2400SC2",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 4,706,000"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel E-Series Server Board S2600CW2 - Intel® Server Board S2600CW2",
+        "DDR": "SERVER",
+        "INTEL/AMD": "INTEL",
+        "SOCKET": "INTEL For Server",
+        "HARGA": "Rp 8,000,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.A970X X5 V14 ((AMD970)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,050,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS CROSSHAIR V Formula-Z ( ,AMD 990FX 1600USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 3,480,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS Sabertooth 990FX R2.0 ( ,AMD 990FX 1600USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,940,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M5A99X EVO R2.0 Win 8 Ready (AMD990FX)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,135,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M5A97 EVO R2.0 (AMD970)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,665,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M5A97 R2.0 (AMD970)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,530,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M5A78L-M/USB3 (AMD760G)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 940,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M5A78L-M LE/USB3 (AMD760G)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 840,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M5A78L-M LX V2 (AMD760G)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI 760GM-P23 (FX) (AMD 760,)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 789,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI 970A-G43 (AMD970A) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,332,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI 970A-SLI Krait Edition (AMD970AUSB 3.1 Type A)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,737,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI 970-Gaming (AMD970A) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,717,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI 990FXA-Gaming (AMD 990FXUSB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,774,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-990FXA-UD3 R5 (AMD990FXUSB3 ,SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,298,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-990FXA-UD3 (AMD990FXUSB3 ,SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,135,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-970A-D3P (AMD970AUSB3 ,SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,620,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock 990FX EXTREME4 (/AM3AMD 990USB3SATA3 )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,470,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock 990FX EXTREME3 (/AM3AMD 990USB3SATA3 )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,810,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock 990FX KILLER (/AM3AMD 990USB3SATA3 )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 2,225,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock 970 Pro3 (/AM3AMD 970FXUSB3SATA3Front Panel USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,100,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock N68-S (AM3Geforce 7025)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TA970 (AMD970 2000USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 1,197,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A960D+ (AMD960 2000USB3SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3/AM3+",
+        "HARGA": "Rp 797,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS M-A (AMD )",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM1",
+        "HARGA": "Rp 555,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI i (Mini ITX)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM1",
+        "HARGA": "Rp 552,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-M-S2P (AMD USB3 ,SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM1",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-78LMT-USB3 (AMD 760G)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3",
+        "HARGA": "Rp 948,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TA785G3 / G3+ / HD (AMD 785G ,)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A780L3G (AMD780L)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3",
+        "HARGA": "Rp 745,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A780L3C2 (AMD780L)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3",
+        "HARGA": "Rp 769,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A780L / LE (/AM2+AMD760GDDR2Hybrid Crossfire)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM3",
+        "HARGA": "Rp 760,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A780LB (AMD760GDDR2)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  AM2/AM2+",
+        "HARGA": "Rp 783,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.A88K Wi-Fi V14 (FA88Wifi)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 980,000"
+    },
+    {
+        "MERK": "Colorful",
+        "NAMA": "Colorful Battle AXE C.A68HM-K V14 (A68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A68Hi (AMD A68USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,234,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A68HM-E33 V2 (AMD A68USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 888,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A68HM Grenade (AMD A68USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 927,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A78M-E35 V2 (AMD A78USB3) ",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 957,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A78M-E45 V2 (AMD A78USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,214,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A88XM-P33 V2 (AMD A88XUSB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,214,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A88XM-E35 V2 (AMD A88XUSB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,313,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A88X-G41 PC Mate V2 (AMD A88XUSB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,411,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A88XI-AC V2 (AMD A88XUSB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,777,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A88XM-Gaming (AMD A88XUSB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI A88X-G45 Gaming (AMD A88XUSB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 2,122,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A88XM-PLUS (A88)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,440,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A88XM-A (A88)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,380,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A88X-GAMER (A88)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,875,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A88X - Bolton D4 (A88)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 2,460,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A68HM-K (FM2A68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A68HM-E (FM2A68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 870,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS A68HM-PLUS (FM2A68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 940,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte G1.Sniper A88X (AMD A88X2xVGA2PCI-E)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 2,024,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-F2A88XN-WIFI (AMD A88X2xVGA1PCI-E)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,805,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-F2A88XM-HD3 (AMD A88X2xVGA2PCI-E)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,475,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-F2A68HM-DS2 (AMD A682xVGA2PCI-E)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 909,000"
+    },
+    {
+        "MERK": "Gigabyte",
+        "NAMA": "Gigabyte GA-F2A68HM-H (AMD A682xVGA2PCI-E)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 931,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A88X EXTREME6+ (AMD A88X)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,272,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A88X KILLER (AMD A88X)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,575,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A88M-DG3+ (AMD A88X)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,005,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A88M-HD+ (AMD A88X)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A68M-HD+ (AMD A68H)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 765,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A68M-DG3+ (AMD A68H)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 705,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A58M-VG3+ (AMD A58)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 640,000"
+    },
+    {
+        "MERK": "ASRock",
+        "NAMA": "ASRock FM2A75M-ITX (AMD A75)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,098,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A68F2P-M4 (A68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 930,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A68F2-M2 (A68)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 825,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A58F2P-M4 (A58)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 680,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A55F2P-M2 (A55)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 737,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar Hi-Fi A70U3P (AMD A70MSATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 824,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI K1-A (AMD A88XSATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,142,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI A88W 3D (AMD A88SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 1,560,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A88MQ (AMD A88SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 935,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A58MDP (AMD A58SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 783,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A58MD (AMD A58SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 701,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A58ML (AMD A58SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 650,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A58ML2 (AMD A58SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2/FM2+",
+        "HARGA": "Rp 650,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS F2A85-M Pro (A85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 1,955,000"
+    },
+    {
+        "MERK": "ASUS",
+        "NAMA": "ASUS F2A85-V Pro (A85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 1,970,000"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI -A75IA-E53 (Wifi 802.11 b/g/n + BT 3.0) (AMD A75USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 997,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI A85W 3D (AMD A85XSATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI A85S (AMD A85XSATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 1,017,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI A85S3 (AMD A85XSATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 892,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar HI-FI A55S3 (AMD A55SATA3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A85F2-A Golden(A85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 2,665,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A85F2-A Deluxe (A85)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 1,282,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A55F2-M4 (A55,Lan 10/100)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 614,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A55F2-M3 (A55)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 757,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A75F2-A2 Deluxe (A75)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM2",
+        "HARGA": "Rp 1,395,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TA75A+ (AMD75SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "Rp 976,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar TA75M (AMD75SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "Rp 921,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A75MH (AMD55SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "Rp 935,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A75MG (AMD55SATA3USB3)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "Rp 783,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A55MH (AMD55)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A75F-M (A75)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "Rp 764,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS A75F-M2 (A75)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  FM1",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "MSI",
+        "NAMA": "MSI E3501A-E45 (AMD E350 Dual Core 1.6GhzUSB3SATA3Mini ITX)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  On Board Processor",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A68N-5000 (Built-up CPU AMD APU A4-5000 Quad CoreHDMIHD8330)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  On Board Processor",
+        "HARGA": "Rp 965,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A68N-5200 (Built-up CPU AMD APU A6-5200 Quad CoreHDMIHD8400)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  On Board Processor",
+        "HARGA": "Rp 980,000"
+    },
+    {
+        "MERK": "Biostar",
+        "NAMA": "Biostar A68N-2100 (Built-up CPU AMD E1-2100 Dual CoreHDMIHD8210)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  On Board Processor",
+        "HARGA": "Rp 780,000"
+    },
+    {
+        "MERK": "ECS",
+        "NAMA": "ECS HDC-I (AMD A50MOnboard AME 3-350HD6310USB3DVIHDMIEsata)",
+        "DDR": "DDR3",
+        "INTEL/AMD": "AMD",
+        "SOCKET": "AMD  On Board Processor",
+        "HARGA": "Rp 1,766,000"
+    }
+]
+}
