@@ -1,0 +1,4325 @@
+{
+  "contacts": 
+  [
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HD710 1TB (Antishock & Waterproof) USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 850,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HD710 2TB (Antishock & Waterproof) USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,379,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HD710 500GB (Antishock & Waterproof) USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 713,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HD710 750GB (Antishock & Waterproof) USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "750GB",
+        "HARGA": "Rp 773,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HV620 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 740,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HV620 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,220,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata HV620 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 625,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Apple",
+        "NAMA": "Apple Airport Time Capsule 2TB (5 Th Gen) - ME177",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 4,850,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Apple",
+        "NAMA": "Apple Airport Time Capsule 3TB (5 Th Gen) - ME182",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 6,300,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "Cable USB To USB 3.0 - 50CM (For USB 3.0 Port Device)",
+        "SSD/HDD": "HDD",
+        "SIZE": "TB",
+        "HARGA": "Rp 25,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Dell",
+        "NAMA": "Dell Backup 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 860,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Fujitsu",
+        "NAMA": "Fujitsu 2.5\" 80GB IDE",
+        "SSD/HDD": "HDD",
+        "SIZE": "80GB",
+        "HARGA": "Rp 614,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi 2.51TB SATA3 16MB 7200RPM - Garansi 3 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 850,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi 2.51TB SATA3 8MB 5400RPM - Garansi 3 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 790,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi 2.5320GB SATA2 8MB - 5400RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 420,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi 2.5500GB SATA3 16MB 7200RPM - 7mm - Garansi 3 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 630,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi 2.5500GB SATA3 8MB 5400RPM - 7mm - Garansi 3 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 565,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi Touro 1TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 810,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi Touro 500GB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 635,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi Touro Desk 2TB - USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi Touro Desk Pro 4TB 7200RPM - USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi Touro S 1TB - USB 3.0 - 7200 RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 910,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Hitachi",
+        "NAMA": "Hitachi Touro S 500GB - USB 3.0 - 7200 RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 700,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Wi-Drive 16GB (Wifi Support To iPad, iPhone, Android)",
+        "SSD/HDD": "HDD",
+        "SIZE": "16GB",
+        "HARGA": "Rp 610,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Wi-Drive 32GB (Wifi Support To iPad, iPhone, Android)",
+        "SSD/HDD": "HDD",
+        "SIZE": "32GB",
+        "HARGA": "Rp 995,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot Gauntlet Aero 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,860,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot Gauntlet Aero 500GB",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 1,310,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot PHOENIX 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 8,180,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung 2.5\" 320GB SATA - ST320LM001",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 390,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung 2.5\" 500GB SATA",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 593,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 120GB IDE",
+        "SSD/HDD": "HDD",
+        "SIZE": "120GB",
+        "HARGA": "Rp 170,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 160GB IDE",
+        "SSD/HDD": "HDD",
+        "SIZE": "160GB",
+        "HARGA": "Rp 210,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 160GB SATA2",
+        "SSD/HDD": "HDD",
+        "SIZE": "160GB",
+        "HARGA": "Rp 160,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 1TB SATA3 - ST100DM003",
+        "SSD/HDD": "HDD",
+        "SIZE": "6GB",
+        "HARGA": "Rp 678,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 1TB SSHD",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 995,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 1TB SV35 For CCTV",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 770,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2.5\" SSHD 1TB",
+        "SSD/HDD": "SHDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,105,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2.5\" SSHD 500GB, SSD 8GB",
+        "SSD/HDD": "SHDD",
+        "SIZE": "500GB+8GB",
+        "HARGA": "Rp 1,139,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2.51TB SATA 8MB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 710,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2.5320GB SATA 8MB 5400RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 425,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2.5500GB SATA 8MB 5400RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 510,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2.5500GB SATA3 32MB 7200RPM - 7mm - ST500LM021",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 650,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2TB For NAS",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,290,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2TB SATA3 - 7200 RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 980,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2TB SSHD",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,310,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 2TB SV35 For CCTV 7200RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,220,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 300GB SAS 15000RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "300GB",
+        "HARGA": "Rp 3,751,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 320GB SATA2",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 255,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 3TB For NAS",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 3TB SATA3 64MB - 7200 RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,345,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 3TB SV35 For CCTV",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,540,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 450GB SAS 15000RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "450GB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 4TB For NAS",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,140,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 4TB SATA3",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 1,970,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 4TB SSHD",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,260,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 4TB SV35 For CCTV",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,330,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 500GB SATA3 - ST500DM002",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 580,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 600GB SAS 15000RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "600GB",
+        "HARGA": "Rp 5,183,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 6TB For NAS",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 4,365,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate 80GB SATA2",
+        "SSD/HDD": "HDD",
+        "SIZE": "80GB",
+        "HARGA": "Rp 110,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus Desktop 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,310,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus Desktop 3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,565,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus Desktop 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,095,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus Desktop 5TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 2,700,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus SLIM Edition 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 840,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus SLIM Edition 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,310,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus SLIM Edition 4TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,230,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Backup Plus SLIM Edition 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 640,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Central 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,645,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Central 3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,960,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Central 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,430,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 825,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,295,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 605,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion Desktop 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,260,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion Desktop 3TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,550,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion Desktop 4TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,135,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Expansion Desktop 5TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 3,400,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Personal Cloud 3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,210,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Personal Cloud 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,710,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Personal Cloud 4TB - 2 Bay",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 4,268,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Personal Cloud 5TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 3,455,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Personal Cloud 5TB - 2 Bay",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 6,904,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Personal Cloud 6TB - 2 Bay",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 5,415,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Video 3.5 / Pipeline 1TB For CCTV - ST1000VM002",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 630,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Video 3.5 / Pipeline 2TB For CCTV - ST2000VM003",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 880,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Wireless 500GB",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 1,020,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Wireless Plus 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 2,135,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate Wireless Plus 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 2,710,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 690,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate1TB SATAIII",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,360,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,080,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate2TB SATAIII - ST2000NM0011 - Grs 1 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,090,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,395,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate3TB SATAIII - ST3000NM0033 - Grs 1 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,460,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,105,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate4TB SATAIII - ST4000NM0033 - Grs 1 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,080,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,645,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Seagate",
+        "NAMA": "Seagate6TB SATAIII",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 6,790,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power A30 Antishock 1TB USB3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 950,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power A30 Antishock 500GB USB3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "50GB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Armor A65 Antishock & Waterproof 1TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,162,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Armor A65 Antishock & Waterproof 2TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,855,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Armor A65M Antishock & Waterproof 1TB USB3.0 (For Mac) By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,190,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Armor A65M Antishock & Waterproof 2TB USB3.0 (For Mac) By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 2,000,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Armor A80 Antishock & Waterproof 1TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,245,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Armor A80 Antishock & Waterproof 2TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,910,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Diamond D06 1TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,003,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Diamond D06 2TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,773,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Stream S03 1TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,025,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Silicon Power",
+        "NAMA": "Silicon Power Stream S03 2TB USB3.0 By NE",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,795,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Sony",
+        "NAMA": "Sony 1TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 810,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Sony",
+        "NAMA": "Sony 2TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Sony",
+        "NAMA": "Sony 500GB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 660,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 1TB SATA3 7200RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 620,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 2.51TB SATA 8MB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1GB",
+        "HARGA": "Rp 645,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 2.5320GB SATA 8MB",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 405,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 2.5500GB SATA 8MB 5400RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 511,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 2.5750GB SATA 8MB 5400RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "750GB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 2TB SATA3 7200RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 920,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 3TB SATA3 7200RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,270,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 4TB SATA3 7200RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,170,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba 500GB SATA3 7200RPM",
+        "SSD/HDD": "HDD",
+        "SIZE": "500TB",
+        "HARGA": "Rp 525,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Basic 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 785,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Basic 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 600,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Connect 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 860,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Connect 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,385,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Connect 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 660,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Desktop 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,241,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Desktop 3TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,610,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Simple II 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 820,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Simple II 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 620,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Slim II 1 TB USB 3.0 (With Backup Software + Compatible Mac)",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 870,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Canvio Slim II 500 GB USB 3.0 (With Backup Software + Compatible Mac)",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 660,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend 32GB Storejet Cloud 10K",
+        "SSD/HDD": "HDD",
+        "SIZE": "32GB",
+        "HARGA": "Rp 810,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend 64GB Storejet Cloud 10K",
+        "SSD/HDD": "HDD",
+        "SIZE": "64GB",
+        "HARGA": "Rp 962,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Softcase Original (Good Quality) ",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 60,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 25 - Antishock - 2TB M3 / H3 / H3B USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,495,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 25 A3 1TB - Antishock - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 820,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 25 D3 1TB - Antishock - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 830,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 25 M3 / H3 500GB - Antishock - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 845,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 25 M3B / H3 / H3B 1TB - Antishock - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 905,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 35T3 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,490,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 35T3 3TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,648,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 35T3 4TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,183,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend Storejet 35T3 8TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 4,490,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "U-Reach",
+        "NAMA": "U-Reach HDD 1-11 SATA",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 28,903,000",
+        "JENIS": "HDD Duplicator"
+    },
+    {
+        "MERK": "U-Reach",
+        "NAMA": "U-Reach HDD 1-15 SATA",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 34,427,000",
+        "JENIS": "HDD Duplicator"
+    },
+    {
+        "MERK": "U-Reach",
+        "NAMA": "U-Reach HDD 1-3 SATA",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 11,853,000",
+        "JENIS": "HDD Duplicator"
+    },
+    {
+        "MERK": "U-Reach",
+        "NAMA": "U-Reach HDD 1-5 SATA",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 14,799,000",
+        "JENIS": "HDD Duplicator"
+    },
+    {
+        "MERK": "U-Reach",
+        "NAMA": "U-Reach HDD 1-7 SATA",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 22,015,000",
+        "JENIS": "HDD Duplicator"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 2.5\" 1TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 840,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 2.5\" 2TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,330,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 2.5\" 3TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,350,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 2.5\" 500GB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 645,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 2.5\" 750GB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "750GB",
+        "HARGA": "Rp 650,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 2TB 3.5\" - New Model ! USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,410,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 3TB 3.5\" - New Model ! USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,790,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 4TB 3.5\" - New Model ! USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,305,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Elements 5TB 3.5\" - New Model ! USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 2,760,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 2,050,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud 3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,365,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 3,145,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 4,805,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 5,700,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud DL2100 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 8,460,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2 10TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "10TB",
+        "HARGA": "Rp 11,220,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 11,680,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 2,680,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 5,540,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 6,690,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 7,970,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX2100 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 10,810,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX4 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 15,637,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX4 16TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "16TB",
+        "HARGA": "Rp 19,375,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX4 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 6,655,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud EX4 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 13,169,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror (Gen 2) 4TB - New",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 4,770,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror (Gen 2) 6TB - New",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 6,130,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror (Gen 2) 8TB - New",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 7,600,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror 10TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "10TB",
+        "HARGA": "Rp 9,620,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 9,910,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 4,800,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 5,950,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Cloud Mirror 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 6,930,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Passport Ultra Metal Edition 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,180,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Passport Ultra Metal Edition 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,690,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD My Passport Ultra Metal Edition 3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,590,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Duo 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 9,340,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Duo 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 4,660,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Duo 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 5,600,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Duo 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 6,530,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook For Mac 2TB - USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,620,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook For Mac 3TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,870,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook For Mac 6TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,750,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Personal Storage 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,405,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Personal Storage 3TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,735,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Personal Storage 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,340,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Personal Storage 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,675,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Personal Storage 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 4,380,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Pro 10TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "10TB",
+        "HARGA": "Rp 13,090,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Pro 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 14,950,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Pro 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 9,800,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Pro 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 11,220,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Studio 1TB - USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,870,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Studio 2TB - USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 2,150,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Studio 3TB - USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,430,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Studio 4TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 3,080,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Thunderbolt Duo With TB Cables 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 5,680,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Thunderbolt Duo With TB Cables 6TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 6,350,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook Thunderbolt Duo With TB Cables 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 7,460,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Mybook VelociRaptor Duo 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 10,550,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Nomad Rugged Case",
+        "SSD/HDD": "HDD",
+        "SIZE": "N/A",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Air 1TB USB 3.0 - Slim ",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport AV-TV 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,460,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport AV-TV 500GB",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 1,120,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport For Mac 1TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport For Mac 2TB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport For Mac 500GB - USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Pro 2TB USB 3.0 ",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 4,660,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Pro 4TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 5,600,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Studio 1TB FW 800",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,870,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Studio 2TB FW 800",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 2,430,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra 1TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 875,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra 2TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,395,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra 3TB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,430,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra 500GB USB 3.0",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 700,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra For Mac 1TB - USB 3.0 - WDBJBS0010BSL-PESN",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,090,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra For Mac 2TB - USB 3.0 - WDBCGL0020BSL-PESN",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,640,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Ultra For Mac 3TB - USB 3.0 - WDBCGL0030BSL-PESN",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,430,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Wireless 1TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 2,720,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Wireless 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 3,370,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Passport Wireless 500GB",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 2,220,000",
+        "JENIS": "HDD Eksternal 2.5 Without Adapter Plug USB"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS5100 2TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 34,009,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS5100 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 40,185,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS5100 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 45,219,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS6100 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 56,344,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS6100 16TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "16TB",
+        "HARGA": "Rp 64,761,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS6100 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 45,599,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DS6100 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 49,265,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DX4000 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 20,516,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DX4000 16TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "16TB",
+        "HARGA": "Rp 26,339,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DX4000 4TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 12,535,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel DX4000 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 18,189,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel RX4100 12TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "12TB",
+        "HARGA": "Rp 28,623,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel RX4100 16TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "16TB",
+        "HARGA": "Rp 33,276,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WD Sentinel RX4100 8TB",
+        "SSD/HDD": "HDD",
+        "SIZE": "8TB",
+        "HARGA": "Rp 27,157,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 120GB IDE 8MB",
+        "SSD/HDD": "HDD",
+        "SIZE": "120GB",
+        "HARGA": "Rp 190,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 160GB SATA2 - Garansi 1 Tahun",
+        "SSD/HDD": "HDD",
+        "SIZE": "160GB",
+        "HARGA": "Rp 170,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 1TB 10000RPM - Velociraptor - WD1000DHTZ ",
+        "SSD/HDD": "HDD",
+        "SIZE": "1GB",
+        "HARGA": "Rp 3,600,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 1TB SATA3 64MB - Caviar Black Ver.2 - WD1003FZEX - Garansi 5 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,130,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 1TB SATA3 64MB - Caviar Blue - WD10EZEX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 695,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5\" 1TB SATA3 5400RPM 16MB - 7mm - WD10SPCX",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,095,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5\" 1TB SATA3 5400RPM 16MB - Caviar Red - WD10JFCX",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 950,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5\" 320GB SATA 7200RPM - Scorpio Black",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 700,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5\" 500GB SATA 7200RPM SATA3 - Scorpio Black",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 780,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5\" 750GB SATA 7200RPM - Scorpio Black",
+        "SSD/HDD": "HDD",
+        "SIZE": "750GB",
+        "HARGA": "Rp 1,360,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5\" Black 2 Dual Drive (1TB HDD + 120GB SSD)",
+        "SSD/HDD": "SHDD",
+        "SIZE": "1TB+120GB",
+        "HARGA": "Rp 4,597,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.51TB SATA 8MB - Scorpio Blue ",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 755,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.52TB SATA3 - 15mm - WD20NPVZ",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,710,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5320GB SATA 16MB",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 425,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2.5500GB SATA 8MB - Scorpio Blue",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 585,000",
+        "JENIS": "HDD Internal 2.5 - For Notebook"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2TB SATA3 64MB - Caviar Black - WD2003FZEX - Garansi 5 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,820,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2TB SATA3 64MB - Caviar Blue - WD20EZRZ - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,035,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2TB SATA3 64MB - Caviar Red - WD20EFRX (For NAS) - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,315,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 2TB SATA3 64MB - Green Power - WD20EZRX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,035,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 320GB IDE 8MB - Garansi 1 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 280,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 320GB SATA2 8MB - Garansi 1 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "320GB",
+        "HARGA": "Rp 240,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 3TB SATA3 64MB - Caviar Black Ver.2 - WD3003FZEX - Garansi 5 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 2,365,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 3TB SATA3 64MB - Caviar Blue - WD30EZRZ - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,385,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 3TB SATA3 64MB - Caviar Red - WD30EFRX (For NAS) - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,600,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 3TB SATA3 64MB - Green Power - WD30EZRX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,395,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 4TB SATA3 64MB - Caviar Black Ver.2 - WD4003FZEX - Garansi 5 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 3,065,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 4TB SATA3 64MB - Caviar Blue - WD40EZRZ - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,000,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 4TB SATA3 64MB - Caviar Red - WD40EFRX (For NAS) - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,305,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 4TB SATA3 64MB - Green Power - WD40EZRX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 1,995,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 500GB SATA3 16MB - Caviar Blue - WD5000AAKX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 605,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 500GB SATA3 32MB - Caviar Black Ver.2 - WD5003AZEX - Garansi 5 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 950,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 5TB SATA3 64MB - Caviar Blue - WD50EZRZ - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 2,685,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 5TB SATA3 64MB - Caviar Red - WD50EFRX (For NAS) - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 3,025,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 5TB SATA3 64MB - Green Power - WD50EZRX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 2,490,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 6TB SATA3 64MB - Caviar Blue - WD60EZRZ - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,270,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 6TB SATA3 64MB - Caviar Red - WD60EFRX - Garansi 3 Th (For NAS)",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,765,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 6TB SATA3 64MB - Green Power - WD60EZRX - Garansi 2 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,315,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC 80GB IDE 8MB",
+        "SSD/HDD": "HDD",
+        "SIZE": "80GB",
+        "HARGA": "Rp 170,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC AV GP / Green 1TB For CCTV 24 Hours",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "N/A",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC AV GP / Green 500GB For CCTV 24 Hours - Garansi 1 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "500GB",
+        "HARGA": "Rp 450,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS RE 2TB 7200RPM SATA3 - WD2000FYYZ (Ready !!!)",
+        "SSD/HDD": "HDD",
+        "SIZE": "2GB",
+        "HARGA": "Rp 2,428,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS RE 4TB 7200RPM SATA3 - WD4000FYYZ (Ready !!!)",
+        "SSD/HDD": "HDD",
+        "SIZE": "4GB",
+        "HARGA": "Rp 5,950,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS SE 2TB 7200RPM SATA3 - WD2000F9YZ (Ready !!!)",
+        "SSD/HDD": "HDD",
+        "SIZE": "2GB",
+        "HARGA": "Rp 2,050,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS SE 3TB 7200RPM SATA3 - WD3000F9YZ (Ready !!!)",
+        "SSD/HDD": "HDD",
+        "SIZE": "3GB",
+        "HARGA": "Rp 2,870,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS SE 4TB 7200RPM SATA3 - WD4000F9YZ (Ready !!!)",
+        "SSD/HDD": "HDD",
+        "SIZE": "4GB",
+        "HARGA": "Rp 3,890,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS XE 300GB 10000RPM SAS - WD3001HKHG",
+        "SSD/HDD": "HDD",
+        "SIZE": "300GB",
+        "HARGA": "Rp 3,178,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC NAS XE 900GB 10000RPM SAS - WD9001HKHG",
+        "SSD/HDD": "HDD",
+        "SIZE": "900GB",
+        "HARGA": "Rp 8,048,000",
+        "JENIS": "HDD Internal 3.5 - For Server"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC Purple 1TB For CCTV 24 Hours - WD10PURX - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 705,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC Purple 2TB For CCTV 24 Hours - WD20PURX - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "2TB",
+        "HARGA": "Rp 1,115,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC Purple 3TB For CCTV 24 Hours - WD30PURX - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "3TB",
+        "HARGA": "Rp 1,490,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC Purple 4TB For CCTV 24 Hours - WD40PURX - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "4TB",
+        "HARGA": "Rp 2,215,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC Purple 5TB For CCTV 24 Hours - WD50PURX - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "5TB",
+        "HARGA": "Rp 2,950,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Western Digital",
+        "NAMA": "WDC Purple 6TB For CCTV 24 Hours - WD60PURX - Garansi 3 Th",
+        "SSD/HDD": "HDD",
+        "SIZE": "6TB",
+        "HARGA": "Rp 3,790,000",
+        "JENIS": "HDD Internal 3.5 For Desktop PC"
+    },
+    {
+        "MERK": "Xiaomi",
+        "NAMA": "Xiaomi Mi Smart Router Dual Band AC Gigabit 802.11ac Including 1TB HDD",
+        "SSD/HDD": "HDD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 1,780,000",
+        "JENIS": "HDD Eksternal 3.5 Must Use Adapter"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP550 120GB SATA III ",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 612,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP550 240GB SATA III ",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 960,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP600 128GB SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 725,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP600 256GB SATA III ",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,190,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP600 64GB SATA III ",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 565,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP900/SP920 128GB SATA III + FREE Bracket",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 785,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP900/SP920 1TB SATA III + FREE Bracket",
+        "SSD/HDD": "SSD",
+        "SIZE": "1TB",
+        "HARGA": "Rp 5,516,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP900/SP920 256GB SATA III + FREE Bracket",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,260,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP900/SP920 512GB SATA III + FREE Bracket",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,325,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SP900/SP920 64GB SATA III + FREE Bracket",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 620,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir SSD V1 Series 128GB (R:530MB/S W:410 MB/s)",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 570,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 120GB CSSD-F120GBLSB Force Series LS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 785,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 120GB CSSD-N120GBGTXB-BK Neutron Series GTX SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,610,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 128GB CSSD-F128GBGS-BK Force Series GS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 128GB CSSD-F128GBLX Force Series LX SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,035,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 180GB CSSD-F180GBGS-BK Force Series GS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "180 GB",
+        "HARGA": "Rp 1,910,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 240GB CSSD-F240GBGS-BK Force Series GS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 2,140,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 240GB CSSD-F240GBLEB Force Series LE SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,160,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 240GB CSSD-F240GBLSB Force Series LS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,385,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 240GB CSSD-N240GBGTXB-BK Neutron Series GTX SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 2,510,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 240GB CSSD-N240GBXT Neutron XT SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 240GB CSSD-N240GBXTB Neutron XT SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,435,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 256GB CSSD-F256GBLX Force Series LX SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,635,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 360GB CSSD-F360GBGS-BK Force Series GS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "360 GB",
+        "HARGA": "Rp 3,480,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 480GB CSSD-F480GBGS-BK Force Series GS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 4,095,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 480GB CSSD-F480GBLEB Force Series LE SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,185,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 480GB CSSD-F480GBLSB Force Series LS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,660,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 480GB CSSD-N480GBGTXB-BK Neutron Series GTX SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 4,985,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 480GB CSSD-N480GBXT Neutron XT SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,160,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 480GB CSSD-N480GBXTB Neutron XT SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,960,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 512GB CSSD-F512GBLX Force Series LX SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 3,185,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 60GB CSSD-F60GBLSB Force Series LS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "60 GB",
+        "HARGA": "Rp 545,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 960GB CSSD-F960GBLEB Force Series LE SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 4,605,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 960GB CSSD-F960GBLSB Force Series LS SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 5,210,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair 960GB CSSD-N960GBXT Neutron XT SATA III",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 6,960,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Corsair SSD Bracket - CSSD-BRKT1",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Corsair Upgrade Kit - CSSD-UPGRADEKIT",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 395,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial BX100 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 890,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial BX200 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,070,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial BX200 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,070,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial BX200 960GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 4,300,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial M550 128GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial MX200 1TB",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 5,150,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial MX200 250GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "250 GB",
+        "HARGA": "Rp 1,350,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Crucial",
+        "NAMA": "Crucial MX200 500GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "500 GB",
+        "HARGA": "Rp 2,550,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Fujitsu",
+        "NAMA": "Fujitsu SSD F200 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 780,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Fujitsu",
+        "NAMA": "Fujitsu SSD F200 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,290,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Fujitsu",
+        "NAMA": "Fujitsu SSD F200 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,460,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Fujitsu",
+        "NAMA": "Fujitsu SSD F200 960GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 5,360,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Fujitsu",
+        "NAMA": "Fujitsu SSD FSA Extreme 512GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,960,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "GALAX",
+        "NAMA": "Galax SSD Gamer L Series 120GB (R:528MB/S W:447 MB/s)",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 825,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "GALAX",
+        "NAMA": "Galax SSD Gamer L Series 240GB (R:560MB/S W:500 MB/s)",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,350,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "GALAX",
+        "NAMA": "Galax SSD Gamer Series 60GB (R:480MB/S W:180 MB/s)",
+        "SSD/HDD": "SSD",
+        "SIZE": "60 GB",
+        "HARGA": "Rp 525,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "HIS",
+        "NAMA": "HIS SSD 120GB (R:500MB/S W:140 MB/s) Garansi 3 Tahun",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 795,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "HIS",
+        "NAMA": "HIS SSD 240GB (R:500MB/S W:288 MB/s) Garansi 3 Tahun",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,400,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "HIS",
+        "NAMA": "HIS SSD 480GB (R:480MB/S W:330 MB/s) Garansi 3 Tahun",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,945,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 120GB 530 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,159,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 120GB 535 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,145,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 180GB 535 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "180 GB",
+        "HARGA": "Rp 1,405,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 240GB 530 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,903,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 240GB 535 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 240GB 730 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 2,950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 300GB S3500 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "300 GB",
+        "HARGA": "Rp 4,119,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 400GB 750 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "400 GB",
+        "HARGA": "Rp 6,535,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 480GB 530 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,665,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 480GB 535 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,625,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 480GB 730 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 5,520,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Intel",
+        "NAMA": "Intel SSD 480GB S3500 Series",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 6,547,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingfast",
+        "NAMA": "Kingfast SSD F10 128GB New Series!! ",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 690,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingfast",
+        "NAMA": "Kingfast SSD F10 256GB New Series!!",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,190,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingfast",
+        "NAMA": "Kingfast SSD F6 30GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "30 GB",
+        "HARGA": "Rp 300,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingfast",
+        "NAMA": "Kingfast SSD F6 60GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "60 GB",
+        "HARGA": "Rp 430,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingfast",
+        "NAMA": "Kingfast SSD F9 1TB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 4,300,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingfast",
+        "NAMA": "Kingfast SSD F9 512GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,250,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury SHFS37A/120G 120GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 840,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury SHFS37A/240G 240GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,280,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Savage SHSS37A/120G 120GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,085,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Savage SHSS37A/240G 240GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,663,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Savage SHSS37A/480G 480GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,235,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SM2280S3 120GB SATA3 Digital Ships M.2 SATA SSDs ",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,119,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SMS200S3 120GB SATA3 mSATA",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,009,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SMS200S3 30GB SATA3 mSATA",
+        "SSD/HDD": "SSD",
+        "SIZE": "30 GB",
+        "HARGA": "Rp 554,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SMS200S3 60GB SATA3 mSATA",
+        "SSD/HDD": "SSD",
+        "SIZE": "60 GB",
+        "HARGA": "Rp 675,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now SKC300S37A/120G 120GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 970,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now SKC300S37A/240G 240GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,580,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now SKC300S37A/480G 480GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,020,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now SKC300S37A/960G 960GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 5,790,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now V300 SV300S37A/120G 120GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 720,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now V300 SV300S37A/240G 240GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,273,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now V300 SV300S37A/480G 480GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,565,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now V300 SV300S37A/60G 60GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "60 GB",
+        "HARGA": "Rp 642,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SSD Now V300 SV300S3N7A/240G Notebook Bundle Kit 240GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,460,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston UV300 SUV300S37A/120G 120GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 650,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston UV300 SUV300S37A/240G 240GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,150,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "LiteOn",
+        "NAMA": "LiteOn 128GB SCS-256L9S (Loose Pack) 7mm",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,030,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "LiteOn",
+        "NAMA": "LiteOn 256GB SCS-256L9S (Loose Pack) 7mm",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,650,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "LiteOn",
+        "NAMA": "LiteOn 64GB SCS-256L9S (Loose Pack) 7mm",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 540,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "LiteOn",
+        "NAMA": "LiteOn mSATA 128GB LMT-128L9M (Loose Pack)",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 990,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "LiteOn",
+        "NAMA": "LiteOn mSATA 64GB LMT-64L9M (Loose Pack)",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 540,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Natno",
+        "NAMA": "Natno 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 720,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Natno",
+        "NAMA": "Natno 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,310,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Natno",
+        "NAMA": "Natno 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,620,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ ARC100 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,000,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ ARC100 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,640,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ TRION 100 120GB By EAI",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 834,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ TRION 100 240GB By EAI",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,292,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ TRION 100 480GB By EAI",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,531,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ TRION 100 960GB By EAI",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 4,752,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector150 120GB SATA III - VTR150-25SAT3-120G",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,282,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector150 240GB SATA III - VTR150-25SAT3-240G",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 2,073,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector150 480GB SATA III - VTR150-25SAT3-480G",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,915,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector180 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,400,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector180 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 2,072,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector180 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,413,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vector180 960GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 6,528,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vertex460A 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,275,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vertex460A 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "OCZ",
+        "NAMA": "OCZ Vertex460A 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 3,700,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Blast SATA3 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 650,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Blast SATA3 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,080,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Blaze SATA3 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 650,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Blaze SATA3 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,080,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Blaze SATA3 60GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "60 GB",
+        "HARGA": "Rp 550,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Ignite 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,120,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Ignite 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 1,940,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Ignite 960GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 4,605,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Ignite M.2 2280 SATA3 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,310,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Pyro M3 mSATA III 120GB SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 725,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PATRIOT",
+        "NAMA": "Patriot Pyro M3 mSATA III 240GB SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,270,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Phanteks SSD Bracket for 1 in 1",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 100,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Phanteks SSD Bracket for 2 in 1",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 115,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M2 2242 PX-M2 PX 128GB (Loose Pack)",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M2 2280 256GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 3,100,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M2 2280 512GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 5,400,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M5S 256GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 2,000,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6 Pro 128GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,330,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6 Pro 1TB",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 6,500,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6 Pro 256GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 2,250,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6 Pro 512GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 4,050,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6e 128GB PCI-E",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 2,200,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6e 256GB PCI-E",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 3,300,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6e 512GB PCI-E",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 5,600,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6M 128GB mSATA",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,130,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6M 256GB mSATA",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,900,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6M 512GB mSATA",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 3,650,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6S 128GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,080,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6S 256GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 2,100,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Plextor",
+        "NAMA": "Plextor M6S 512GB SATA3",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 3,550,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Plextor SSD Bracket",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 110,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PNY",
+        "NAMA": "PNY Optima Series 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PNY",
+        "NAMA": "PNY Performance XLR8 Series 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "PNY",
+        "NAMA": "PNY Performance XLR8 Series 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "N/A",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 650 Series 120GB - MZ650120 - OEM",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 815,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO 120GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 840,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO 1TB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 4,950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO 250GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "250 GB",
+        "HARGA": "Rp 1,300,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO 2TB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "500 GB",
+        "HARGA": "Rp 10,500,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO 500GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "500 GB",
+        "HARGA": "Rp 2,040,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO M.2 SATA 120GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,180,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO M.2 SATA 250GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "250 GB",
+        "HARGA": "Rp 1,850,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO M.2 SATA 500GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "500 GB",
+        "HARGA": "Rp 3,150,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO mSATA 120GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 1,010,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO mSATA 1TB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 5,770,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO mSATA 250GB - Grs 5th ",
+        "SSD/HDD": "SSD",
+        "SIZE": "250 GB",
+        "HARGA": "Rp 1,590,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 EVO mSATA 500GB - Grs 5th",
+        "SSD/HDD": "SSD",
+        "SIZE": "500 GB",
+        "HARGA": "Rp 3,100,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 PRO 128GB - Grs 10th",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,335,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 PRO 1TB - Grs 10th",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 5,845,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 PRO 256GB - Grs 10th",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,850,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 PRO 2TB - Grs 10th",
+        "SSD/HDD": "SSD",
+        "SIZE": "2 TB",
+        "HARGA": "Rp 13,640,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SSD 850 PRO 512GB - Grs 10th ",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 3,000,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "SAMSUNG SSD 950 PRO M.2 256GB PCI-Express 3.0 x4 MZ-V5P256BW - Grs 10th",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 3,170,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "SAMSUNG SSD 950 PRO M.2 512GB PCI-Express 3.0 x4 MZ-V5P512BW - Grs 10th",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 5,380,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung T1 Portable 1TB USB 3.0 External SSD.",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 5,950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung T1 Portable 500GB USB 3.0 External SSD.",
+        "SSD/HDD": "SSD",
+        "SIZE": "500 GB",
+        "HARGA": "Rp 2,980,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "SanDisk Extreme 500 Portable SSD 240GB - SDSSDEXT-240G",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,498,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "SanDisk Extreme 500 Portable SSD 480GB - SDSSDEXT-480G",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,859,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Extreme Pro 240GB - SDSSDXPS-240G",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,565,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Extreme Pro 480GB - SDSSDXPS-480G",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,680,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Extreme Pro 960GB - SDSSDXPS-960G",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 4,950,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Plus 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 580,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Plus 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,010,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Ultra-II 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 750,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Ultra-II 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,090,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Ultra-II 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,050,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD Ultra-II 960GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 3,750,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD X300 128GB - SD7SB6S-128G",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 670,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Sandisk",
+        "NAMA": "Sandisk SSD X300 256GB - SD7SB6S-256G",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,180,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "SSD BRACKET OCZ",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 110,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team L3 Series 120GB (By Megakom)",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 660,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team L5 Series 120GB (By Megakom)",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 685,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team L5 Series 240GB (By Megakom)",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,459,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team L5 Series 480GB (By Megakom)",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,470,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team PD200 128GB - Portable Drive USB 3.0 (By Megakom)",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 996,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team PD200 256GB - Portable Drive USB 3.0 (By Megakom)",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,775,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253L3120GMC101 (L3) - 120GB (No Bracket)",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 690,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253L3120GMC103 (L3) - 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 715,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253L3240GMC103 (L3) - 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,220,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253L3480GMC103 (L3) - 480GB ",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,295,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253LE120GTC103 L3 EVO – 120GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "120 GB",
+        "HARGA": "Rp 695,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253LE240GTC103 L3 EVO – 240GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "240 GB",
+        "HARGA": "Rp 1,170,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253LE480GTC103 L3 EVO – 480GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "480 GB",
+        "HARGA": "Rp 2,190,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team T253LE960GTC103 L3 EVO – 960GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "960 GB",
+        "HARGA": "Rp 4,065,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team TM38P1064GMC101 - 64GB R 530MB/s W 440MB/s - Msata",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 530,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team TM38P1128GMC101 - 128GB R 530MB/s W 440MB/s - Msata",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 830,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team TM38P1256GMC101 - 256GB R 530MB/s W 440MB/s - Msata",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,450,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team TM8PS4128GMC101 - 128GB R 530MB/s W 440MB/s - Msata M.2 2280",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 840,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team TM8PS4256GMC101 - 256GB R 530MB/s W 440MB/s - Msata M.2 2280",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,490,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team TM8PS4256GMC101 - 512GB R 530MB/s W 440MB/s - Msata M.2 2280",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,205,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Q Series 128GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 910,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Q Series 256GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,512,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Toshiba",
+        "NAMA": "Toshiba Q Series 512GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,760,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend 128GB SSD 2.5\" IDE => MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 2,604,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend 32GB SSD 2.5\" SATA 2 => MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "32 GB",
+        "HARGA": "Rp 976,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend 512GB SSD 2.5\" SATA 2 => MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 5,806,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend 64GB SSD 2.5\" SATA 2 => MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 1,169,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D320 128GB SSD 2.5\" SATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,252,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 128GB SSD 2.5\" SATA 3 - External SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 1,075,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 128GB SSD 2.5\" SATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 872,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 1TB SSD 2.5\" SATA 3 - External SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 6,876,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 1TB SSD 2.5\" SATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "1 TB",
+        "HARGA": "Rp 5,463,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 256GB SSD 2.5\" SATA 3 - External SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,792,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 256GB SSD 2.5\" SATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,462,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 512GB SSD 2.5\" SATA 3 - External SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 3,413,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D370 512GB SSD 2.5\" SATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,790,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend D720 64GB SSD 2.5\" SATA 3 => MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 1,390,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend MSA370 128GB SSD 2.5\" mSATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 941,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend MSA370 256GB SSD 2.5\" mSATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,697,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend MSA370 512GB SSD 2.5\" mSATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 3,276,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend MSA370 64GB SSD 2.5\" mSATA 3 ==> MLC",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 612,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend SSD 370S 128GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 700,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend TS128GMTS800 M.2 SATA III 128G By Techno",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 750,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend TS128GMTS800 M.2 SATA III 256G By Techno",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,295,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend TS128GMTS800 M.2 SATA III 512G By Techno",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,620,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Universal SSD Bracket - Metal Material",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 35,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "Bracket",
+        "NAMA": "Universal SSD Bracket - Support 2 SSD",
+        "SSD/HDD": "SSD",
+        "SIZE": "N/A",
+        "HARGA": "Rp 30,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN 128GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "128 GB",
+        "HARGA": "Rp 750,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN 256GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "256 GB",
+        "HARGA": "Rp 1,250,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN 512GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "512 GB",
+        "HARGA": "Rp 2,350,000",
+        "JENIS": "SSD 2.5 inch"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN 64GB",
+        "SSD/HDD": "SSD",
+        "SIZE": "64 GB",
+        "HARGA": "Rp 650,000",
+        "JENIS": "SSD 2.5 inch"
+    }
+]
+}
