@@ -1,0 +1,5654 @@
+{
+  "contacts": 
+  [
+    {
+        "MERK": "Audi",
+        "JENIS": "A4",
+        "TIPE": "2.0 TFSI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 710,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "A5",
+        "TIPE": "2.0 TFSI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 860,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "A6",
+        "TIPE": "2.0 TFSI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 870,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "A6",
+        "TIPE": "2.8 FSI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 985,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "A6",
+        "TIPE": "3.0 TFSI Quattro",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,190,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "A8 L",
+        "TIPE": "3.0 TFSI Quattro STD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,995,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "A8 L",
+        "TIPE": "3.0 TFSI Quattro Full",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,255,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "Q3",
+        "TIPE": "2.0 TFSI Quattro",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 810,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "Q5",
+        "TIPE": "2.0 TFSI Quattro STD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 950,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "Q5",
+        "TIPE": "2.0 TFSI Quattro Full",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,030,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "Q7",
+        "TIPE": "3.0 TFSI Quattro",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,390,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "R8",
+        "TIPE": "5.2 FSI Quattro",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 5,400,000,000.00"
+    },
+    {
+        "MERK": "Audi",
+        "JENIS": "TTS",
+        "TIPE": "2.0 TFSI Quattro",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,270,000,000.00"
+    },
+    {
+        "MERK": "Bentley",
+        "JENIS": "Continental GT",
+        "TIPE": "60 W12",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 5,177,000,000.00"
+    },
+    {
+        "MERK": "Bentley",
+        "JENIS": "Continental GT",
+        "TIPE": "V8 Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 5,100,000,000.00"
+    },
+    {
+        "MERK": "Bentley",
+        "JENIS": "Continental GT",
+        "TIPE": "Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 5,600,000,000.00"
+    },
+    {
+        "MERK": "Bentley",
+        "JENIS": "Continental GT",
+        "TIPE": "Speed Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 6,100,000,000.00"
+    },
+    {
+        "MERK": "Bentley",
+        "JENIS": "Flying Spur",
+        "TIPE": "6.0 W12",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 6,200,000,000.00"
+    },
+    {
+        "MERK": "Bentley",
+        "JENIS": "Mulsanne",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 8,800,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "1 Series",
+        "TIPE": "M135i",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 979,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "1 Series",
+        "TIPE": "118i M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 639,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "2 Series",
+        "TIPE": "218i Active Tourer Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 659,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "2 Series",
+        "TIPE": "218i Gran Tourer Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 749,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "2 Series",
+        "TIPE": "M235i Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 959,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "3 Series",
+        "TIPE": "320i Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 659,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "3 Series",
+        "TIPE": "320i Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 699,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "3 Series",
+        "TIPE": "328i Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 785,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "3 Series",
+        "TIPE": "328i Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 785,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "3 Series",
+        "TIPE": "320d Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 665,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "4 Series",
+        "TIPE": "435i Coupe M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,119,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "4 Series",
+        "TIPE": "428i Gran Coupe M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,059,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "4 Series",
+        "TIPE": "428i Convertible Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,189,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "5 Series",
+        "TIPE": "520i Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 889,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "5 Series",
+        "TIPE": "528i Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,029,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "5 Series",
+        "TIPE": "535i M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,389,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "5 Series",
+        "TIPE": "520d Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 899,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "6 Series",
+        "TIPE": "640i Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,589,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "6 Series",
+        "TIPE": "640i Coupe M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,699,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "6 Series",
+        "TIPE": "640i Convertible",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,799,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "6 Series",
+        "TIPE": "640i Gran Coupe M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,959,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "7 Series",
+        "TIPE": "730Li",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,799,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "7 Series",
+        "TIPE": "730Li Ultimate Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,039,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "7 Series",
+        "TIPE": "740Li",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,029,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M3",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,849,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M3 Pure Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,759,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M4 Coup",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,959,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M5",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,179,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M6 Coup",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,549,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M6 Gran Coup",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,829,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "M6 Gran Coup? Exclusive",
+        "TRANSMISI": "Automatic",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "X5 M",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,349,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "X5 M Exclusive",
+        "TRANSMISI": "Automatic",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "X6 M",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,459,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "M Series",
+        "TIPE": "X6 M Exclusive",
+        "TRANSMISI": "Automatic",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New 3 Series",
+        "TIPE": "320i Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 679,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New 3 Series",
+        "TIPE": "320i M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 719,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New 3 Series",
+        "TIPE": "330i M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 829,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New 3 Series",
+        "TIPE": "340i M Sport Individual",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,199,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New 7 Series",
+        "TIPE": "740Li Executive",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,089,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New 7 Series",
+        "TIPE": "740Li Excellence",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,499,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X1 sDrive 18i xLine Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 629,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X1 sDrive 18i Sport Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 659,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X1 sDrive 20i Sport Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 689,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X3 xDrive20i xLine",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 929,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X3 xDrive20d xLine",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 949,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X3 xDrive20d EfficientDynamics",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 899,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X4 xDrive28i xLine",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,109,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X4 xDrive28i M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,199,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X5 xDrive25d",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,149,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X5 xDrive35i xLine",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,269,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X5 xDrive35i M Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,449,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "X Series",
+        "TIPE": "X6 xDrive35i",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,999,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Z Series",
+        "TIPE": "Z4 sDrive20i",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,119,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "Eastar",
+        "TIPE": "ES 2.0",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 209,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "QQ",
+        "TIPE": "Standar",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 90,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "QQ",
+        "TIPE": "Elegant",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 95,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "QQ",
+        "TIPE": "Sporty",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 100,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "Tiggo SUV",
+        "TIPE": "1.6",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 164,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "Transcab",
+        "TIPE": "1.1",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 98,000,000.00"
+    },
+    {
+        "MERK": "Chery",
+        "JENIS": "Transcar",
+        "TIPE": "1.1",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 125,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "All New Aveo",
+        "TIPE": "1.4 LS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 168,800,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "All New Aveo",
+        "TIPE": "1.4 LT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 189,800,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "All New Aveo",
+        "TIPE": "1.4 LT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 204,800,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Captiva",
+        "TIPE": "2.4 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 380,900,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Captiva",
+        "TIPE": "2.4 AT Sugar White Metallic",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 386,900,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Captiva",
+        "TIPE": "2.0 AT FWD?(Diesel)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 398,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Captiva",
+        "TIPE": "2.0 AT FWD Sugar White Metallic?(Diesel)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 404,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Captiva",
+        "TIPE": "2.0 AT AWD?(Diesel)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 456,200,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Captiva",
+        "TIPE": "2.0 AT AWD (Diesel) Sugar White Metallic",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 462,200,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Colorado",
+        "TIPE": "Ext. Cab 2.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 265,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Colorado",
+        "TIPE": "Crew Cab 2.5L LT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 323,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Colorado",
+        "TIPE": "Crew Cab 2.5L LTZ",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 343,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Cruze",
+        "TIPE": "1.8 LT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 311,900,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Cruze",
+        "TIPE": "1.8 LT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 338,100,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "New Spin",
+        "TIPE": "1.3 LTZ MT (Diesel)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 219,800,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "New Spin",
+        "TIPE": "1.5 LS MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 171,800,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "New Spin",
+        "TIPE": "1.5 LTZ MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 193,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "New Spin",
+        "TIPE": "1.5 LTZ AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 204,100,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "New Spin",
+        "TIPE": "Spin Activ 1.5 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 211,900,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Orlando",
+        "TIPE": "1.8 LT AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 300,100,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Spark",
+        "TIPE": "1.2",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 143,500,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Trax",
+        "TIPE": "LT AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 267,000,000.00"
+    },
+    {
+        "MERK": "Chevrolet",
+        "JENIS": "Trax",
+        "TIPE": "LTZ AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 291,000,000.00"
+    },
+    {
+        "MERK": "Chrysler",
+        "JENIS": "300C",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,100,000,000.00"
+    },
+    {
+        "MERK": "Chrysler",
+        "JENIS": "300C",
+        "TIPE": "SRT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,400,000,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "D MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 84,550,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "D Plus MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 96,750,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "M MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 100,150,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "M AT MI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 109,150,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "M Sporty MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 113,450,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "M Sporty AT MI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 122,650,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "X MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 107,600,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "X AT MI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 116,650,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "X Elegant MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 114,250,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "X Elegant AT MI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 123,300,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "Airbag X MT MI",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 111,700,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Ayla",
+        "TIPE": "Airbag X AT MI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 120,750,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Copen",
+        "TIPE": "MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 416,550,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Gran Max",
+        "TIPE": "MB 1.3 D FH",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 139,075,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Gran Max",
+        "TIPE": "MB 1.3 D FF FH",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 145,475,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Gran Max",
+        "TIPE": "MB 1.3 D FF Ambulance FH",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 174,475,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Gran Max",
+        "TIPE": "MB 1.5 D PS FH",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 155,075,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Gran Max",
+        "TIPE": "BV 1.3 FH",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 121,675,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Gran Max",
+        "TIPE": "BV 1.3 AC FH",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 125,775,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 D MT MC",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 167,500,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 D MT MC Ambulance",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 201,200,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 X MT MC",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 185,650,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 X AT MC",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 196,750,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Sirion",
+        "TIPE": "1.3 D FMC MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 157,325,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Sirion",
+        "TIPE": "1.3 D FMC AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 168,325,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "X MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 186,900,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "X MT Extra",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 197,200,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "X AT Extra",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 208,050,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "R MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 219,100,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "R MT Adventure",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 229,300,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "R AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 233,200,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Terios",
+        "TIPE": "R AT Adventure",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 243,200,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag D MT 1.0 STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 151,650,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag M MT 1.0 STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 158,650,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag M MT 1.0 DLX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 164,850,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag X MT DG 1.3 STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 170,650,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag X MT 1.3 DLX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 185,900,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag R MT 1.3 STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 175,450,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag R MT DG 1.3 Sporty",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 194,800,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag X AT 1.3 STD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 181,550,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag X AT 1.3 DLX",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 197,750,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag R AT 1.3 STD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 186,350,000.00"
+    },
+    {
+        "MERK": "Daihatsu",
+        "JENIS": "Xenia",
+        "TIPE": "Airbag R AT 1.3 Sporty",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 205,800,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca A",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 94,200,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca T",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 105,100,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca T Option",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 105,600,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca T Aktif",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 110,600,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca D",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 94,600,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca A",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 102,300,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca A Option",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 102,800,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca T",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 109,850,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca T Option",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 112,850,000.00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca T Style",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 118,450,000.00"
+    },
+    {
+        "MERK": "Dodge",
+        "JENIS": "Journey",
+        "TIPE": "2.4 L SXT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 488,000,000.00"
+    },
+    {
+        "MERK": "Dodge",
+        "JENIS": "Journey",
+        "TIPE": "2.4 L LUXURY",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 540,000,000.00"
+    },
+    {
+        "MERK": "Dodge",
+        "JENIS": "Journey",
+        "TIPE": "2.4 L PLATINUM",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 565,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "All New Everest",
+        "TIPE": "Trend 4x2 2.2L AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 560,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "All New Everest",
+        "TIPE": "Titanium Plus 4x2 2.2L AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 634,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "EcoSport",
+        "TIPE": "1.5 L MT Ambiente",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 233,600,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "EcoSport",
+        "TIPE": "1.5 MT Trend",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 252,100,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "EcoSport",
+        "TIPE": "1.5 L AT Trend",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 262,500,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "EcoSport",
+        "TIPE": "1.5 L MT Titanium",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 276,100,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "EcoSport",
+        "TIPE": "1.5 L AT Titanium",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 286,300,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "Focus",
+        "TIPE": "Sedan Titanium 1.5 L AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 500,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "Focus",
+        "TIPE": "1.5 L AT S",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 456,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "Focus",
+        "TIPE": "1.5 L AT T",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 418,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.5 L Trend MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 237,000,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.5 L Style MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 227,300,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.5 L Sport AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 269,700,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.5 L Trend AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 248,300,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "Sedan 1.5 L Trend MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 277,700,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "Sedan 1.0 L Ecoboost Titanium AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 316,800,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.0 L Ecoboost Sport MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 274,600,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.0 L Ecoboost sport AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 284,900,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Fiesta",
+        "TIPE": "1.5 L Sport MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 258,300,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Single 2.5 L Petrol Base 4x2 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 255,100,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Ranger SC 2.2 L Dsl Mid base 4x4 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 329,800,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Ranger DC 2.2 L Dsl Mid base 4x4 MT Plus",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 401,100,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Ranger DC 3.2 L Dsl High XLT 4x4 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 458,900,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Ranger DC 2.2 L Dsl High XLS 4x4 MT Plus",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 421,600,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Ranger DC 2.2 L Dsl High XLS 4x4 MT Plus Extra Safety Package",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 431,600,000.00"
+    },
+    {
+        "MERK": "Ford",
+        "JENIS": "New Ranger",
+        "TIPE": "Ranger DC 3.2 L Dsl High Wildtrak 4x4 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 503,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Cargo Synchronize",
+        "TIPE": "6x4 280 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 785,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Dump Truck",
+        "TIPE": "6x4 290 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 765,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Dump Truck",
+        "TIPE": "6x4 330 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 795,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Mixer",
+        "TIPE": "6x4 340 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 930,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Truck Head",
+        "TIPE": "6x4 290 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 705,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Truck Head",
+        "TIPE": "6x4 330 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 735,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Truck Head",
+        "TIPE": "6x4 420 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 740,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "Auman Truck Head",
+        "TIPE": "4x2 290 HP",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 585,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "View",
+        "TIPE": "STD 2800cc Diesel, 14 seat",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 260,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "View",
+        "TIPE": "DLX 2800cc Diesel, 9 seat",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 275,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "View",
+        "TIPE": "Blind Van",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 275,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "View",
+        "TIPE": "Ambulance STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 275,000,000.00"
+    },
+    {
+        "MERK": "Fotton",
+        "JENIS": "View",
+        "TIPE": "Ambulance International",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 335,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "Emgrand 7",
+        "TIPE": "RV 1.8L GL Premium",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 229,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "Emgrand 7",
+        "TIPE": "RV 1.8L GT Luxury",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 245,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "Emgrand 7",
+        "TIPE": "1.8L GL Premium",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 255,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "Emgrand 7",
+        "TIPE": "1.8L GT Luxury",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 269,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "LC Cross",
+        "TIPE": "CBU 1.3L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 132,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "MK 2",
+        "TIPE": "1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 142,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "MK Cross",
+        "TIPE": "1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 155,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "MK Taksi",
+        "TIPE": "1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 120,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "Panda",
+        "TIPE": "CBU 1.3L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 138,000,000.00"
+    },
+    {
+        "MERK": "Geely",
+        "JENIS": "Panda",
+        "TIPE": "CBU 1.3L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 149,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New City",
+        "TIPE": "S MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 289,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New City",
+        "TIPE": "S CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 299,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New City",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 304,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New City",
+        "TIPE": "E CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 314,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New City",
+        "TIPE": "ES CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 334,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Civic",
+        "TIPE": "1.8 L MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 382,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Civic",
+        "TIPE": "1.8 L AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 395,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Civic",
+        "TIPE": "2.0 L AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 454,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New CRV",
+        "TIPE": "2.0 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 400,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New CRV",
+        "TIPE": "2.0 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 410,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New CRV",
+        "TIPE": "2.0 AT Prestige",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 430,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New CRV",
+        "TIPE": "2.4 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 444,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New CRV",
+        "TIPE": "2.4 AT Prestige",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 482,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "A MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 208,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "S MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 226,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "S AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 236,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 248,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 258,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "RS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 271,100,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "RS CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 281,100,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "All New Jazz",
+        "TIPE": "RS CVT Limited Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 261,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "BR - V",
+        "TIPE": "S MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 226,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "BR - V",
+        "TIPE": "E CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 246,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "BR - V",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 236,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "BR - V",
+        "TIPE": "1.5 Prestige AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 261,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "Satya A",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 119,900,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "Satya S",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 123,900,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "Satya E",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 129,900,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "S",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 150,600,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "E",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 158,600,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "E Special Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 174,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "E MT Sport",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 190,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Brio",
+        "TIPE": "E AT Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 200,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "CR - Z",
+        "TIPE": "CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 519,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "CR - Z",
+        "TIPE": "CVT Special Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 529,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Freed",
+        "TIPE": "S AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 271,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Freed",
+        "TIPE": "E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 293,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.5 A MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 252,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.5 S MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 266,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.5 S CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 276,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.5 E CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 297,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.5 E CVT Limited Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 326,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.8 E CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 352,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "HR - V",
+        "TIPE": "1.8 CVT Prestige",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 369,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "S MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 180,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 201,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 212,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "E AT Prestige",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 221,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "RS MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 224,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "RS CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 234,500,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Mobilio",
+        "TIPE": "RS CVT Limited Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 256,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "New Accord",
+        "TIPE": "2,4L VTi-L ES",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 650,000,000.00"
+    },
+    {
+        "MERK": "Honda",
+        "JENIS": "Odyssey",
+        "TIPE": "2.4 L Prestige",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 707,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand Avega",
+        "TIPE": "GL MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 211,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand Avega",
+        "TIPE": "GL AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 225,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand Avega",
+        "TIPE": "SG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 228,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand Avega",
+        "TIPE": "Limited MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 218,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand Avega",
+        "TIPE": "Limited AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 232,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand i10",
+        "TIPE": "GL",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 147,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand i10",
+        "TIPE": "GLS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 175,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Grand i10",
+        "TIPE": "X",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 160,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "H-1",
+        "TIPE": "Elegance Gasoline Next Gen",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 409,600,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "H-1",
+        "TIPE": "XG Gasoline Next Gen",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 439,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "H-1",
+        "TIPE": "Royale Gasoline Next Gen",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 515,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "H-1",
+        "TIPE": "XG CRDi Next Gen",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 493,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "H-1",
+        "TIPE": "Royale CRDi Next Gen",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 572,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Santa Fe",
+        "TIPE": "Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 417,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Santa Fe",
+        "TIPE": "GAS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 478,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Santa Fe",
+        "TIPE": "GAS Limited",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 489,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Santa Fe",
+        "TIPE": "CRDi",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 523,250,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Santa Fe",
+        "TIPE": "CRDi Limited",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 534,250,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Sonata",
+        "TIPE": "2.4 A/T",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 490,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Starex",
+        "TIPE": "Mover",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 361,500,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Tucson",
+        "TIPE": "GLS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 352,000,000.00"
+    },
+    {
+        "MERK": "Hyundai",
+        "JENIS": "Tucson",
+        "TIPE": "XG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 387,500,000.00"
+    },
+    {
+        "MERK": "Infiniti",
+        "JENIS": "G37",
+        "TIPE": "G37",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,120,000,000.00"
+    },
+    {
+        "MERK": "Infiniti",
+        "JENIS": "M37",
+        "TIPE": "M37",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,120,000,000.00"
+    },
+    {
+        "MERK": "Infiniti",
+        "JENIS": "New FX37S",
+        "TIPE": "New FX37S",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,220,000,000.00"
+    },
+    {
+        "MERK": "Infiniti",
+        "JENIS": "New FX50S",
+        "TIPE": "New FX50S",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,520,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Bison",
+        "TIPE": "STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 160,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Bison",
+        "TIPE": "FB",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 161,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Bison",
+        "TIPE": "BC",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 159,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "Single Cabin",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 264,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "Double Cabin 2",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 264,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "Double Cabin 3",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 312,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "Rodeo LS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 336,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "Rodeo LS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 351,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 C/O (100PS/2800cc/4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 213,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 LWB C/O (100PS/2800cc/4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 225,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 L C/C (100PS/2800cc/6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 228,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 71 STD New (125PS/4500cc/6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 261,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 71 HD Harimau (125PS/4500cc/6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 267,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NHR 55 C/C (100PS/2800cc/4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 203,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NHR 55 C/O (100PS/2800cc/4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 207,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 C/C (100PS/2800cc/4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 211,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NHR 55 Mikrobus Full H/B (Non AC)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 257,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NKR 55 LWB Mikrobus Full H/B (Non AC)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 279,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NKR 55 LWB Mikrobus Full H/B (2) (Non AC)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 282,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FRR 90 Q (190PS/6 Ban/4x2)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 398,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 L (210PS/WB 4.250)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 466,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 P (WB 5.050)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 472,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 S (WB 6.050)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 479,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 L (240PS/WB 4.250)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 526,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 P(WB 5.050)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 532,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 S (WB 6.050)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 539,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVM 34 Q (240PS/WB 5.450/6x2)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 635,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVM 34 W (WB 7.120)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 646,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVZ 34 P (285PS/10 Ban/6x4)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 796,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panter",
+        "TIPE": "Touring",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 431,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "panter",
+        "TIPE": "Touring (Soul Red Colour)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 434,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Smart - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 216,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Smart FF - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 218,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "LV - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 223,800,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "LV FF - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 225,800,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Adventure - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 237,800,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "LS FF - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 251,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Touring - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 255,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Grand Touring - J",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 269,500,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther Pick Up",
+        "TIPE": "Pick Turbo LC",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 144,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther Pick Up",
+        "TIPE": "Turbo Flat Deck (FD)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 145,000,000.00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther Pick Up",
+        "TIPE": "Turbo GD 3 Way",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 149,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "F-Type",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,900,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XF",
+        "TIPE": "2,0",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,200,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XF",
+        "TIPE": "3.0 Premium Lux",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,350,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XF",
+        "TIPE": "3.0 S/C",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,500,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XF 3.0",
+        "TIPE": "V6 Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,250,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XF 3.0",
+        "TIPE": "V6 Premium Luxury",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,350,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XI 5.0",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,850,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XJL",
+        "TIPE": "2.0 Premium Lux",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,850,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XJL",
+        "TIPE": "3.0 Portfolio",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,280,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XJL",
+        "TIPE": "5.0 S/C V8",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,100,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XK 5.0",
+        "TIPE": "V8 Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,750,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XKR 5.0",
+        "TIPE": "V8 Supercharge Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,990,000,000.00"
+    },
+    {
+        "MERK": "Jaguar",
+        "JENIS": "XKRS",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,500,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Compass",
+        "TIPE": "2.4 L Limited",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 555,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Grand Cherokee",
+        "TIPE": "3.6 L Overland",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,170,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Grand Cherokee",
+        "TIPE": "SRT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,500,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Sport 2 Door Renegade",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 690,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Sahara 2 Door",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 780,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Rubicon 2 Door",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 835,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Sport 4 Door X",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 720,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Sport 4 Door Renegade Plus",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 775,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Sport 4 Door Platinum Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 825,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Sahara 4 Door",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 840,000,000.00"
+    },
+    {
+        "MERK": "Jeep",
+        "JENIS": "Wrangler",
+        "TIPE": "Rubicon 4 Door",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 895,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Carens",
+        "TIPE": "2.0 LX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 268,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Carens",
+        "TIPE": "2.0 LX",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 286,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Optima",
+        "TIPE": "2.4 L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 499,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "1,25",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 143,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "1,25",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 129,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "SE 2",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 132,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "SE 2",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 146,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "SE 3",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 136,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "SE 3",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 150,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Rio",
+        "TIPE": "Hatch Back OPT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 178,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Rio",
+        "TIPE": "Hatch Back OPT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 192,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "Option (ring 18)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 280,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "LX (ring 18)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 285,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "LX (ring 18)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 299,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "Platinum (ring 18)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 382,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 Pick Up PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 150,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 Pick Up PS Long",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 151,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 Box STD PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 160,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 Box STD PS + Pintu Samping",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 161,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 Box Jumbo PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 161,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 Box Jumbo PS + Pintu Samping",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 163,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Pregio",
+        "TIPE": "SE OPT 2.7L DSL",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 253,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Sorento",
+        "TIPE": "2",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 378,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "OPT 2 16 ST Long",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 228,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Defender",
+        "TIPE": "90 SW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 840,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Defender",
+        "TIPE": "110 SW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 899,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Defender",
+        "TIPE": "110 Double Cab",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 825,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Discovery 4",
+        "TIPE": "3.0 HSE (Diesel)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,800,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Freelander",
+        "TIPE": "2.0 Petrol",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,100,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "4.4 Vogue (Diesel)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,000,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "5.0 S/C Vouge S/E",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,400,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "5.0 S/C Autobiograph",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,700,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "Sport 3.0 HSE (Diesel)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,150,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "Sport 5.0 S/C HSE",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,550,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "Evoque 2.0 Petrol",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,250,000,000.00"
+    },
+    {
+        "MERK": "Land Rover",
+        "JENIS": "Range Rover",
+        "TIPE": "Evoque 2.2 Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,275,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "GS 250",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 975,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "GS 350",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,110,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "GS 450h",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,378,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "LS 460L",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,300,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "LS 600hL",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,920,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "LX 570",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,050,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "RX 270",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 988,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "RX 350",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,190,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "RX 350",
+        "TIPE": "F-Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,190,000,000.00"
+    },
+    {
+        "MERK": "Lexus",
+        "JENIS": "RX 450h",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,420,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Biante",
+        "TIPE": "WITH SKYACTIVE",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 427,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "BT-50 Pro",
+        "TIPE": "DOUBLE CABIN 4x4 BASIC 5 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 361,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "BT-50 Pro",
+        "TIPE": "SINGLE CABIN 4x4 5 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 299,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "BT-50 Pro",
+        "TIPE": "DOUBLE CABIN 4x4 MEDIUM 5 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 369,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "TOURING",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 460,300,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "SPORT",
+        "TRANSMISI": "",
+        "HARGA": "Rp. 403,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "GRAND TOURING",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 490,400,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "SPORT SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 406,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "TOURING SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 463,300,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "GRAND TOURING SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 493,400,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "URBAN",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 440,300,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-5",
+        "TIPE": "URBAN SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 443,300,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-7",
+        "TIPE": "R",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 531,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-7",
+        "TIPE": "GT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 591,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "CX-9",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,018,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "V MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 223,100,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "V AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 233,100,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "R MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 244,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "R AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 254,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "GT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 277,800,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "V MT SOUL RED COLOR",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 226,100,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "V AT SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 236,100,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "R MT SOUL RED COLOR",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 247,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "R AT SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 257,200,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda2",
+        "TIPE": "GT SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 280,800,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda6",
+        "TIPE": "SOUL RED COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 600,700,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda6",
+        "TIPE": "REGULAR COLOR",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 600,700,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "Mazda8",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 546,600,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "New MX-5",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 647,500,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "New VX-1",
+        "TIPE": "V MT METRO",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 187,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "New VX-1",
+        "TIPE": "V AT METRO",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 198,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "New VX-1",
+        "TIPE": "R MT METRO",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 198,000,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "New VX-1",
+        "TIPE": "R AT METRO",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 209,500,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "New VX-1",
+        "TIPE": "R AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 228,500,000.00"
+    },
+    {
+        "MERK": "Mazda",
+        "JENIS": "RX-8",
+        "TIPE": "Spirit R",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 682,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "A200",
+        "TIPE": "Urban",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 499,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "A250",
+        "TIPE": "Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 629,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "B200",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 449,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "B200",
+        "TIPE": "Sport",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 499,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C200",
+        "TIPE": "CGI CLS Facelift",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 559,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C200",
+        "TIPE": "CGI AVG Facelift",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 649,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C250",
+        "TIPE": "AVG AMG Facelift",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 709,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C250",
+        "TIPE": "CGI Coupe AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 849,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C300",
+        "TIPE": "AVG Facelift",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 779,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C300",
+        "TIPE": "AVG Facelift (Audio w/t Command Online)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 799,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "C63",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,669,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "CLS 350",
+        "TIPE": "CGI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,459,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "CLS 350",
+        "TIPE": "CGI AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,599,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "CLS 500",
+        "TIPE": "CGI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,889,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "CLS 63",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,119,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E200",
+        "TIPE": "CGI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 799,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E200",
+        "TIPE": "CGI (Audio w/t Command Online)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 819,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI Classic (Audio w/t Comman Online)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 889,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI AVG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 959,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI AVG AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 969,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI AVG (Audio w/t Command Online)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 979,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI Coupe AVG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,119,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI Coupe AVG AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,189,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E250",
+        "TIPE": "CGI Cabriolet AVG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,159,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E300",
+        "TIPE": "CGI AVG non AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,109,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E300",
+        "TIPE": "CGI AVG AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,139,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E350",
+        "TIPE": "CGI Coupe AVG AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,459,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "E63",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,999,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "R300",
+        "TIPE": "FL Family",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,099,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "S300",
+        "TIPE": "L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,639,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "S300",
+        "TIPE": "L Solitaire",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,799,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "S350",
+        "TIPE": "L CGI Facelift",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,069,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "S500",
+        "TIPE": "CGI L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,739,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "S600",
+        "TIPE": "L FL",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,399,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLK 200",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 979,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLK 250",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,089,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLK 350",
+        "TIPE": "CGI",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,599,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLK 55",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,899,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLS 63",
+        "TIPE": "AMG Comfort Seat",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 4,419,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLS 63",
+        "TIPE": "AMG Bucket Seat",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 4,239,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "SLS 63",
+        "TIPE": "AMG Roadster",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 4,399,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New CLS 350",
+        "TIPE": "SB",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,499,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New G 500",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,579,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New G 55",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,929,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New G 63",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 3,179,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New ML 350",
+        "TIPE": "CKD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,039,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New ML 350",
+        "TIPE": "CBU",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,199,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New SL 350",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,119,000,000.00"
+    },
+    {
+        "MERK": "Mercedes-Benz",
+        "JENIS": "The New SL 63",
+        "TIPE": "AMG",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 2,919,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R55",
+        "TIPE": "S Clubman",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 708,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R55",
+        "TIPE": "S Clubman JCW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 848,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 514,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "Baker Street",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 554,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "S",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 634,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "S Bayswater",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 684,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "S John Cooper Works",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 803,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "S Premium Package",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 694,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R56",
+        "TIPE": "S JCW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 814,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R57",
+        "TIPE": "S Cabriolet",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 710,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R57",
+        "TIPE": "S Cabrio HighGate",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 730,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R57",
+        "TIPE": "S Cabriolet JCW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 860,500,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R58",
+        "TIPE": "S Coupe",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 745,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R58",
+        "TIPE": "S Coupe JCW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 895,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R59",
+        "TIPE": "S Roadster",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 797,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R59",
+        "TIPE": "S Roadster JCW",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 927,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R60",
+        "TIPE": "Countryman",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 666,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R60",
+        "TIPE": "S Countryman",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 757,000,000.00"
+    },
+    {
+        "MERK": "Mini Cooper",
+        "JENIS": "R61",
+        "TIPE": "S Paceman",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 807,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "All New TRITON",
+        "TIPE": "4x4 DC Exceed 2.5L Diesel AT 178 PS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 403,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "All New TRITON",
+        "TIPE": "4x4 DC Exceed 2.5L Diesel MT 178 PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 389,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "All New TRITON",
+        "TIPE": "4x4 DC GLS 2.5L Diesel MT 136 PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 369,500,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "All New TRITON",
+        "TIPE": "4x4 DC HDX 2.5L Diesel MT 110 PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 345,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "All New TRITON",
+        "TIPE": "4x4 SC HDX 2.5L Diesel MT 110 PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 289,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "All New TRITON",
+        "TIPE": "4x2 SC GLX 2.5L Diesel MT 90 PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 184,500,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE 71 110ps (4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 221,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE 73 110ps (6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 247,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE 73 HD 110ps (4 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 270,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE 74S 125ps (6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 271,500,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE Super HD 136ps (6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 285,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE 84 G HDL 136ps (6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 300,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt Diesel",
+        "TIPE": "FE 84 BC BUS 136ps (6 Ban)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 282,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt T120ss",
+        "TIPE": "PU FD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 100,800,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Colt T120ss",
+        "TIPE": "PU WD-3Ways",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 101,300,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Delica",
+        "TIPE": "Royal Delica Mivec 2.0L AS&G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 450,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Delica",
+        "TIPE": "Delica Mivec 2.0L AS&G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 429,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "FUSO",
+        "TIPE": "FM 517 HS 220ps 6 Ban (4x2)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 522,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "FUSO",
+        "TIPE": "FM 517 HL 220ps 6 Ban (4x2)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 518,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "FUSO",
+        "TIPE": "FM 517 MD2 220ps 6 Ban (6x2)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 650,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "FUSO",
+        "TIPE": "FN 527 MD 220ps 6 Ban (6x4)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 751,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "FUSO",
+        "TIPE": "FN 527 MS 220ps 6 Ban (6x4)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 783,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Grandis",
+        "TIPE": "GT",
+        "TRANSMISI": "",
+        "HARGA": "Rp. 378,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Grandis",
+        "TIPE": "GLS",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 362,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "L300",
+        "TIPE": "PU STD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 161,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "L300",
+        "TIPE": "PU",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 162,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "New Mirage",
+        "TIPE": "Exceed 1.2L 77 PS AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 179,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "New Mirage",
+        "TIPE": "GLS Sport 1.2L 77 PS AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 174,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "New Mirage",
+        "TIPE": "GLS 1.2L 77 PS AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 168,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "New Mirage",
+        "TIPE": "GLX 1.2L 77 PS MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 157,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Outlander Sport",
+        "TIPE": "GX Mivec 2.0 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 312,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Outlander Sport",
+        "TIPE": "GLS Mivec 2.0 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 327,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Outlander Sport",
+        "TIPE": "PX Mivec 2.0 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 352,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Pajero Sport",
+        "TIPE": "V6 3.0L Gasoline 4x2 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 493,500,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Dakkar Diesel 4x4 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 534,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Dakkar Diesel 4x2 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 467,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Exceed 2.5L Diesel 4x2 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 429,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Pajero Sport",
+        "TIPE": "GLS 2.5L Diesel 4x2 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 412,000,000.00"
+    },
+    {
+        "MERK": "Mitsubishi",
+        "JENIS": "Pajero Sport",
+        "TIPE": "GLX 2.5L Diesel 4x4 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 463,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Elgrand",
+        "TIPE": "3.5L Highway Star",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 940,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Elgrand",
+        "TIPE": "2.5L Highway Star",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 795,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Evalia",
+        "TIPE": "S 1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 147,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Evalia",
+        "TIPE": "ST 1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 160,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Evalia",
+        "TIPE": "SV 1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 172,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Evalia",
+        "TIPE": "SV 1.5L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 189,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Evalia",
+        "TIPE": "XV 1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 189,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Evalia",
+        "TIPE": "XV 1.5L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 199,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5L X-Gear",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 212,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.8L ULT X-Gear",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 250,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5L X-Gear",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 225,900,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.8L ULT X-Gear",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 262,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "SV 1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 179,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "SV 1.5L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 190,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "XV 1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 199,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "XV 1.5L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 210,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Grand Livina",
+        "TIPE": "Ultimate 1.5L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 222,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Juke",
+        "TIPE": "CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 246,800,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Juke",
+        "TIPE": "CVT-RX",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 256,800,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Juke",
+        "TIPE": "Red Interior",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 262,800,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Livina",
+        "TIPE": "1.5L X-Gear",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 212,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Livina",
+        "TIPE": "1.5L X-Gear",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 225,900,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "March",
+        "TIPE": "1.2L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 150,800,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "March",
+        "TIPE": "1.2L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 160,900,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "March",
+        "TIPE": "1.2L XS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 170,900,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "March",
+        "TIPE": "1.2L Autech",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 173,200,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "March",
+        "TIPE": "1.5L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 182,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "March",
+        "TIPE": "1.5L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 192,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Murano 3.5L V6",
+        "TIPE": "CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 755,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Navara",
+        "TIPE": "Sport Version",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 377,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Navara",
+        "TIPE": "Sport Version",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 389,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Serena C26 2.0L",
+        "TIPE": "2.0L X",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 350,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Serena C26 2.0L",
+        "TIPE": "2.0L Highway Star",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 387,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Serena C26 2.0L",
+        "TIPE": "2.0L Panoramic",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 399,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "Teana 2.5L V6",
+        "TIPE": "CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 509,450,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "X-Trail",
+        "TIPE": "2.0L",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 326,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "X-Trail",
+        "TIPE": "2.0L",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 356,500,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "X-Trail",
+        "TIPE": "ST 2.5L CVT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 373,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "X-Trail",
+        "TIPE": "ST 2.5L Urban Selection",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 385,000,000.00"
+    },
+    {
+        "MERK": "Nissan",
+        "JENIS": "X-Trail",
+        "TIPE": "XT 2.5L X-Tremer",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 397,500,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "107 City Car",
+        "TIPE": "-",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 230,200,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "207",
+        "TIPE": "Sportium",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 283,300,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "207",
+        "TIPE": "Sedan",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 273,300,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "3008",
+        "TIPE": "1.6 Turbo CrossOver",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 516,800,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "308",
+        "TIPE": "Facelift 1.6 Turbo",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 400,800,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "408",
+        "TIPE": "1.6 Turbo",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 389,500,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "408",
+        "TIPE": "2.0 std",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 335,300,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "5008",
+        "TIPE": "1.6 Turbo MVP",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 535,000,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "508",
+        "TIPE": "1.6 Turbo Sedan Premium",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 609,200,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "GT1",
+        "TIPE": "GT1",
+        "TRANSMISI": "",
+        "HARGA": "Rp. 565,200,000.00"
+    },
+    {
+        "MERK": "Peugeot",
+        "JENIS": "RCZ",
+        "TIPE": "1.6 Turbo",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 833,900,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Bold",
+        "TIPE": "-",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 248,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Prime",
+        "TIPE": "-",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 260,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Star",
+        "TIPE": "Star",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 162,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Star",
+        "TIPE": "Star",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 173,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Star",
+        "TIPE": "Executive",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 176,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Star",
+        "TIPE": "Executive",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 187,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Star",
+        "TIPE": "Supreme",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 197,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Exora Star",
+        "TIPE": "Supreme",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 208,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Saga",
+        "TIPE": "FLX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 140,000,000.00"
+    },
+    {
+        "MERK": "Proton",
+        "JENIS": "Saga",
+        "TIPE": "FLX",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 151,000,000.00"
+    },
+    {
+        "MERK": "Smart",
+        "JENIS": "Passion Cabrio",
+        "TIPE": "Petrol Engine 52 KW (71 hp) mhd",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 237,000,000.00"
+    },
+    {
+        "MERK": "Smart",
+        "JENIS": "Passion Coupe",
+        "TIPE": "Petrol Engine 52 KW (71 hp) mhd",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 217,000,000.00"
+    },
+    {
+        "MERK": "Smart",
+        "JENIS": "Pure Coupe",
+        "TIPE": "Petrol Engine 45 KW (61 hp) mhd",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 187,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "BRZ",
+        "TIPE": "2 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 598,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "BRZ",
+        "TIPE": "2 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 588,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Forester",
+        "TIPE": "2.0 XT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 568,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Impreza Sedan",
+        "TIPE": "2.0 S",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 399,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Legacy",
+        "TIPE": "2.5 GT (Turbo)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 658,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Legacy",
+        "TIPE": "2.0 s",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 450,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Outback",
+        "TIPE": "3.6 R",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 830,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Outback",
+        "TIPE": "2.5 s",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 560,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "Tribeca",
+        "TIPE": "-",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 888,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza 2.5 (Turbo)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 655,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza 2.5 A-Line (Turbo)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 680,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza STI 2.5 (Turbo)",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 670,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza STI 2.5 A-Line (Turbo)",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 695,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "XV",
+        "TIPE": "2.0i Premium",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 380,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "XV",
+        "TIPE": "Sports",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 390,000,000.00"
+    },
+    {
+        "MERK": "Subaru",
+        "JENIS": "XV",
+        "TIPE": "STI Performance Edition",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 399,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "All New Swift",
+        "TIPE": "GS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 215,900,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "All New Swift",
+        "TIPE": "GS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 225,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "All New Swift",
+        "TIPE": "GX 1.4",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 201,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "All New Swift",
+        "TIPE": "GX 1.4",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 210,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "All New Swift",
+        "TIPE": "SPORT 1.6",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 323,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "All New Swift",
+        "TIPE": "SPORT 1.6",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 338,900,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "GL MT Airbag",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 175,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "GX MT Airbag",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 188,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX MT Airbag",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 190,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX AT Airbag",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 205,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX Luxury MT R15 Airbag",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 209,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX Luxury AT R15 Airbag",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 223,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX Luxury MT R17 Airbag",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 213,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX Luxury AT R17 Airbag",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 227,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "GL MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 171,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "GE PS MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 164,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "GX MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 184,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "GX AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 197,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 186,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "SGX AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 201,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "Luxury R15 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 205,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "Luxury R15 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 219,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "Luxury R17 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 209,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "APV",
+        "TIPE": "Luxury R17 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 223,700,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Carry",
+        "TIPE": "PU FD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 115,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Carry",
+        "TIPE": "PU WD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 116,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Carry",
+        "TIPE": "Mega Carry",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 125,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Carry",
+        "TIPE": "Mega Carry Extra",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 127,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Carry",
+        "TIPE": "Mega Carry AC PS",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 131,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Carry",
+        "TIPE": "Mega Carry Exra AC",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 134,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Celerio",
+        "TIPE": "AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 162,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Celerio",
+        "TIPE": "MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 150,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Ertiga",
+        "TIPE": "GL MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 195,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Ertiga",
+        "TIPE": "GL AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 208,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Ertiga",
+        "TIPE": "GX MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 203,900,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Ertiga",
+        "TIPE": "GX AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 216,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Grand Vitara",
+        "TIPE": "2.4 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 349,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Grand Vitara",
+        "TIPE": "2.4 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 360,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Mini Bus",
+        "TIPE": "Realvan GX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 119,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Mini Bus",
+        "TIPE": "Realvan DX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 111,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Mini Bus",
+        "TIPE": "Real Van DX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 107,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Mini Bus",
+        "TIPE": "Real Van GX",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 115,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Ertiga",
+        "TIPE": "GX AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 216,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Ertiga",
+        "TIPE": "GX MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 203,900,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Ertiga",
+        "TIPE": "GL AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 208,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Ertiga",
+        "TIPE": "GL MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 195,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Ertiga",
+        "TIPE": "GA",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 179,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Grand Vitara",
+        "TIPE": "2.4",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 337,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Grand Vitara",
+        "TIPE": "2.4",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 326,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GA Airbag MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 98,400,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GL Airbag MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 111,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GS Airbag MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 120,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GX Airbag MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 117,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GL Airbag AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 119,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GX Airbag AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 126,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R GS Airbag AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 128,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R AGS GS",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 125,400,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R AGS GX",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 122,900,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "New Karimun",
+        "TIPE": "Wagon R AGS GL",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 116,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Mega Carry 1.5",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 102,300,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Mega Carry Extra",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 104,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Mega Carry Xtra",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 100,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Mega Carry",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 98,300,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Carry 1.5 FD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 94,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Carry 1.5 WD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 94,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Futura 1.5 FD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 97,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Pick Up",
+        "TIPE": "Futura 1.5 WD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 97,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Splash",
+        "TIPE": "1.2 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 164,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Splash",
+        "TIPE": "1.2 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 176,000,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Xover SX4",
+        "TIPE": "RC1",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 236,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Xover SX4",
+        "TIPE": "RC1",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 225,200,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Xover SX4",
+        "TIPE": "MC",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 221,500,000.00"
+    },
+    {
+        "MERK": "Suzuki",
+        "JENIS": "Xover SX4",
+        "TIPE": "MC",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 210,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "86",
+        "TIPE": "TRD AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 713,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "86",
+        "TIPE": "Aero AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 703,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "86",
+        "TIPE": "AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 687,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "86",
+        "TIPE": "MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 679,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Agya",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 112,430,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Agya",
+        "TIPE": "E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 124,160,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Agya",
+        "TIPE": "G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 120,430,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Agya",
+        "TIPE": "G MT TRD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 124,530,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Agya",
+        "TIPE": "G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 130,460,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Agya",
+        "TIPE": "G AT TRD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 135,060,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "Q MT Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 402,400,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "Q AT Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 423,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "Q MT Gasoline",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 364,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "Q AT Gasoline",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 384,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "V AT Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 377,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "V MT Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 357,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "V AT Gasoline",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 345,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "V MT Gasoline",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 325,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "G AT Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 331,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "G MT Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 310,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "G MT Gasoline",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 282,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "All New Innova",
+        "TIPE": "G AT Gasoline",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 302,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Alphard",
+        "TIPE": "3.5 Q",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,600,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Alphard",
+        "TIPE": "2.5 G",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 980,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Alphard",
+        "TIPE": "2.5 X",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 830,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Altis",
+        "TIPE": "1.8 G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 405,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Altis",
+        "TIPE": "1.8 V AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 441,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Camry",
+        "TIPE": "2.5 G",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 549,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Camry",
+        "TIPE": "2.5 V",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 584,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Camry",
+        "TIPE": "2.5 Hybrid",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 748,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "110 Box",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 387,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "110 FT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 514,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "110 ET",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 683,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "130 XT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 536,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "130 HT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 451,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "130 HT Dress up",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 407,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Dyna",
+        "TIPE": "Old Fin",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 725,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Etios Valco",
+        "TIPE": "JX MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 147,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Etios Valco",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 162,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Etios Valco",
+        "TIPE": "E Toms",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 174,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Etios Valco",
+        "TIPE": "G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 173,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.7 G Luxury AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 483,150,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.7 G AT Luxury TRD Gasoline",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 512,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.7 V AT 4x4",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 532,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.5 G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 424,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.5 G MT TRD Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 455,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.5 G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 435,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.5 G AT TRD Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 466,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Fortuner",
+        "TIPE": "2.5 G AT 4x4 Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 496,900,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.3 E STD MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 178,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.3 E STD AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 189,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.3 E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 180,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.3 E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 191,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.3 G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 198,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.3 G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 209,400,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Avanza",
+        "TIPE": "1.5 G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 211,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Veloz",
+        "TIPE": "1.3 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 204,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Veloz",
+        "TIPE": "1.3 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 216,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Veloz",
+        "TIPE": "1.5 MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 215,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Grand New Veloz",
+        "TIPE": "1.5 AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 226,900,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Land Cruiser",
+        "TIPE": "200 Standard Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,320,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Land Cruiser",
+        "TIPE": "200 Full Spec Diesel",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,613,400,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Land Cruiser",
+        "TIPE": "C&C Workmate Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 680,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Land Cruiser",
+        "TIPE": "Troop Carrier Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 738,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Land Cruiser",
+        "TIPE": "Wagon Diesel",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 990,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Mark X",
+        "TIPE": "2.5",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 595,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Nav1",
+        "TIPE": "G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 396,350,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Nav1",
+        "TIPE": "V - Limited AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 415,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Nav1",
+        "TIPE": "G Lux",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 389,400,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Nav1",
+        "TIPE": "V Lux",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 409,400,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Previa",
+        "TIPE": "Full Spec",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 1,017,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Prius",
+        "TIPE": "1.8 Hybrid",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 635,900,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 230,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 240,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "S MT TRD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 240,950,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "S AT TRD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 254,250,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "G MT LTD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 232,900,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "G AT LTD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 242,900,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "S MT TRD LTD",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 243,150,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "S AT TRD LTD",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 256,450,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "S MT TRD DU",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 246,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Rush",
+        "TIPE": "S AT TRD DU",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 259,600,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vellfire",
+        "TIPE": "2.5 G",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 980,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vios",
+        "TIPE": "1.5 E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 268,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vios",
+        "TIPE": "1.5 E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 277,700,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vios",
+        "TIPE": "1.5 G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 286,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vios",
+        "TIPE": "1.5 G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 299,100,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vios",
+        "TIPE": "TRD Sportivo MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 302,500,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Vios",
+        "TIPE": "TRD Sportivo AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 315,400,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Yaris",
+        "TIPE": "E MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 227,000,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Yaris",
+        "TIPE": "E AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 237,800,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Yaris",
+        "TIPE": "G MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 235,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Yaris",
+        "TIPE": "G AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 245,300,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Yaris",
+        "TIPE": "TRD MT",
+        "TRANSMISI": "Manual",
+        "HARGA": "Rp. 257,200,000.00"
+    },
+    {
+        "MERK": "Toyota",
+        "JENIS": "Yaris",
+        "TIPE": "TRD AT",
+        "TRANSMISI": "Automatic",
+        "HARGA": "Rp. 268,000,000.00"
+    },
+    {
+        "MERK": "Volvo",
+        "JENIS": "C30",
+        "TIPE": "2.0i",
+        "TRANSMISI": "-",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "Volvo",
+        "JENIS": "S80",
+        "TIPE": "T5",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 875,000,000.00"
+    },
+    {
+        "MERK": "Volvo",
+        "JENIS": "XC60",
+        "TIPE": "T5",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 835,000,000.00"
+    },
+    {
+        "MERK": "Volvo",
+        "JENIS": "XC90",
+        "TIPE": "T5",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 1,100,000,000.00"
+    },
+    {
+        "MERK": "Volvo",
+        "JENIS": "XC90",
+        "TIPE": "3.2i",
+        "TRANSMISI": "-",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "Caravelle",
+        "TIPE": "2.0 TDI SWB (Facelift)",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 998,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "Caravelle",
+        "TIPE": "2.0 TDI LWB (Facelift)",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 1,098,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New Golf",
+        "TIPE": "1.4 TSI",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 354,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New Polo",
+        "TIPE": "1.4 MPI",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 258,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New SCIROCCO",
+        "TIPE": "1.4 TSI",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 429,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New SCIROCCO",
+        "TIPE": "2",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 650,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New SCIROCCO",
+        "TIPE": "2.0 Type R",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 698,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New Tiguan",
+        "TIPE": "1.4 TSI",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 399,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New Tiguan",
+        "TIPE": "1.4 TSI HI-LINE",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 420,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "New Touran",
+        "TIPE": "1.4 TSI",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 420,000,000.00"
+    },
+    {
+        "MERK": "VW",
+        "JENIS": "Touareg",
+        "TIPE": "3.0 TDI",
+        "TRANSMISI": "-",
+        "HARGA": "Rp. 1,485,000,000.00"
+    }
+]
+}
