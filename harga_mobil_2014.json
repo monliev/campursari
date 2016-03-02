@@ -1,0 +1,5013 @@
+{
+  "contacts": 
+  [
+    {
+        "MERK": "AUDI",
+        "JENIS": "A3",
+        "TIPE": "2.0 T FSI S tronic",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "200hp",
+        "HARGA": "by order"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "A4",
+        "TIPE": "1.8 T FSI",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 585,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "A5",
+        "TIPE": "1.8 T FSI PI",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 557,500,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "A5",
+        "TIPE": "3.2 TFSI Quattro",
+        "KAPASITAS MESIN": "3.197cc",
+        "TENAGA": "261hp",
+        "HARGA": "Rp. 1,200,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "A6",
+        "TIPE": "2.8 FSI",
+        "KAPASITAS MESIN": "2.773cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 985,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "A7",
+        "TIPE": "3.0 TFSI quattro",
+        "KAPASITAS MESIN": "2.995cc",
+        "TENAGA": "300hp",
+        "HARGA": "Rp. 1,190,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "A8 L 2011",
+        "TIPE": "L 3.0 FSI quattro",
+        "KAPASITAS MESIN": "3.000cc",
+        "TENAGA": "290hp",
+        "HARGA": "Rp. 1,900,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "New A6",
+        "TIPE": "2.8 FSI",
+        "KAPASITAS MESIN": "2.773cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 985,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "New A7",
+        "TIPE": "3.0 TFSI quattro",
+        "KAPASITAS MESIN": "2.995cc",
+        "TENAGA": "300hp",
+        "HARGA": "Rp. 1,110,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "New A8",
+        "TIPE": "3.0 TFSI quattro",
+        "KAPASITAS MESIN": "2.995cc",
+        "TENAGA": "300hp",
+        "HARGA": "Rp. 1,190,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q10",
+        "TIPE": "2.0 T FSI quattro+Panoramic+S-Line Interior",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 1,030,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q11",
+        "TIPE": "2.0 T FSI quattro+S-Line Package",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 1,060,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q12",
+        "TIPE": "2.0 T FSI quattro+S-Line Package+Panoramic",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 1,105,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q5",
+        "TIPE": "2.0 T FSI Quattro",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 940,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q6",
+        "TIPE": "2.0 T FSI quattro+Panoramic",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 985,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q7",
+        "TIPE": "2.0 T FSI quattro+S-Line Ekterior",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 985,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q7",
+        "TIPE": "3.0 T FSI V6 quattro",
+        "KAPASITAS MESIN": "3000cc",
+        "TENAGA": "272hp",
+        "HARGA": "Rp. 1,390,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q8",
+        "TIPE": "2.0 T FSI quattro+Panoramic+S-Line Ekterior",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 1,030,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "Q9",
+        "TIPE": "2.0 T FSI quattro+S-Line Interior",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "211hp",
+        "HARGA": "Rp. 985,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "R8",
+        "TIPE": "V10",
+        "KAPASITAS MESIN": "5.204cc",
+        "TENAGA": "525hp",
+        "HARGA": "Rp. 5,200,000,000.00"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "TT",
+        "TIPE": "2.0 T FSI S-tronic",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "200hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "AUDI",
+        "JENIS": "TT",
+        "TIPE": "2.0 T FSI quattro",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 1,270,000,000.00"
+    },
+    {
+        "MERK": "BENTLEY",
+        "JENIS": "Bentley",
+        "TIPE": "Continental GT 60 W12",
+        "KAPASITAS MESIN": "5.993cc",
+        "TENAGA": "560hp",
+        "HARGA": "Rp. 5,177,000,000.00"
+    },
+    {
+        "MERK": "BENTLEY",
+        "JENIS": "Bentley",
+        "TIPE": "Flying Spur 6.0 W12",
+        "KAPASITAS MESIN": "5.998cc",
+        "TENAGA": "560hp",
+        "HARGA": "Rp. 5,380,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "All New Seri-3",
+        "TIPE": "320i Luxury",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 649,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "All New Seri-3",
+        "TIPE": "320i Sport",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 599,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "All New Seri-3",
+        "TIPE": "328i Sport",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "245hp",
+        "HARGA": "Rp. 729,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "All New Seri-3",
+        "TIPE": "328i Luxury",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "245hp",
+        "HARGA": "Rp. 729,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "All New Seri-3",
+        "TIPE": "335i Luxury",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 849,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "All New Seri-3",
+        "TIPE": "M3 Coupe Competition",
+        "KAPASITAS MESIN": "3.999cc",
+        "TENAGA": "560hp",
+        "HARGA": "Rp. 1,750,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "520d",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 768,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "523i Business",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 788,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "523i Executive",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 828,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "535i",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,228,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "535i Grand Turismo",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,398,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "528i",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "258hp",
+        "HARGA": "Rp. 958,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-5",
+        "TIPE": "550i Gran Turismo",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "407hp",
+        "HARGA": "Rp. 1,918,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "640i Convertible",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 1,598,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "640i Coupe",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 1,418,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "640i Gran Coupe",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 1,628,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "650i Convertible",
+        "KAPASITAS MESIN": "4.385cc",
+        "TENAGA": "407hp",
+        "HARGA": "Rp. 2,098,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "650i Coupe",
+        "KAPASITAS MESIN": "4.385cc",
+        "TENAGA": "407hp",
+        "HARGA": "Rp. 1,888,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "650i Gran Coupe",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "450hp",
+        "HARGA": "Rp. 2,198,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "New Seri-6",
+        "TIPE": "M6",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "560hp",
+        "HARGA": "Rp. 2,398,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri 1",
+        "TIPE": "116i Urban Line",
+        "KAPASITAS MESIN": "1.600cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 529,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri 1",
+        "TIPE": "116i Sport Line",
+        "KAPASITAS MESIN": "1.600cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 529,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri 1",
+        "TIPE": "All New Seri-3 (F30)",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "340hp",
+        "HARGA": "Rp. 988,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-7",
+        "TIPE": "740Li",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 2,188,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-7",
+        "TIPE": "730Ld",
+        "KAPASITAS MESIN": "2.993cc",
+        "TENAGA": "258hp",
+        "HARGA": "Rp. 1,748,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-7",
+        "TIPE": "730Li",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "258hp",
+        "HARGA": "Rp. 1,688,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-7",
+        "TIPE": "750Li",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "450hp",
+        "HARGA": "Rp. 2,688,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-7",
+        "TIPE": "760Li",
+        "KAPASITAS MESIN": "5.972cc",
+        "TENAGA": "544hp",
+        "HARGA": "Rp. 3,348,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X1 sDrive 20d",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "177hp",
+        "HARGA": "Rp. 698,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X1 sDrive 18i Executive",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 539,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X5 xDrive 35i Bussines",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,198,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X6 xDrive35i Edition",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,768,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X5 xDrive35i Executive 7-seater",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,428,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X5 xDrive30d",
+        "KAPASITAS MESIN": "2.993cc",
+        "TENAGA": "245hp",
+        "HARGA": "Rp. 1,298,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X6 xDrive50i",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "407hp",
+        "HARGA": "Rp. 2,058,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X5M",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "555hp",
+        "HARGA": "Rp. 2,268,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X6M",
+        "KAPASITAS MESIN": "4.395cc",
+        "TENAGA": "555hp",
+        "HARGA": "Rp. 2,398,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X3 xDrive 2.0d Business",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 828,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X3 xDrive 2.0d Executive",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 898,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-X",
+        "TIPE": "X3 xDrive 3.5i",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,028,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-Z",
+        "TIPE": "Z4 sDrive 23i",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 998,000,000.00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "Seri-Z",
+        "TIPE": "Z4 sDrive 35i",
+        "KAPASITAS MESIN": "2.979cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,398,000,000.00"
+    },
+    {
+        "MERK": "CHERY",
+        "JENIS": "QQ",
+        "TIPE": "1.1 G Elegance M/T",
+        "KAPASITAS MESIN": "1.083cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp. 98,500,000.00"
+    },
+    {
+        "MERK": "CHERY",
+        "JENIS": "QQ",
+        "TIPE": "1.1 S M/T",
+        "KAPASITAS MESIN": "1.083cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp. 93,500,000.00"
+    },
+    {
+        "MERK": "CHERY",
+        "JENIS": "QQ",
+        "TIPE": "1.1 G Sporty M/T",
+        "KAPASITAS MESIN": "1.083cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp. 101,500,000.00"
+    },
+    {
+        "MERK": "CHERY",
+        "JENIS": "Tiggo",
+        "TIPE": "2.0 SX M/T",
+        "KAPASITAS MESIN": "1.971cc",
+        "TENAGA": "129hp",
+        "HARGA": "Rp. 178,900,000.00"
+    },
+    {
+        "MERK": "CHERY",
+        "JENIS": "Tiggo",
+        "TIPE": "2.0 GX M/T",
+        "KAPASITAS MESIN": "1.971cc",
+        "TENAGA": "129hp",
+        "HARGA": "Rp. 185,500,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "All New Aveo",
+        "TIPE": "LS M/T",
+        "KAPASITAS MESIN": "1.398cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 168,800,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "All New Aveo",
+        "TIPE": "LT A/T",
+        "KAPASITAS MESIN": "1.398cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 198,800,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "All New Aveo",
+        "TIPE": "LT M/T",
+        "KAPASITAS MESIN": "1.398cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 178,800,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Colorado",
+        "TIPE": "Extended Cabin",
+        "KAPASITAS MESIN": "2.500cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 265,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Colorado",
+        "TIPE": "LT Double Cabin",
+        "KAPASITAS MESIN": "2.500cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 323,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Colorado",
+        "TIPE": "LTZ Double Cabin",
+        "KAPASITAS MESIN": "2.500cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 343,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Cruze",
+        "TIPE": "M/T",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "141hp",
+        "HARGA": "Rp. 309,900,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Cruze",
+        "TIPE": "A/T",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "141hp",
+        "HARGA": "Rp. 335,900,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.0 VCDi Diesel A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 363,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.0 VCDi Diesel A/T Pearl White",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 369,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.0 VCDi Diesel A/T AWD",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 429,500,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.0 VCDi Diesel A/T AWD Perl White",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 435,500,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.4L M/T Perl White",
+        "KAPASITAS MESIN": "2.384cc",
+        "TENAGA": "171hp",
+        "HARGA": "Rp. 335,500,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.4L A/T Perl White",
+        "KAPASITAS MESIN": "2.384cc",
+        "TENAGA": "171hp",
+        "HARGA": "Rp. 352,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.4L M/T",
+        "KAPASITAS MESIN": "2.384cc",
+        "TENAGA": "171hp",
+        "HARGA": "Rp. 329,500,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "New Captiva",
+        "TIPE": "2.4L A/T",
+        "KAPASITAS MESIN": "2.384cc",
+        "TENAGA": "171hp",
+        "HARGA": "Rp. 346,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Orlando",
+        "TIPE": "LT 1.8L A/T",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "141hp",
+        "HARGA": "Rp. 330,000,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Spark",
+        "TIPE": "1.2 LT M/T",
+        "KAPASITAS MESIN": "1.206cc",
+        "TENAGA": "82hp",
+        "HARGA": "Rp. 142,800,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Trailblazer",
+        "TIPE": "LT 2.5 M/T 4x2",
+        "KAPASITAS MESIN": "2.449cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 360,800,000.00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Trailblazer",
+        "TIPE": "LTZ Double Cabin",
+        "KAPASITAS MESIN": "2.776cc",
+        "TENAGA": "180hp",
+        "HARGA": "Rp. 578,800,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "300C",
+        "TIPE": "3.5 Executive",
+        "KAPASITAS MESIN": "3.518cc",
+        "TENAGA": "249hp",
+        "HARGA": "1,050000000"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "300C",
+        "TIPE": "SRT 6.1",
+        "KAPASITAS MESIN": "6.059cc",
+        "TENAGA": "431hp",
+        "HARGA": "Rp. 1,350,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Grand Cherokee",
+        "TIPE": "3.6 Limited",
+        "KAPASITAS MESIN": "3.604cc",
+        "TENAGA": "210hp",
+        "HARGA": "Rp. 1,150,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Grand Cherokee",
+        "TIPE": "70th Anniversary 3.6",
+        "KAPASITAS MESIN": "3.604cc",
+        "TENAGA": "210hp",
+        "HARGA": "Rp. 1,250,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Grand Cherokee",
+        "TIPE": "70th Anniversary 5.7",
+        "KAPASITAS MESIN": "5.654cc",
+        "TENAGA": "259hp",
+        "HARGA": "Rp. 1,450,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Grand Cherokee",
+        "TIPE": "5.7 Overland",
+        "KAPASITAS MESIN": "5.654cc",
+        "TENAGA": "259hp",
+        "HARGA": "Rp. 1,450,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Patriot",
+        "TIPE": "2.4",
+        "KAPASITAS MESIN": "2.400cc",
+        "TENAGA": "168hp",
+        "HARGA": "Rp. 585,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "Sport 2-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 690,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "Sport 4-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 775,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "Sahara 2-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 785,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "Sahara 4-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 855,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "Rubicon 2-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 795,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "Rubicon 4-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 875,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "70th Anniversary 2-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 805,000,000.00"
+    },
+    {
+        "MERK": "CHRYSLER",
+        "JENIS": "Wrangler",
+        "TIPE": "70th Anniversary 4-door",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 895,000,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "ALL New Sirion",
+        "TIPE": "1.3 M/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "90hp",
+        "HARGA": "Rp. 139,500,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "ALL New Sirion",
+        "TIPE": "1.3 A/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "90hp",
+        "HARGA": "Rp. 150,500,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 M/T Attivo",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 169,000,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R A/T Spoty",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 173,900,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R A/T Std",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 156,700,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R M/T Sporty",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 163,800,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R M/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 154,700,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R M/T Family",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 162,900,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R M/T Std",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 145,200,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 X",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 143,500,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 X Std",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 141,200,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 A/T Attivo",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 179,300,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R A/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 167,600,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.3 R A/T Family",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 173,000,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.0 D",
+        "KAPASITAS MESIN": "989cc",
+        "TENAGA": "63hp",
+        "HARGA": "Rp. 132,400,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.0 D Std",
+        "KAPASITAS MESIN": "989cc",
+        "TENAGA": "63hp",
+        "HARGA": "Rp. 126,600,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.0 M Std",
+        "KAPASITAS MESIN": "989cc",
+        "TENAGA": "63hp",
+        "HARGA": "Rp. 130,600,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.0 M",
+        "KAPASITAS MESIN": "989cc",
+        "TENAGA": "63hp",
+        "HARGA": "Rp. 141,100,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.0 M Family",
+        "KAPASITAS MESIN": "989cc",
+        "TENAGA": "63hp",
+        "HARGA": "Rp. 148,500,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "All New Xenia",
+        "TIPE": "1.0 M Sporty",
+        "KAPASITAS MESIN": "989cc",
+        "TENAGA": "63hp",
+        "HARGA": "Rp. 194,400,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Ayla",
+        "TIPE": "D M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "RP 76500000"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Ayla",
+        "TIPE": "D+ M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 85900000"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Ayla",
+        "TIPE": "M M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 90950000"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Ayla",
+        "TIPE": "M A/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 99950000"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Ayla",
+        "TIPE": "X M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 97950000"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Ayla",
+        "TIPE": "X A/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 107000000"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Grand Max",
+        "TIPE": "Minibus 1.3 D",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "86hp",
+        "HARGA": "Rp. 122,700,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Grand Max",
+        "TIPE": "Minibus 1.3 D FF",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "86hp",
+        "HARGA": "Rp. 123,400,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Grand Max",
+        "TIPE": "Minibus 1.5 D PS",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 138,200,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 D M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 148,100,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 D M/T Premio",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 152,700,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 M M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 160,100,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 M M/T Elite",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 167,300,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 X M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 164,600,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 X A/t",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 175,800,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 X A/T Prestige",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 184,300,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "Luxio",
+        "TIPE": "1.5 X M/T Prestige",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 173,100,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TS M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 158,000,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TS M/T +XTRA",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 169,700,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TS A/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 171,800,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TS A/T +XTRA",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 174,800,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TX M/T DLX",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 187,000,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TX M/T Adventure",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 197,300,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TX A/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 198,000,000.00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "New Terios",
+        "TIPE": "TX A/T +XTRA",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 209,900,000.00"
+    },
+    {
+        "MERK": "DATSUN",
+        "JENIS": "Go+ Panca",
+        "TIPE": "D M/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 85000000"
+    },
+    {
+        "MERK": "DATSUN",
+        "JENIS": "Go+ Panca",
+        "TIPE": "A M/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 92400000"
+    },
+    {
+        "MERK": "DATSUN",
+        "JENIS": "Go+ Panca",
+        "TIPE": "T M/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 99900000"
+    },
+    {
+        "MERK": "DATSUN",
+        "JENIS": "Go+ Panca",
+        "TIPE": "T Optiom M/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 102900000"
+    },
+    {
+        "MERK": "DODGE",
+        "JENIS": "Journey",
+        "TIPE": "2.4 SXT",
+        "KAPASITAS MESIN": "2.400cc",
+        "TENAGA": "173hp",
+        "HARGA": "Rp. 488,000,000.00"
+    },
+    {
+        "MERK": "DODGE",
+        "JENIS": "Journey",
+        "TIPE": "2.4 Luxury",
+        "KAPASITAS MESIN": "2.400cc",
+        "TENAGA": "173hp",
+        "HARGA": "Rp. 540,000,000.00"
+    },
+    {
+        "MERK": "DODGE",
+        "JENIS": "Journey",
+        "TIPE": "2.4 Platinum",
+        "KAPASITAS MESIN": "2.400cc",
+        "TENAGA": "173hp",
+        "HARGA": "Rp. 560,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Escape Facelift",
+        "TIPE": "XLT A/T",
+        "KAPASITAS MESIN": "2.261cc",
+        "TENAGA": "157hp",
+        "HARGA": "Rp. 331,400,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Escape Facelift",
+        "TIPE": "Limited A/T",
+        "KAPASITAS MESIN": "2.261cc",
+        "TENAGA": "157hp",
+        "HARGA": "Rp. 347,900,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta",
+        "TIPE": "1.4 Style M/T",
+        "KAPASITAS MESIN": "1.388cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 179,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta",
+        "TIPE": "1.4 Trend M/T",
+        "KAPASITAS MESIN": "1.388cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 191,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta",
+        "TIPE": "1.4 Trend A/T",
+        "KAPASITAS MESIN": "1.388cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 201,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta",
+        "TIPE": "1.6 Sport M/T",
+        "KAPASITAS MESIN": "1.596cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 216,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta",
+        "TIPE": "1.6 Sport+ A/T",
+        "KAPASITAS MESIN": "1.596cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 236,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta Sedan",
+        "TIPE": "Trend M/T",
+        "KAPASITAS MESIN": "1.596cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 214,750,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Fiesta Sedan",
+        "TIPE": "Sport A/T",
+        "KAPASITAS MESIN": "1.596cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 244,250,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Everest TDCI",
+        "TIPE": "XLT 4x2 M/T",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 350,800,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Everest TDCI",
+        "TIPE": "XLT 4x2 A/T",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 365,700,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Everest TDCI",
+        "TIPE": "Limited 4x2 A/T",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 382,500,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Everest TDCI",
+        "TIPE": "XLT 4x4 M/T 10-Seater",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 435,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Focus Facelift",
+        "TIPE": "Comfort 1.8L",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 246,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Focus Facelift",
+        "TIPE": "Sport TDCi 2.0L",
+        "KAPASITAS MESIN": "1.999cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 344,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "S-Cab Base TDi M/T 4x2",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 147,500,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-cab Hi-Rider TDCi A/T 4x2",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 298,200,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "S-Cab Base TDi M/T 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 239,700,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RAS-Cab Base TDi M/T 4X4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 250,600,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-Cab Hi-Rider TDCi M/T 4x2",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 284,500,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-Cab Base TDCi M/T 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 291,700,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-Cab XLT-D Plus TDCi M/T 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 321,500,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-Cab XLT-D TDCi M/T 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 308,700,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "S-Cab Base Plus TDi M/T 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 253,600,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "S-Cab Chassis TDi M/T 4x2",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 137,500,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "S-Cab Standar TDi M/T 4x2",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "143hp",
+        "HARGA": "Rp. 145,000,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-Cab XLT TDCi A/T 3.0L 4x4",
+        "KAPASITAS MESIN": "2.999cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 345,200,000.00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "D-Cab XLT TDCi M/T 3.0L 4x4",
+        "KAPASITAS MESIN": "2.999cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 331,800,000.00"
+    },
+    {
+        "MERK": "GEELY",
+        "JENIS": "MK II Hatchback",
+        "TIPE": "1.5GT M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 135,000,000.00"
+    },
+    {
+        "MERK": "GEELY",
+        "JENIS": "MK Sedan",
+        "TIPE": "1.5GT M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 147,500,000.00"
+    },
+    {
+        "MERK": "GEELY",
+        "JENIS": "MK Sedan",
+        "TIPE": "1.5GS M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 135,000,000.00"
+    },
+    {
+        "MERK": "GEELY",
+        "JENIS": "Panda",
+        "TIPE": "1.3L M/T",
+        "KAPASITAS MESIN": "1.300cc",
+        "TENAGA": "85hp",
+        "HARGA": "Rp. 95,000,000.00"
+    },
+    {
+        "MERK": "GEELY",
+        "JENIS": "Panda LC Cross",
+        "TIPE": "1.3GS M/T",
+        "KAPASITAS MESIN": "1.300cc",
+        "TENAGA": "85hp",
+        "HARGA": "Rp. 112,000,000.00"
+    },
+    {
+        "MERK": "GEELY",
+        "JENIS": "Panda LC Cross",
+        "TIPE": "1.3GL M/T",
+        "KAPASITAS MESIN": "1.300cc",
+        "TENAGA": "85hp",
+        "HARGA": "Rp. 120,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Accord",
+        "TIPE": "VTi 2.4 A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "176hp",
+        "HARGA": "Rp. 520,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Accord",
+        "TIPE": "VTi-L 2.4 A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "176hp",
+        "HARGA": "Rp. 5,870,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Accord",
+        "TIPE": "All New Accord VTi 2.4 A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "176hp",
+        "HARGA": "Rp 499000000"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Accord",
+        "TIPE": "All New Accord VTi-L 2.4 A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "176hp",
+        "HARGA": "Rp 549000000"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New City",
+        "TIPE": "All New City S M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 262,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New City",
+        "TIPE": "All New City S A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 277,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New City",
+        "TIPE": "All New City E M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 271,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New City",
+        "TIPE": "All New City E A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 286,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New Civic 2012",
+        "TIPE": "1.8 i-VTEC M/T",
+        "KAPASITAS MESIN": "1.799cc",
+        "TENAGA": "141hp",
+        "HARGA": "Rp. 345,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New Civic 2012",
+        "TIPE": "1.8 i-VTEC A/T",
+        "KAPASITAS MESIN": "1.799cc",
+        "TENAGA": "141hp",
+        "HARGA": "Rp. 358,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New Civic 2012",
+        "TIPE": "2.0 i-VTEC A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 406,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New CR-V",
+        "TIPE": "2.0L i-VTEC M/T",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 359,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New CR-V",
+        "TIPE": "2.0L i-VTEC A/T",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 370,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New CR-V",
+        "TIPE": "2.4L i-VTEC A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "190hp",
+        "HARGA": "Rp. 404,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New CR-V",
+        "TIPE": "2.4L i-VTEC Prestige A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "190hp",
+        "HARGA": "Rp. 423,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "All New Odyssey",
+        "TIPE": "2.4 i-VTEC A/T",
+        "KAPASITAS MESIN": "2.354cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 529,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio",
+        "TIPE": "S M/T",
+        "KAPASITAS MESIN": "1.339cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 152,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio",
+        "TIPE": "S A/T",
+        "KAPASITAS MESIN": "1.339cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 162,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio",
+        "TIPE": "E M/T",
+        "KAPASITAS MESIN": "1.339cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 163,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio",
+        "TIPE": "E A/T",
+        "KAPASITAS MESIN": "1.339cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 173,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Freed",
+        "TIPE": "A A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp. 210,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Freed",
+        "TIPE": "S A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp. 261,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Freed",
+        "TIPE": "E A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp. 230,500,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "S M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp 159500000"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "E M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp 179000000"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "E CVT",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp 189500000"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "E CVT Prestige",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "118hp",
+        "HARGA": "Rp 198000000"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "New Jazz",
+        "TIPE": "All New Jazz S M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 203,500,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "New Jazz",
+        "TIPE": "All New Jazz S A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 213,500,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "New Jazz",
+        "TIPE": "All New Jazz RS M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 221,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "New Jazz",
+        "TIPE": "All New Jazz RS A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 231,000,000.00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "New Jazz",
+        "TIPE": "All New Jazz A M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 189,000,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "All New Santa FE",
+        "TIPE": "CRDi A/T",
+        "KAPASITAS MESIN": "2.200cc",
+        "TENAGA": "198hp",
+        "HARGA": "Rp. 449,000,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Avega",
+        "TIPE": "GX M/T",
+        "KAPASITAS MESIN": "1.495cc",
+        "TENAGA": "90hp",
+        "HARGA": "Rp. 122,950,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Avega",
+        "TIPE": "GX A/T",
+        "KAPASITAS MESIN": "1.495cc",
+        "TENAGA": "90hp",
+        "HARGA": "Rp. 134,250,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "1.4 A/T",
+        "KAPASITAS MESIN": "1.396cc",
+        "TENAGA": "108hp",
+        "HARGA": "Rp. 181,000,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "1.4 M/T",
+        "KAPASITAS MESIN": "1.396cc",
+        "TENAGA": "108hp",
+        "HARGA": "Rp. 168,500,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1 Facelift",
+        "TIPE": "XG A/T",
+        "KAPASITAS MESIN": "2.359cc",
+        "TENAGA": "175hp",
+        "HARGA": "Rp. 387,100,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1 Facelift",
+        "TIPE": "Elegance A/T",
+        "KAPASITAS MESIN": "2.359cc",
+        "TENAGA": "175hp",
+        "HARGA": "Rp. 362,100,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1 Facelift",
+        "TIPE": "Elegance CRDi A/T",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 408,900,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1 Facelift",
+        "TIPE": "Elegance CRDi M/T",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 386,500,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1 Facelift",
+        "TIPE": "Royale CRDi",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 496,400,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1 Facelift",
+        "TIPE": "XG CRDi A/T",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 431,400,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "New Sonata",
+        "TIPE": "2.4L A/T",
+        "KAPASITAS MESIN": "2.359cc",
+        "TENAGA": "178hp",
+        "HARGA": "Rp. 449,500,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "New Tucson",
+        "TIPE": "GLS A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 297,650,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "New Tucson",
+        "TIPE": "Limited A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 330,000,000.00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Starex",
+        "TIPE": "Starex",
+        "KAPASITAS MESIN": "2.497cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 496,400,000.00"
+    },
+    {
+        "MERK": "INFINITI",
+        "JENIS": "FX",
+        "TIPE": "FX37",
+        "KAPASITAS MESIN": "3.696cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 1,220,000,000.00"
+    },
+    {
+        "MERK": "INFINITI",
+        "JENIS": "FX",
+        "TIPE": "FX50 V6",
+        "KAPASITAS MESIN": "5.000cc",
+        "TENAGA": "390hp",
+        "HARGA": "Rp. 1,520,000,000.00"
+    },
+    {
+        "MERK": "INFINITI",
+        "JENIS": "G",
+        "TIPE": "G37",
+        "KAPASITAS MESIN": "3.696cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 1,120,000,000.00"
+    },
+    {
+        "MERK": "INFINITI",
+        "JENIS": "M",
+        "TIPE": "M37",
+        "KAPASITAS MESIN": "3.696cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 1,120,000,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "Smart H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "74hp",
+        "HARGA": "Rp. 214,000,000.00"
+    },
+    {
+        "MERK": "JAGUAR",
+        "JENIS": "XF",
+        "TIPE": "3.0 V6 Luxury",
+        "KAPASITAS MESIN": "2.968cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 1,250,000,000.00"
+    },
+    {
+        "MERK": "JAGUAR",
+        "JENIS": "XF",
+        "TIPE": "3.0 V6 Premium Luxury",
+        "KAPASITAS MESIN": "2.968cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 1,350,000,000.00"
+    },
+    {
+        "MERK": "JAGUAR",
+        "JENIS": "XJ",
+        "TIPE": "XJ-5",
+        "KAPASITAS MESIN": "5.000cc",
+        "TENAGA": "385hp",
+        "HARGA": "Rp. 2,850,000,000.00"
+    },
+    {
+        "MERK": "JAGUAR",
+        "JENIS": "XK",
+        "TIPE": "XK 5.0 V8 Coupe",
+        "KAPASITAS MESIN": "5.000cc",
+        "TENAGA": "385hp",
+        "HARGA": "Rp. 2,750,000,000.00"
+    },
+    {
+        "MERK": "JAGUAR",
+        "JENIS": "XK",
+        "TIPE": "XK 5.0 V8 Convertible",
+        "KAPASITAS MESIN": "5.000cc",
+        "TENAGA": "385hp",
+        "HARGA": "by order"
+    },
+    {
+        "MERK": "JAGUAR",
+        "JENIS": "XK",
+        "TIPE": "XKR 5.0 V8 Supercharge Coupe",
+        "KAPASITAS MESIN": "5.000cc",
+        "TENAGA": "510hp",
+        "HARGA": "Rp. 2,990,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "Option A/T",
+        "KAPASITAS MESIN": "1.248cc",
+        "TENAGA": "87hp",
+        "HARGA": "Rp. 145,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "Option M/T",
+        "KAPASITAS MESIN": "1.248cc",
+        "TENAGA": "87hp",
+        "HARGA": "Rp. 131,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Rio",
+        "TIPE": "Hatchback M/T",
+        "KAPASITAS MESIN": "1.396cc",
+        "TENAGA": "106hp",
+        "HARGA": "Rp. 164,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Rio",
+        "TIPE": "Hatchback A/T",
+        "KAPASITAS MESIN": "1.396cc",
+        "TENAGA": "106hp",
+        "HARGA": "Rp. 178,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 270,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "LX M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 270,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "LX AT",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 384,500,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sportage",
+        "TIPE": "Platinum AT",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 356,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "2.7 M/T Pick Up Non PS",
+        "KAPASITAS MESIN": "2.667cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 139,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Pregio",
+        "TIPE": "2.7 SE DSL M/T",
+        "KAPASITAS MESIN": "2.667cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 261,000,000.00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "16-Seats Option 2 Long",
+        "KAPASITAS MESIN": "2.667cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 194,000,000.00"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Gallardo",
+        "TIPE": "LP550-2",
+        "KAPASITAS MESIN": "5.204cc",
+        "TENAGA": "550hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Gallardo",
+        "TIPE": "LP560-4",
+        "KAPASITAS MESIN": "5.204cc",
+        "TENAGA": "560hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Gallardo",
+        "TIPE": "LP560-4 Spyder",
+        "KAPASITAS MESIN": "5.204cc",
+        "TENAGA": "560hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Gallardo",
+        "TIPE": "LP570-4 Superleggera",
+        "KAPASITAS MESIN": "5.204cc",
+        "TENAGA": "570hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Murciélago",
+        "TIPE": "LP640 Roadster",
+        "KAPASITAS MESIN": "6.496cc",
+        "TENAGA": "640hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Murciélago",
+        "TIPE": "LP670-4 SV",
+        "KAPASITAS MESIN": "6.496cc",
+        "TENAGA": "670hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LAMBORGHINI",
+        "JENIS": "Murciélago",
+        "TIPE": "LP640",
+        "KAPASITAS MESIN": "6.496cc",
+        "TENAGA": "640hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "GS",
+        "TIPE": "300",
+        "KAPASITAS MESIN": "2.995cc",
+        "TENAGA": "245hp",
+        "HARGA": "Rp. 1,233,500,000.00"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "IS",
+        "TIPE": "300",
+        "KAPASITAS MESIN": "2.995cc",
+        "TENAGA": "288hp",
+        "HARGA": "Rp. 1,119,000,000.00"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "LS",
+        "TIPE": "460 L Facelift",
+        "KAPASITAS MESIN": "4.608cc",
+        "TENAGA": "381hp",
+        "HARGA": "Rp. 2,143,500,000.00"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "LS",
+        "TIPE": "600h L",
+        "KAPASITAS MESIN": "4.969cc",
+        "TENAGA": "394hp",
+        "HARGA": "Rp. 2,728,000,000.00"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "LX",
+        "TIPE": "570",
+        "KAPASITAS MESIN": "5.663cc",
+        "TENAGA": "383hp",
+        "HARGA": "Rp. 1,999,000,000.00"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "New RX",
+        "TIPE": "270",
+        "KAPASITAS MESIN": "2.672cc",
+        "TENAGA": "181hp",
+        "HARGA": "Rp. 930,000,000.00"
+    },
+    {
+        "MERK": "LEXUS",
+        "JENIS": "New RX",
+        "TIPE": "350",
+        "KAPASITAS MESIN": "3.456cc",
+        "TENAGA": "272hp",
+        "HARGA": "Rp. 1,152,450,000.00"
+    },
+    {
+        "MERK": "LOTUS",
+        "JENIS": "Elise",
+        "TIPE": "Elise Super Change",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "217hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LOTUS",
+        "JENIS": "Evora",
+        "TIPE": "Evora 2+2 V6",
+        "KAPASITAS MESIN": "3.456cc",
+        "TENAGA": "276hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "LOTUS",
+        "JENIS": "Exige",
+        "TIPE": "Exige S, Super Charge",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "220hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Biante",
+        "TIPE": "2.0 A/T",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 380,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "SC 4X4 M",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 233,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "SC 4X2 M",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 153,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "SC 4X4 L",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 221,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "Freestyle Cabin 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 239,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "DC - 4X4 L",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 285,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "DC - Chasis 4x4",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 265,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "DC - 4x4 M",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 289,600,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50",
+        "TIPE": "DC - 4x4 H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 306,500,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "SC 4x2 M/T",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 241,345,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "SC 4x4 M/T",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 270,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "DC 4x4 Basic M/T",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 320,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "DC 4x4 Mid M/T",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 337,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "Freestyle cabin 4x4",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "120hp",
+        "HARGA": "Rp. 297,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "DC 4x4 High M/T",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 385,500,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "BT-50 PRO",
+        "TIPE": "DC 4x4 High A/T",
+        "KAPASITAS MESIN": "2.198cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 395,500,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "CX-5",
+        "TIPE": "Sport A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 380,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "CX-5",
+        "TIPE": "Toring A/T (17 inci)",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 409,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "CX-5",
+        "TIPE": "Toring A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 419,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "CX-7 Facelift",
+        "TIPE": "2.3 L R",
+        "KAPASITAS MESIN": "2.261cc",
+        "TENAGA": "237hp",
+        "HARGA": "Rp. 531,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "CX-7 Facelift",
+        "TIPE": "2.3 L GT",
+        "KAPASITAS MESIN": "2.261cc",
+        "TENAGA": "237hp",
+        "HARGA": "Rp. 591,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "CX-9 Facelift",
+        "TIPE": "AWD 3.7 L V6 A/T",
+        "KAPASITAS MESIN": "3.700cc",
+        "TENAGA": "277hp",
+        "HARGA": "Rp. 809,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Hatchback",
+        "TIPE": "S M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 180,000,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Hatchback",
+        "TIPE": "S A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 190,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Hatchback",
+        "TIPE": "R M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 201,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Hatchback",
+        "TIPE": "R A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 212,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Sedan",
+        "TIPE": "S M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 221,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Sedan",
+        "TIPE": "S A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 231,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Sedan",
+        "TIPE": "R M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 237,700,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 2 Sedan",
+        "TIPE": "R A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "103hp",
+        "HARGA": "Rp. 246,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 6",
+        "TIPE": "2.5 A/T Facelift 2010",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 486,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda 8",
+        "TIPE": "2.3 A/T",
+        "KAPASITAS MESIN": "2.260cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 499,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "MX-5",
+        "TIPE": "2.0 A/T",
+        "KAPASITAS MESIN": "1.999cc",
+        "TENAGA": "170hp",
+        "HARGA": "Rp. 591,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "RX-8",
+        "TIPE": "FL A/T",
+        "KAPASITAS MESIN": "1.308cc",
+        "TENAGA": "250hp",
+        "HARGA": "Rp. 660,200,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "VX-1",
+        "TIPE": "V Grade",
+        "KAPASITAS MESIN": "1.373cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 178,800,000.00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "VX-1",
+        "TIPE": "R Grade",
+        "KAPASITAS MESIN": "1.373cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 191,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "B-Class",
+        "TIPE": "B 180 Autotronic",
+        "KAPASITAS MESIN": "1.699cc",
+        "TENAGA": "116hp",
+        "HARGA": "Rp. 439,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "CLC - Class",
+        "TIPE": "CLC 200 K",
+        "KAPASITAS MESIN": "1.769cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 699,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "G-Class",
+        "TIPE": "G 55 AMG",
+        "KAPASITAS MESIN": "5.439cc",
+        "TENAGA": "388hp",
+        "HARGA": "Rp. 2,929,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "GL-Class",
+        "TIPE": "GL 500",
+        "KAPASITAS MESIN": "5.461cc",
+        "TENAGA": "388hp",
+        "HARGA": "Rp. 1,999,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "M-Class",
+        "TIPE": "The New ML 250 CDI",
+        "KAPASITAS MESIN": "2.200cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 949,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "M-Class",
+        "TIPE": "The New ML 350 Sport",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "258hp",
+        "HARGA": "Rp. 1,199,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "M-Class",
+        "TIPE": "The New ML 63 AMG",
+        "KAPASITAS MESIN": "6.208cc",
+        "TENAGA": "525hp",
+        "HARGA": "Rp. 2,199,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New CLS-Class",
+        "TIPE": "CLS 350 CGI",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,409,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New CLS-Class",
+        "TIPE": "CLS 500 CGI",
+        "KAPASITAS MESIN": "4.663cc",
+        "TENAGA": "408hp",
+        "HARGA": "Rp. 1,859,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New CLS-Class",
+        "TIPE": "CLS 63 AMG",
+        "KAPASITAS MESIN": "5.461cc",
+        "TENAGA": "525hp",
+        "HARGA": "Rp. 2,059,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E 200 CGI",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 799,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E 250 CGI Elegance",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 889,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E 250 CGI Avantgrade",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 929,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E300 Connect",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,059,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E 300 Elegance",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,019,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E 300 Avantgrade",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,089,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class",
+        "TIPE": "E 63 AMG",
+        "KAPASITAS MESIN": "6.208cc",
+        "TENAGA": "525hp",
+        "HARGA": "Rp. 1,899,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class Cabriolet",
+        "TIPE": "E 250 CGI Cabrio Avantgrade",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 1,099,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New E-Class Coupe",
+        "TIPE": "E 250 CGI Avantgrade",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 1,069,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New Generation C-Class",
+        "TIPE": "C 250 CGI Avantgrade AMG",
+        "KAPASITAS MESIN": "1.769cc",
+        "TENAGA": "204hp",
+        "HARGA": "Rp. 669,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New Generation C-Class",
+        "TIPE": "C 200 CGI",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 549,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New Generation C-Class",
+        "TIPE": "C 200 CGI Avantgrade",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 639,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New Generation C-Class",
+        "TIPE": "C 180 CGI Style",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 529,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New Generation C-Class",
+        "TIPE": "C 300 Avantgrade",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 759,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New SLK-Class",
+        "TIPE": "SLK 200 CGI",
+        "KAPASITAS MESIN": "1.796cc",
+        "TENAGA": "184hp",
+        "HARGA": "Rp. 949,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "New SLK-Class",
+        "TIPE": "SLK 350 AMG",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "306hp",
+        "HARGA": "Rp. 1,599,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "R-Class",
+        "TIPE": "R 280 L (w/Rear Seat entertainment)",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,249,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 300 L (w/Rear Seat Entertainment)",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,769,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 300 L",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,599,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 350 L CGI",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "272hp",
+        "HARGA": "Rp. 2,019,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 500 L CGI",
+        "KAPASITAS MESIN": "5.461cc",
+        "TENAGA": "388hp",
+        "HARGA": "Rp. 2,699,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 600 L",
+        "KAPASITAS MESIN": "5.513cc",
+        "TENAGA": "510hp",
+        "HARGA": "Rp. 3,399,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 65 AMG",
+        "KAPASITAS MESIN": "5.980cc",
+        "TENAGA": "612hp",
+        "HARGA": "Rp. 3,599,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "S-Class Facelift",
+        "TIPE": "S 63 AMG",
+        "KAPASITAS MESIN": "6.208cc",
+        "TENAGA": "525hp",
+        "HARGA": "Rp. 3,199,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "Sl-Class",
+        "TIPE": "SL 300",
+        "KAPASITAS MESIN": "2.996cc",
+        "TENAGA": "231hp",
+        "HARGA": "Rp. 1,499,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "Sl-Class",
+        "TIPE": "SL 350",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "311hp",
+        "HARGA": "Rp. 1,979,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "Sl-Class",
+        "TIPE": "SL 65 AMG",
+        "KAPASITAS MESIN": "5.980cc",
+        "TENAGA": "603hp",
+        "HARGA": "Rp. 3,299,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "Sl-Class",
+        "TIPE": "SL 63 AMG",
+        "KAPASITAS MESIN": "6.208cc",
+        "TENAGA": "517hp",
+        "HARGA": "Rp. 2,989,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "SLS-CLass",
+        "TIPE": "SLS AMG",
+        "KAPASITAS MESIN": "6.208cc",
+        "TENAGA": "565hp",
+        "HARGA": "Rp. 4,119,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "V Class",
+        "TIPE": "V 220",
+        "KAPASITAS MESIN": "2.148cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 899,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "V Class",
+        "TIPE": "V 350",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "340hp",
+        "HARGA": "Rp. 1,279,000,000.00"
+    },
+    {
+        "MERK": "MERCEDEZ-BENZ",
+        "JENIS": "",
+        "TIPE": "E 350 Avangrade AMG",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "292hp",
+        "HARGA": "Rp. 1,379,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Grandis",
+        "TIPE": "GLS INVECS II",
+        "KAPASITAS MESIN": "2.378cc",
+        "TENAGA": "165hp",
+        "HARGA": "Rp. 355,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Grandis",
+        "TIPE": "GT INVECS II",
+        "KAPASITAS MESIN": "2.378cc",
+        "TENAGA": "165hp",
+        "HARGA": "Rp. 370,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Maven",
+        "TIPE": "GLX",
+        "KAPASITAS MESIN": "1.468cc",
+        "TENAGA": "81hp",
+        "HARGA": "Rp. 137,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Maven",
+        "TIPE": "GLS",
+        "KAPASITAS MESIN": "1.468cc",
+        "TENAGA": "81hp",
+        "HARGA": "Rp. 154,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "New Lancer",
+        "TIPE": "EX 2.0 GT",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 415,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "New Lancer",
+        "TIPE": "Evolution X",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "280hp",
+        "HARGA": "Rp. 1,270,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero",
+        "TIPE": "Super Exceed A/T",
+        "KAPASITAS MESIN": "3.828cc",
+        "TENAGA": "247hp",
+        "HARGA": "Rp. 1,200,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Exceed A/T 4x2",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 437,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "GLX M/T 4x4",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 403,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "GLS Limited M/T 4x4",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 389,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Dakar Hi-Power 4x2",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "178hp",
+        "HARGA": "Rp. 441,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Dakar Hi-Power 4x4",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "178hp",
+        "HARGA": "Rp. 506,500,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Exceed Limited A/T 4x2",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 406,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Dakar Hi-Power Limited 4x2",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "178hp",
+        "HARGA": "Rp. 444,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Pajero Sport",
+        "TIPE": "Dakar Hi-Power Limited 4x4",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "178hp",
+        "HARGA": "Rp. 509,500,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Strada Triton",
+        "TIPE": "Single Cab GLX",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 266,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Strada Triton",
+        "TIPE": "Double Cab GLS",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 346,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Strada Triton",
+        "TIPE": "Double Cab GLS AB",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 357,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Strada Triton",
+        "TIPE": "Double Cab Exceed M/T",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 368,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Strada Triton",
+        "TIPE": "Double Cab Exceed A/T",
+        "KAPASITAS MESIN": "2.477cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 379,000,000.00"
+    },
+    {
+        "MERK": "MITSUBISHI",
+        "JENIS": "Strada Triton",
+        "TIPE": "Double Cab HD-X",
+        "KAPASITAS MESIN": "2.835cc",
+        "TENAGA": "97hp",
+        "HARGA": "Rp. 324,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "All New Serena",
+        "TIPE": "2.0 Highway Star",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 385,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "All New Serena",
+        "TIPE": "2.0 X",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 348,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "All New Serena",
+        "TIPE": "2.0 Panoramic",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 398,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "April",
+        "TIPE": "1.2L M/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 143,100,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Elgrand",
+        "TIPE": "3.5 V6 Highway Star X-Tronic CVT",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "280hp",
+        "HARGA": "Rp. 865,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Frontier Navara",
+        "TIPE": "2.5 L DC M/T",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "174hp",
+        "HARGA": "Rp. 353,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Frontier Navara",
+        "TIPE": "2.5 L DC A/T",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "174hp",
+        "HARGA": "Rp. 365,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 S M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 162,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 XV M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 187,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 XV A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 197,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 Ultimate A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 212,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 SV M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 172,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 SV A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 182,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 HWS M/T Autech",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 202,600,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.5 HWS A/T Autech",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 212,600,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.8 HWS M/T Autech",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "128hp",
+        "HARGA": "Rp. 235,900,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina",
+        "TIPE": "1.8 HWS A/T Autech",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "128hp",
+        "HARGA": "Rp. 243,200,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina Autech",
+        "TIPE": "1.5 HWS M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 208,600,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina Autech",
+        "TIPE": "1.5 HWS A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 218,600,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina Autech",
+        "TIPE": "1.8 HWS M/T",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "128hp",
+        "HARGA": "Rp. 230,600,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Grand Livina Autech",
+        "TIPE": "1.8 HWS A/T",
+        "KAPASITAS MESIN": "1.798cc",
+        "TENAGA": "128hp",
+        "HARGA": "Rp. 237,900,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Juke",
+        "TIPE": "1.5 CVT",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "114hp",
+        "HARGA": "Rp. 243,800,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Juke",
+        "TIPE": "1.5 CVT RX",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "114hp",
+        "HARGA": "Rp. 253,800,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "June",
+        "TIPE": "1.2L A/T XS",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 163,200,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Livina X-Gear",
+        "TIPE": "1.5 X-gear M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 189,650,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Livina X-Gear",
+        "TIPE": "1.5 X-gear A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 196,600,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "March",
+        "TIPE": "1.2 L M/T Autech",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 168,200,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "March Autech",
+        "TIPE": "1.2 L M/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 168,200,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "May",
+        "TIPE": "1.2L A/T",
+        "KAPASITAS MESIN": "1.198cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 153,200,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "Murano",
+        "TIPE": "3.5 V6",
+        "KAPASITAS MESIN": "3.498cc",
+        "TENAGA": "256hp",
+        "HARGA": "Rp. 750,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New Teana",
+        "TIPE": "250 XV - V6 A/T",
+        "KAPASITAS MESIN": "2.498cc",
+        "TENAGA": "180hp",
+        "HARGA": "Rp. 496,450,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail 2011",
+        "TIPE": "2.0 M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 321,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail 2011",
+        "TIPE": "2.0 CVT",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 351,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail 2011",
+        "TIPE": "2.5 X-Tremer",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "180hp",
+        "HARGA": "Rp. 392,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail 2011",
+        "TIPE": "2.5 ST CVT",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "180hp",
+        "HARGA": "Rp. 368,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail 2011",
+        "TIPE": "2.5 XT CVT",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "180hp",
+        "HARGA": "Rp. 382,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail Autech",
+        "TIPE": "2.0 M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 313,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail Autech",
+        "TIPE": "2.0 XTronic CVT",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 343,000,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "New X-trail Autech",
+        "TIPE": "2.5 St XTronic CVT",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "180hp",
+        "HARGA": "Rp. 357,500,000.00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NP-300",
+        "TIPE": "2.5 LD C M/T",
+        "KAPASITAS MESIN": "2.488cc",
+        "TENAGA": "133hp",
+        "HARGA": "Rp. 275,600,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "308",
+        "TIPE": "1.6 A/T Tiptronic",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "138hp",
+        "HARGA": "Rp. 343,500,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "308",
+        "TIPE": "SW 1.6 A/T Tiptronic",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "138hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "308",
+        "TIPE": "CC 1.6 A/T Tiptronic",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "138hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "508",
+        "TIPE": "Premium Pack",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 584,500,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "508",
+        "TIPE": "Premium",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 535,000,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "3008",
+        "TIPE": "1.6 Turbo",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 388,900,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "5008",
+        "TIPE": "Premium",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp 432,5 juta"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "5008",
+        "TIPE": "Premium Pack",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 505,000,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "207 Facelift",
+        "TIPE": "1.4 2Tronic",
+        "KAPASITAS MESIN": "1.398cc",
+        "TENAGA": "113hp",
+        "HARGA": "Rp. 246,500,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "207 Facelift",
+        "TIPE": "CC 1.6 A/T Tiptronic",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "113hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "207 Facelift",
+        "TIPE": "RC 1.6 M/T",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "118hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "207 Facelift",
+        "TIPE": "SW 1.6 A/T",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "118hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "207 Sedan",
+        "TIPE": "1.6 AT",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 243,000,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "Expert",
+        "TIPE": "Tepee 2.0 HDI",
+        "KAPASITAS MESIN": "1.997cc",
+        "TENAGA": "138hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "RCZ",
+        "TIPE": "Sport",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 657,000,000.00"
+    },
+    {
+        "MERK": "PEUGEOT",
+        "JENIS": "RCZ",
+        "TIPE": "Premium",
+        "KAPASITAS MESIN": "1.598cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 689,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 3,300,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera Cabriolet",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 3,450,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera 4",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 3,330,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera 4 Cabriolet",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 3,650,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Targa 4",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "320hp",
+        "HARGA": "Rp. 3,850,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Turbo Tiptronic",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "420hp",
+        "HARGA": "Rp. 5,500,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Turbo Cabriolet Tiptronic",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "420hp",
+        "HARGA": "Rp. 5,800,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "GT3",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "483hp",
+        "HARGA": "By Order"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera S",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "N/Ahp",
+        "HARGA": "Rp. 3,650,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera S Cabriolet",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "N/Ahp",
+        "HARGA": "Rp. 3,850,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera S 4",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "N/Ahp",
+        "HARGA": "Rp. 3,850,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Carrera S 4 Cabriolet",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "N/Ahp",
+        "HARGA": "Rp. 4,000,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "911",
+        "TIPE": "Targa 4 S",
+        "KAPASITAS MESIN": "3.800cc",
+        "TENAGA": "N/Ahp",
+        "HARGA": "Rp. 4,250,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "Boxster",
+        "TIPE": "2.7 Tiptronic",
+        "KAPASITAS MESIN": "2.687cc",
+        "TENAGA": "228hp",
+        "HARGA": "Rp. 1,554,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "Boxster",
+        "TIPE": "S 3.2 Tiptronic",
+        "KAPASITAS MESIN": "3.179cc",
+        "TENAGA": "269hp",
+        "HARGA": "Rp. 2,196,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "Cayman",
+        "TIPE": "2.7 Tiptronic",
+        "KAPASITAS MESIN": "2.687cc",
+        "TENAGA": "228hp",
+        "HARGA": "Rp. 1,880,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "Cayman",
+        "TIPE": "S 3.4 Tiptronic",
+        "KAPASITAS MESIN": "3.400cc",
+        "TENAGA": "N/Ahp",
+        "HARGA": "Rp. 2,500,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "New Cayenne",
+        "TIPE": "3.6 V6 Tiptronic",
+        "KAPASITAS MESIN": "3.596cc",
+        "TENAGA": "250hp",
+        "HARGA": "Rp. 1,900,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "New Cayenne",
+        "TIPE": "S 4.8 Tiptronic",
+        "KAPASITAS MESIN": "4.806cc",
+        "TENAGA": "385hp",
+        "HARGA": "Rp. 2,900,000,000.00"
+    },
+    {
+        "MERK": "PORSCHE",
+        "JENIS": "New Cayenne",
+        "TIPE": "Turbo 4.8 Tiptronic",
+        "KAPASITAS MESIN": "4.806cc",
+        "TENAGA": "500hp",
+        "HARGA": "Rp. 3,850,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "1.6 M/T M-Line",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "125hp",
+        "HARGA": "Rp. 184,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "1.6 A/T H-Line",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "125hp",
+        "HARGA": "Rp. 220,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "1.6 A/T M-Line",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "125hp",
+        "HARGA": "Rp. 194,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen2 Persona",
+        "TIPE": "B Line M/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 145,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen2 Persona",
+        "TIPE": "M Line M/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 154,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen2 Persona",
+        "TIPE": "M Line A/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 164,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen2 Persona",
+        "TIPE": "H-Line M/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 163,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen2 Persona",
+        "TIPE": "H-Line A/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 173,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Neo CPS",
+        "TIPE": "M/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 188,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Neo CPS",
+        "TIPE": "A/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 198,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Neo CPS",
+        "TIPE": "M/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 151,000,000.00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Neo CPS",
+        "TIPE": "A/T",
+        "KAPASITAS MESIN": "1.597cc",
+        "TENAGA": "110hp",
+        "HARGA": "Rp. 161,000,000.00"
+    },
+    {
+        "MERK": "SMART",
+        "JENIS": "For Two",
+        "TIPE": "Coupe Pure A/T",
+        "KAPASITAS MESIN": "999cc",
+        "TENAGA": "61hp",
+        "HARGA": "Rp 219 juta"
+    },
+    {
+        "MERK": "SMART",
+        "JENIS": "For Two",
+        "TIPE": "Coupe Passion A/T",
+        "KAPASITAS MESIN": "999cc",
+        "TENAGA": "71hp",
+        "HARGA": "Rp 249 juta"
+    },
+    {
+        "MERK": "SMART",
+        "JENIS": "For Two",
+        "TIPE": "Cabrio Passion A/T",
+        "KAPASITAS MESIN": "999cc",
+        "TENAGA": "71hp",
+        "HARGA": "Rp 269 juta"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Exiga",
+        "TIPE": "2.0 i A/T",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "147hp",
+        "HARGA": "Rp. 358,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Exiga",
+        "TIPE": "2.0 GT A/T",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "225hp",
+        "HARGA": "Rp. 520,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Forester",
+        "TIPE": "2.0 X A/T",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 348,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Forester",
+        "TIPE": "2.5 XT A/T",
+        "KAPASITAS MESIN": "2.457cc",
+        "TENAGA": "230hp",
+        "HARGA": "Rp. 518,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Legacy",
+        "TIPE": "2.5 GT A/T",
+        "KAPASITAS MESIN": "2.457cc",
+        "TENAGA": "265hp",
+        "HARGA": "Rp. 640,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Legacy",
+        "TIPE": "2.0i A/T",
+        "KAPASITAS MESIN": "1.500cc",
+        "TENAGA": "1.994hp",
+        "HARGA": "Rp. 420,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "1.5R M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "107hp",
+        "HARGA": "Rp. 265,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.0R A/T Hatchback",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 290,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.0R M/T",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "159hp",
+        "HARGA": "Rp. 280,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.0R A/T",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 290,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.0R M/T Hatchback",
+        "KAPASITAS MESIN": "1.994cc",
+        "TENAGA": "150hp",
+        "HARGA": "Rp. 280,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.5 WRX M/T",
+        "KAPASITAS MESIN": "2.457cc",
+        "TENAGA": "230hp",
+        "HARGA": "Rp. 425,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.5 WRX STi M/T",
+        "KAPASITAS MESIN": "2.457cc",
+        "TENAGA": "300hp",
+        "HARGA": "Rp. 798,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "New Impreza",
+        "TIPE": "2.5 WRX STI A-Line A/T",
+        "KAPASITAS MESIN": "2.457cc",
+        "TENAGA": "300hp",
+        "HARGA": "Rp. 819,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Outback",
+        "TIPE": "2.5i CVT",
+        "KAPASITAS MESIN": "2.457cc",
+        "TENAGA": "167hp",
+        "HARGA": "Rp. 700,000,000.00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Outback",
+        "TIPE": "3.6R A/T",
+        "KAPASITAS MESIN": "3.630cc",
+        "TENAGA": "245hp",
+        "HARGA": "Rp. 788,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "All New Swift",
+        "TIPE": "GL M/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 163,100,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "All New Swift",
+        "TIPE": "GL A/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 174,100,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "All New Swift",
+        "TIPE": "GX M/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 169,600,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "All New Swift",
+        "TIPE": "GX A/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 180,600,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "GE Face To Face 1.5 M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "89hp",
+        "HARGA": "Rp. 132,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "GE PS 1.5 M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "89hp",
+        "HARGA": "Rp. 135,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena GL 1.5 M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 145,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena GX 1.5 M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 157,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena GX 1.5 A/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 168,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena SGX 1.5 M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 162,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena SGX 1.5 A/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 173,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena Luxury V 15\" M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 171,500,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena Luxury V 15\" A/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 182,500,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena Luxury V 17\" M/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 175,500,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "Arena Luxury V 17\" A/T",
+        "KAPASITAS MESIN": "1.493cc",
+        "TENAGA": "105hp",
+        "HARGA": "Rp. 186,500,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GA M/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 148,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GL Double Blower M/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 162,800,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GL Double Blower A/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 173,800,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GX Double Blower M/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 174,800,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GX Double Blower A/T",
+        "KAPASITAS MESIN": "1.372cc",
+        "TENAGA": "95hp",
+        "HARGA": "Rp. 185,800,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Grand Vitara",
+        "TIPE": "2.0 M/T",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "140hp",
+        "HARGA": "Rp. 295,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Grand Vitara",
+        "TIPE": "2.0 A/T",
+        "KAPASITAS MESIN": "1.995cc",
+        "TENAGA": "140hp",
+        "HARGA": "Rp. 306,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Grand Vitara",
+        "TIPE": "2.4 M/T",
+        "KAPASITAS MESIN": "2.393cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 317,500,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Grand Vitara",
+        "TIPE": "2.4 A/T",
+        "KAPASITAS MESIN": "2.393cc",
+        "TENAGA": "166hp",
+        "HARGA": "Rp. 328,500,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GA",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 80200000"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GL",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 93500000"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GX",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "68hp",
+        "HARGA": "Rp 103500000"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Splash",
+        "TIPE": "GL",
+        "KAPASITAS MESIN": "1.197cc",
+        "TENAGA": "85hp",
+        "HARGA": "Rp. 146,000,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "SX4",
+        "TIPE": "Crossover M/T",
+        "KAPASITAS MESIN": "1.490cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 207,200,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "SX4",
+        "TIPE": "Crossover A/T",
+        "KAPASITAS MESIN": "1.490cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 218,300,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "SX4",
+        "TIPE": "RC1 M/T",
+        "KAPASITAS MESIN": "1.490cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 222,200,000.00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "SX4",
+        "TIPE": "RC1 A/T",
+        "KAPASITAS MESIN": "1.490cc",
+        "TENAGA": "100hp",
+        "HARGA": "Rp. 233,300,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "86",
+        "TIPE": "M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 611,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "86",
+        "TIPE": "A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 621,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "86",
+        "TIPE": "A/T Aero",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 634,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "86",
+        "TIPE": "A/T TRD",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 647,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "E M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 100350000"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "E A/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 110750000"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "G M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 107150000"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "G A/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 116750000"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "TRD S M/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 111650000"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "TRD S A/T",
+        "KAPASITAS MESIN": "998cc",
+        "TENAGA": "65hp",
+        "HARGA": "Rp 121250000"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Camry",
+        "TIPE": "2.5 V A/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "181hp",
+        "HARGA": "Rp. 510,600,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Camry",
+        "TIPE": "2.5 G A/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "181hp",
+        "HARGA": "Rp. 482,700,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Camry",
+        "TIPE": "2.5 Q A/T",
+        "KAPASITAS MESIN": "3.494cc",
+        "TENAGA": "205hp",
+        "HARGA": "Rp. 635,600,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Crown",
+        "TIPE": "3.0 Royal Saloon",
+        "KAPASITAS MESIN": "2.995cc",
+        "TENAGA": "227hp",
+        "HARGA": "Rp. 1,348,100,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Corolla Altis",
+        "TIPE": "1.8 E M/T 6-speed",
+        "KAPASITAS MESIN": "1.794cc",
+        "TENAGA": "142hp",
+        "HARGA": "Rp. 339,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Corolla Altis",
+        "TIPE": "1.8 G CVT",
+        "KAPASITAS MESIN": "1.794cc",
+        "TENAGA": "142hp",
+        "HARGA": "Rp. 361,200,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Corolla Altis",
+        "TIPE": "2.0 V CVT",
+        "KAPASITAS MESIN": "1.986cc",
+        "TENAGA": "152hp",
+        "HARGA": "Rp. 391,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.5 G 4x2 Diesel VNT M/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 401,150,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.5 G 4x2 Diesel VNT A/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 405,300,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.5 G 4x2 Diesel VNT M/T TRD",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 426,100,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.5 G 4x2 Diesel VNT A/T TRD",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 436,350,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.7 G Lux 4x2 A/T",
+        "KAPASITAS MESIN": "2.694cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 448,150,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.7 V 4x4 A/T",
+        "KAPASITAS MESIN": "2.694cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 508,700,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Fortuner",
+        "TIPE": "2.7 G Lux 4x2 A/T TRD",
+        "KAPASITAS MESIN": "2.694cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 480,450,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 J standar M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 201,750,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 E M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 227,600,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 G M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 247,400,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 G A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 260,900,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 G Luxury Captain Seat M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 257,700,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 G Luxury Captain Seat A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 271,200,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 V M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 283,750,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 V A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 297,250,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 V Luxury Captain Seat M/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 293,300,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 V Luxury Captain Seat A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 306,800,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Bensin",
+        "TIPE": "2.0 E A/T",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 240,600,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Solar",
+        "TIPE": "2.5 E M/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "102hp",
+        "HARGA": "Rp. 262,400,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Solar",
+        "TIPE": "2.5 G M/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "102hp",
+        "HARGA": "Rp. 262,400,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Solar",
+        "TIPE": "2.5 G A/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "102hp",
+        "HARGA": "Rp. 275,900,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Solar",
+        "TIPE": "2.5 V M/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "102hp",
+        "HARGA": "Rp. 299,250,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Grand New Kijang Innova Solar",
+        "TIPE": "2.5 V A/T",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "102hp",
+        "HARGA": "Rp. 312,750,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Land Cruiser VX",
+        "TIPE": "Standar",
+        "KAPASITAS MESIN": "4.461cc",
+        "TENAGA": "235hp",
+        "HARGA": "Rp. 1,185,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Land Cruiser VX",
+        "TIPE": "Full Spec",
+        "KAPASITAS MESIN": "4.461cc",
+        "TENAGA": "235hp",
+        "HARGA": "Rp. 1,475,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Mark-X",
+        "TIPE": "250G",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 595,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Nav-1",
+        "TIPE": "G AT",
+        "KAPASITAS MESIN": "1.987cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 378,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Nav-1",
+        "TIPE": "V AT",
+        "KAPASITAS MESIN": "1.987cc",
+        "TENAGA": "155hp",
+        "HARGA": "Rp. 398,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Alphard",
+        "TIPE": "2.4 X A/T",
+        "KAPASITAS MESIN": "2.362cc",
+        "TENAGA": "168hp",
+        "HARGA": "Rp. 693,950,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Alphard",
+        "TIPE": "2.4 G A/T",
+        "KAPASITAS MESIN": "2.362cc",
+        "TENAGA": "168hp",
+        "HARGA": "Rp. 840,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Alphard",
+        "TIPE": "3.5 V A/T",
+        "KAPASITAS MESIN": "3.495cc",
+        "TENAGA": "273hp",
+        "HARGA": "Rp. 1,051,200,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "1.3 E A/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 165,750,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "1.3 E M/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 155,550,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "1.3 G M/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 170,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "1.3 G A/T",
+        "KAPASITAS MESIN": "1.298cc",
+        "TENAGA": "92hp",
+        "HARGA": "Rp. 177,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "Veloz 1.5 M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "104hp",
+        "HARGA": "Rp. 180,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "Veloz 1.5 S A/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "104hp",
+        "HARGA": "Rp. 190,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Avanza (Dual Airbag)",
+        "TIPE": "1.5 G M/T",
+        "KAPASITAS MESIN": "1.498cc",
+        "TENAGA": "104hp",
+        "HARGA": "Rp. 181,200,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Hilux",
+        "TIPE": "Pick-Up Chassis",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 148,050,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Hilux",
+        "TIPE": "Pick-Up Premium",
+        "KAPASITAS MESIN": "1.998cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 155,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Hilux",
+        "TIPE": "Double Cabinn E M/T - Solar",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 320,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Hilux",
+        "TIPE": "Double Cabin G M/T - solar",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 339,700,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Hilux",
+        "TIPE": "Pick-Up Solar",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "102hp",
+        "HARGA": "Rp. 165,750,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Hilux",
+        "TIPE": "Double Cabin V A/T - Solar",
+        "KAPASITAS MESIN": "2.494cc",
+        "TENAGA": "144hp",
+        "HARGA": "Rp. 358,800,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Rush",
+        "TIPE": "G M/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 202,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Rush",
+        "TIPE": "G A/T",
+        "KAPASITAS MESIN": "1.496cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 212,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Vios",
+        "TIPE": "1.5 E M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 242,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Vios",
+        "TIPE": "1.5 E A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 252,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Vios",
+        "TIPE": "1.5 G M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 259,900,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Vios",
+        "TIPE": "1.5 G A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 272,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "J M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 190,150,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "J A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 200,350,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "E M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 199,250,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "E A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 209,450,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "S M/T TRD Sportivo",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 211,650,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "S Limited A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 223,350,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "New Yaris 2012",
+        "TIPE": "TRD Sportivo",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 227,950,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Previa",
+        "TIPE": "Full Spec A/T",
+        "KAPASITAS MESIN": "2.362cc",
+        "TENAGA": "156hp",
+        "HARGA": "Rp. 1,008,500,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Pruis Hybrid",
+        "TIPE": "1.8 A/T",
+        "KAPASITAS MESIN": "1.794cc",
+        "TENAGA": "136hp",
+        "HARGA": "Rp. 605,000,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 E M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 215,050,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 G M/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 228,050,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 G A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 240,850,000.00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "TRD Sportivo A/T",
+        "KAPASITAS MESIN": "1.497cc",
+        "TENAGA": "109hp",
+        "HARGA": "Rp. 261,050,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "Golf MK VI",
+        "TIPE": "1.4 TSI A/T",
+        "KAPASITAS MESIN": "1.390cc",
+        "TENAGA": "160hp",
+        "HARGA": "Rp. 317,000,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "Golf MK VI",
+        "TIPE": "2.0 GTI 5-door",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "210hp",
+        "HARGA": "Rp. 520,000,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "New Caravelle T5",
+        "TIPE": "2.0 TDI Long 7-speed",
+        "KAPASITAS MESIN": "2.469cc",
+        "TENAGA": "172hp",
+        "HARGA": "Rp. 1,028,000,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "New Caravelle T5",
+        "TIPE": "2.0 TDI Short 7-speed",
+        "KAPASITAS MESIN": "2.469cc",
+        "TENAGA": "172hp",
+        "HARGA": "Rp. 928,000,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "New Polo",
+        "TIPE": "1.4 A/T",
+        "KAPASITAS MESIN": "1.390cc",
+        "TENAGA": "85hp",
+        "HARGA": "Rp. 233,000,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "New Touran",
+        "TIPE": "TSI 1.4 A/T 7-Speed",
+        "KAPASITAS MESIN": "1.390cc",
+        "TENAGA": "140hp",
+        "HARGA": "Rp. 390,000,000.00"
+    },
+    {
+        "MERK": "VOLKSWAGEN",
+        "JENIS": "Scirocco",
+        "TIPE": "GT 2.0 TSI 3-door",
+        "KAPASITAS MESIN": "1.984cc",
+        "TENAGA": "210hp",
+        "HARGA": "Rp. 590,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "C30",
+        "TIPE": "T5",
+        "KAPASITAS MESIN": "2.521cc",
+        "TENAGA": "230hp",
+        "HARGA": "Rp. 653,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "New S80",
+        "TIPE": "2.5 A/T",
+        "KAPASITAS MESIN": "2.521cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 885,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "New S80",
+        "TIPE": "T6",
+        "KAPASITAS MESIN": "2.953cc",
+        "TENAGA": "285hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "V70",
+        "TIPE": "R",
+        "KAPASITAS MESIN": "1.999cc",
+        "TENAGA": "145hp",
+        "HARGA": "By Request"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "V70",
+        "TIPE": "2.5T",
+        "KAPASITAS MESIN": "2.521cc",
+        "TENAGA": "200hp",
+        "HARGA": "Rp. 975,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "XC60",
+        "TIPE": "2.0T",
+        "KAPASITAS MESIN": "2.000cc",
+        "TENAGA": "203hp",
+        "HARGA": "Rp. 875,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "XC60",
+        "TIPE": "T6",
+        "KAPASITAS MESIN": "2.953cc",
+        "TENAGA": "285hp",
+        "HARGA": "Rp. 1,250,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "XC90",
+        "TIPE": "2.5T",
+        "KAPASITAS MESIN": "2.521cc",
+        "TENAGA": "210hp",
+        "HARGA": "Rp. 1,105,000,000.00"
+    },
+    {
+        "MERK": "VOLVO",
+        "JENIS": "XC90",
+        "TIPE": "3.2 i",
+        "KAPASITAS MESIN": "3.200cc",
+        "TENAGA": "238hp",
+        "HARGA": "Rp. 1,513,000,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "Single Cab 3.0 M/T",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 264,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "Duble Cab 3.0 M/T",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 307,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "Rodeo LS 3.0 M/T",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 336,000,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "Rodeo LS 3.0 A/T",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 351,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "DC 3",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 312,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "Mining",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 322,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "D-Max",
+        "TIPE": "Karo",
+        "KAPASITAS MESIN": "2.998cc",
+        "TENAGA": "130hp",
+        "HARGA": "Rp. 303,000,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "Smart FF - H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "74hp",
+        "HARGA": "Rp. 216,000,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "LV-H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "74hp",
+        "HARGA": "Rp. 221,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "LV FF -H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "74hp",
+        "HARGA": "Rp. 223,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "Adventurer H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "74hp",
+        "HARGA": "Rp. 235,000,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "LS FF H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "74hp",
+        "HARGA": "Rp. 248,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "Touring - H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 252,500,000.00"
+    },
+    {
+        "MERK": "ISUZU",
+        "JENIS": "Panther",
+        "TIPE": "Grand Touring FF H",
+        "KAPASITAS MESIN": "2.499cc",
+        "TENAGA": "80hp",
+        "HARGA": "Rp. 267,000,000.00"
+    }
+]
+}
