@@ -1,0 +1,4127 @@
+{
+  "contacts": 
+  [
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "Agya E M/T",
+        "HARGA": "Rp. 113.030.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "Agya E A/T",
+        "HARGA": "Rp. 124.760.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "Agya G M/T",
+        "HARGA": "Rp. 121.030.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "Agya TRD S M/T",
+        "HARGA": "Rp. 125.130.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "Agya G A/T",
+        "HARGA": "Rp. 131.060.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Agya",
+        "TIPE": "Agya TRD S A/T",
+        "HARGA": "Rp. 135.660.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Fortuner",
+        "TIPE": "2.7 SRZ A/T",
+        "HARGA": "Rp. 509.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Fortuner",
+        "TIPE": "2.4 VRZ A/T",
+        "HARGA": "Rp. 494.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Fortuner",
+        "TIPE": "2.4 G A/T",
+        "HARGA": "Rp. 460.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Fortuner",
+        "TIPE": "2.4 G M/T",
+        "HARGA": "Rp. 442.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Fortuner",
+        "TIPE": "2.4 G 4x4 A/T",
+        "HARGA": "Rp. 557.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "Q MT (Diesel)",
+        "HARGA": "Rp. 405.800.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "Q AT (Diesel)",
+        "HARGA": "Rp. 427.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "Q MT (Gasoline)",
+        "HARGA": "Rp. 368.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "Q AT (Gasoline)",
+        "HARGA": "Rp. 388.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "V AT (Diesel)",
+        "HARGA": "Rp. 380.700.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "V MT (Diesel)",
+        "HARGA": "Rp. 360.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "V AT (Gasoline)",
+        "HARGA": "Rp. 348.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "V MT (Gasoline)",
+        "HARGA": "Rp. 329.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "G AT (Diesel)",
+        "HARGA": "Rp. 335.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "G MT (Diesel)",
+        "HARGA": "Rp. 313.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "G MT (Gasoline)",
+        "HARGA": "Rp. 285.400.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "All New Kijang Innova",
+        "TIPE": "G AT (Gasoline)",
+        "HARGA": "Rp. 305.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Alphard",
+        "TIPE": "Alphard 3.5 Q (TERMASUK PPH 22 & ADA NPWP)",
+        "HARGA": "Rp. 1.646.700.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Alphard",
+        "TIPE": "Alphard 2.5 G",
+        "HARGA": "Rp. 994.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Alphard",
+        "TIPE": "Alphard 2.5 X",
+        "HARGA": "Rp. 844.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Avanza",
+        "TIPE": "Grand New Avanza 1.3 E A/T",
+        "HARGA": "Rp. 195.400.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Avanza",
+        "TIPE": "Grand New Avanza 1.3 E M/T",
+        "HARGA": "Rp. 184.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Avanza",
+        "TIPE": "Grand New Avanza 1.3 G A/T",
+        "HARGA": "Rp. 213.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Avanza",
+        "TIPE": "Grand New Avanza 1.5 G M/T",
+        "HARGA": "Rp. 214.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Avanza",
+        "TIPE": "Grand New Avanza 1.3 G M/T",
+        "HARGA": "Rp. 202.300.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Camry",
+        "TIPE": "New Camry 2.5G",
+        "HARGA": "Rp. 559.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Camry",
+        "TIPE": "New Camry 2.5V",
+        "HARGA": "Rp. 594.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Camry",
+        "TIPE": "New Camry 2.5 Hybrid",
+        "HARGA": "Rp. 758.700.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Camry Hybrid",
+        "TIPE": "New Camry 2.5 Hybrid",
+        "HARGA": "Rp. 758.700.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Corolla Altis",
+        "TIPE": "All New 1.8 G M/T",
+        "HARGA": "Rp. 408.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Corolla Altis",
+        "TIPE": "All New 1.8 V A/T",
+        "HARGA": "Rp. 443.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT HIGH GEAR POWER STEERING WITH OFF ROAD PACKAGE",
+        "HARGA": "Rp. 312.450.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R BUS CHASIS 110 PS FT POWER STEERING",
+        "HARGA": "Rp. 265.650.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 4 R CHASIS 110 PS ST",
+        "HARGA": "Rp. 241.050.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 110 PS FT",
+        "HARGA": "Rp. 270.750.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 110 PS ET",
+        "HARGA": "Rp. 277.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS XT",
+        "HARGA": "Rp. 293.350.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT STD GEAR POWER STEERING",
+        "HARGA": "Rp. 303.550.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS XT POWER STEERING",
+        "HARGA": "Rp. 299.350.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 110 PS ET POWER STEERING",
+        "HARGA": "Rp. 283.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 110 PS FT POWER STEERING",
+        "HARGA": "Rp. 276.750.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT STD GEAR",
+        "HARGA": "Rp. 297.550.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT HIGH GEAR",
+        "HARGA": "Rp. 298.050.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 110 PS ET POWER STEERING WITH HEAVY DUTY PACKAGE",
+        "HARGA": "Rp. 285.700.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 110 PS ET POWER STEERING WITH OFF ROAD PACKAGE",
+        "HARGA": "Rp. 292.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS XT LONG WHEEL BASE POWER STEERING",
+        "HARGA": "Rp. 308.250.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT STD GEAR POWER STEERING WITH HEAVY DUTY PACKAGE",
+        "HARGA": "Rp. 305.650.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT STD GEAR POWER STEERING WITH OFF ROAD PACKAGE",
+        "HARGA": "Rp. 311.950.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 4 R BUS CHASIS 110 PS ST LONG WHEEL BASE POWER STEERING",
+        "HARGA": "Rp. 255.850.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 4 R BUS CHASIS 110 PS ST POWER STEERING",
+        "HARGA": "Rp. 247.150.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT HIGH GEAR POWER STEERING WITH HEAVY DUTY PACKAGE",
+        "HARGA": "Rp. 306.150.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 6 R CHASIS 130 PS HT HIGH GEAR POWER STEERING",
+        "HARGA": "Rp. 304.050.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 4 R TRUCK CHASIS 110 PS ST LONG WHEEL BASE POWER STEERING",
+        "HARGA": "Rp. 255.750.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Dyna",
+        "TIPE": "DYNA 4 R CHASIS 110 PS ST POWER STEERING",
+        "HARGA": "Rp. 247.050.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Etios Valco",
+        "TIPE": "Etios  G M/T",
+        "HARGA": "Rp. 174.400.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Etios Valco",
+        "TIPE": "Etios  E M/T",
+        "HARGA": "Rp. 163.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Etios Valco",
+        "TIPE": "Etios  JX M/T",
+        "HARGA": "Rp. 148.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Etios Valco",
+        "TIPE": "Etios  TOM'S",
+        "HARGA": "Rp. 175.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hiace",
+        "TIPE": "Hiace Commuter",
+        "HARGA": "Rp. 442.800.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hiace",
+        "TIPE": "Hiace std",
+        "HARGA": "Rp. 409.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hilux D Cab",
+        "TIPE": "2.5 E 4X4 M/T Double Cabin",
+        "HARGA": "Rp. 383.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hilux D Cab",
+        "TIPE": "2.5 G 4X4 M/T Double Cabin",
+        "HARGA": "Rp. 404.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hilux D Cab",
+        "TIPE": "2.5 V 4X4 A/T Double Cabin",
+        "HARGA": "Rp. 440.400.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hilux S Cab",
+        "TIPE": "2.0 Gasoline M/T Single Cabin",
+        "HARGA": "Rp. 198.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hilux S Cab",
+        "TIPE": "2.5 Diesel M/T Single Cabin",
+        "HARGA": "Rp. 216.400.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Hilux S Cab",
+        "TIPE": "2.5 E 4X4 M/T Extra Cabin",
+        "HARGA": "Rp. 322.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Land Cruiser",
+        "TIPE": "Land Cruiser VX Grade",
+        "HARGA": "Rp. 1.849.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Land Cruiser",
+        "TIPE": "Land Cruiser VX-R",
+        "HARGA": "Rp. 2.185.400.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "NAV1",
+        "TIPE": "G A/T",
+        "HARGA": "Rp. 404.850.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "NAV2",
+        "TIPE": "V Limited A/T",
+        "HARGA": "Rp. 424.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Rush",
+        "TIPE": " G M/T",
+        "HARGA": "Rp. 234.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Rush",
+        "TIPE": " G A/T",
+        "HARGA": "Rp. 244.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Rush",
+        "TIPE": "TRD Sportivo Ultimo M/T",
+        "HARGA": "Rp. 249.150.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Rush",
+        "TIPE": "TRD Sportivo Ultimo A/T",
+        "HARGA": "Rp. 262.450.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Rush",
+        "TIPE": "TRD Sportivo 7 M/T",
+        "HARGA": "Rp. 245.850.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Rush",
+        "TIPE": "TRD Sportivo 7 A/T",
+        "HARGA": "Rp. 259.150.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Toyota 86",
+        "TIPE": "86 TRD A/T",
+        "HARGA": "Rp. 719.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Toyota 87",
+        "TIPE": "86 AERO A/T",
+        "HARGA": "Rp. 708.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Toyota 88",
+        "TIPE": "86 A/T",
+        "HARGA": "Rp. 693.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Toyota 89",
+        "TIPE": "86 M/T",
+        "HARGA": "Rp. 685.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vellfire",
+        "TIPE": "Vellfire 2.5 G",
+        "HARGA": "Rp. 995.300.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Veloz",
+        "TIPE": " 1.3 Veloz M/T",
+        "HARGA": "Rp. 207.800.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Veloz",
+        "TIPE": " 1.3 Veloz A/T",
+        "HARGA": "Rp. 219.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Veloz",
+        "TIPE": " 1.5 Veloz M/T",
+        "HARGA": "Rp. 218.700.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Veloz",
+        "TIPE": " 1.5 Veloz A/T",
+        "HARGA": "Rp. 230.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 E A/T",
+        "HARGA": "Rp. 279.500.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 E M/T",
+        "HARGA": "Rp. 269.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 G A/T",
+        "HARGA": "Rp. 300.900.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "1.5 G M/T",
+        "HARGA": "Rp. 288.300.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "TRD Sportivo M/T",
+        "HARGA": "Rp. 304.300.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Vios",
+        "TIPE": "TRD Sportivo A/T",
+        "HARGA": "Rp. 317.200.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Yaris",
+        "TIPE": "E M/T",
+        "HARGA": "Rp. 227.800.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Yaris",
+        "TIPE": "E A/T",
+        "HARGA": "Rp. 238.600.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Yaris",
+        "TIPE": "G M/T",
+        "HARGA": "Rp. 236.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Yaris",
+        "TIPE": "G A/T",
+        "HARGA": "Rp. 246.100.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Yaris",
+        "TIPE": "TRD S M/T",
+        "HARGA": "Rp. 258.000.000,00"
+    },
+    {
+        "MERK": "TOYOTA",
+        "JENIS": "Yaris",
+        "TIPE": "TRD S A/T",
+        "HARGA": "Rp. 268.800.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "COPEN",
+        "TIPE": "MT",
+        "HARGA": "Rp. 421.550.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "D MT MI",
+        "HARGA": "Rp. 87.050.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "D PLUS MT MI",
+        "HARGA": "Rp. 99.250.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "M MT MI",
+        "HARGA": "Rp. 103.550.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "M AT MI",
+        "HARGA": "Rp. 112.550.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "M SPORTY MT MI",
+        "HARGA": "Rp. 117.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "M SPORTY AT MI",
+        "HARGA": "Rp. 126.650.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "X MT MI",
+        "HARGA": "Rp. 110.900.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "X AT MI",
+        "HARGA": "Rp. 119.950.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "X ELEGANT MT MI",
+        "HARGA": "Rp. 118.250.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "X ELEGANT AT MI",
+        "HARGA": "Rp. 127.300.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "AIRBAG X MT MI",
+        "HARGA": "Rp. 114.500.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "AYLA",
+        "TIPE": "AIRBAG X AT MI",
+        "HARGA": "Rp. 123.550.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "D MT 1.0 STD",
+        "HARGA": "Rp. 155.650.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "M MT 1.0 STD",
+        "HARGA": "Rp. 162.650.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "M MT 1.0 DLX",
+        "HARGA": "Rp. 168.850.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "X MT 1.3 STD",
+        "HARGA": "Rp. 174.650.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "X MT 1.3 DLX",
+        "HARGA": "Rp. 189.900.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "R MT 1.3 STD",
+        "HARGA": "Rp. 179.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "R MT 1.3 SPORTY",
+        "HARGA": "Rp. 198.800.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "X AT 1.3 STD",
+        "HARGA": "Rp. 185.550.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "X AT 1.3 DLX",
+        "HARGA": "Rp. 201.750.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "R AT 1.3 STD",
+        "HARGA": "Rp. 190.350.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GREAT NEW XENIA",
+        "TIPE": "R AT 1.3 SPORTY",
+        "HARGA": "Rp. 209.800.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "X MT",
+        "HARGA": "Rp. 190.900.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "X MT EXTRA",
+        "HARGA": "Rp. 201.200.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "X AT EXTRA",
+        "HARGA": "Rp. 212.050.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "R MT",
+        "HARGA": "Rp. 223.100.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "R MT ADVENTURE",
+        "HARGA": "Rp. 233.300.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "R AT",
+        "HARGA": "Rp. 237.200.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "TERIOS",
+        "TIPE": "R AT ADVENTURE",
+        "HARGA": "Rp. 247.200.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "LUXIO",
+        "TIPE": "1.5 D M/T MC",
+        "HARGA": "Rp. 171.000.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "LUXIO",
+        "TIPE": "1.5 D M/T MC AMBULANCE",
+        "HARGA": "Rp. 204.700.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "LUXIO",
+        "TIPE": "1.5 X M/T MC",
+        "HARGA": "Rp. 189.150.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "LUXIO",
+        "TIPE": "1.5 X A/T MC",
+        "HARGA": "Rp. 200.250.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "SIRION",
+        "TIPE": "1.3 D FMC MT",
+        "HARGA": "Rp. 159.825.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "SIRION",
+        "TIPE": "1.3 D FMC AT",
+        "HARGA": "Rp. 170.825.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX BV",
+        "TIPE": "1.3 FH",
+        "HARGA": "Rp. 124.675.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX BV",
+        "TIPE": "1.3 AC FH",
+        "HARGA": "Rp. 128.775.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX MB",
+        "TIPE": "1.3 D FH",
+        "HARGA": "Rp. 142.075.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX MB",
+        "TIPE": "1.3 D FF FH",
+        "HARGA": "Rp. 148.475.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX MB",
+        "TIPE": "1.3 D FF AMBULANCE FH",
+        "HARGA": "Rp. 177.475.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX MB",
+        "TIPE": "1.5 D PS FH",
+        "HARGA": "Rp. 158.075.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "1.3 STD FH",
+        "HARGA": "Rp. 112.350.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.3 RD FH",
+        "HARGA": "Rp. 131.750.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.3 PT FH",
+        "HARGA": "Rp. 131.750.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.3 SLIDING RD FH",
+        "HARGA": "Rp. 133.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.3 ALUMUNIUM PT FH",
+        "HARGA": "Rp. 133.150.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "1.3 3W FH",
+        "HARGA": "Rp. 112.350.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "1.5 STD FH",
+        "HARGA": "Rp. 117.050.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.5 RD FH",
+        "HARGA": "Rp. 136.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.5 PT FH",
+        "HARGA": "Rp. 136.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.5 SLIDING RD FH",
+        "HARGA": "Rp. 138.150.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "BOX 1.5 ALUMUNIUM PT FH",
+        "HARGA": "Rp. 137.850.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "1.5 3W FH",
+        "HARGA": "Rp. 117.050.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "AC PS 1.5 FH",
+        "HARGA": "Rp. 124.050.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "AC PS BOX 1.5 RD FH",
+        "HARGA": "Rp. 143.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "AC PS BOX 1.5 PT FH",
+        "HARGA": "Rp. 143.450.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "AC PS BOX 1.5 SLIDING RD FH",
+        "HARGA": "Rp. 145.150.000,00"
+    },
+    {
+        "MERK": "DAIHATSU",
+        "JENIS": "GRAN MAX PU",
+        "TIPE": "AC PS BOX 1.5 ALUMUNIUM PTFH",
+        "HARGA": "Rp. 144.850.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5Dr 1.5L TIVCT Style 4x2 MT",
+        "HARGA": "Rp. 228.260.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5Dr 1.5L TIVCT Trend 4x2 MT",
+        "HARGA": "Rp. 237.960.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5Dr 1.5L TIVCT Trend 4x2 AT",
+        "HARGA": "Rp. 249.380.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5Dr 1.5L TIVCT Sport 4x2 MT",
+        "HARGA": "Rp. 259.380.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5Dr 1.5L TIVCT Sport 4x2 AT",
+        "HARGA": "Rp. 270.900.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "4Dr 1.5L TIVCT Trend 4x2 MT",
+        "HARGA": "Rp. 278.780.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "4Dr 1.0L Fox Titanium 4x2 AT",
+        "HARGA": "Rp. 318.120.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5 Dr 1.0L Fox Sport 4x2 MT",
+        "HARGA": "Rp. 275.680.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Fiesta",
+        "TIPE": "5 Dr 1.0L Fox Sport 4x2 AT",
+        "HARGA": "Rp. 286.100.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Ecosport",
+        "TIPE": "Ford Ecosport 1.5L (4x2) MT - Ambiente",
+        "HARGA": "Rp. 234.560.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Ecosport",
+        "TIPE": "Ford Ecosport 1.5L (4x2) MT - Trend",
+        "HARGA": "Rp. 253.060.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Ecosport",
+        "TIPE": "Ford Ecosport 1.5L (4x2) AT - Trend",
+        "HARGA": "Rp. 263.580.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Ecosport",
+        "TIPE": "Ford Ecosport 1.5L (4x2) MT - Titanium",
+        "HARGA": "Rp. 277.180.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "Ford Ecosport",
+        "TIPE": "Ford Ecosport 1.5L (4x2) AT - Titanium",
+        "HARGA": "Rp. 287.500.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Focus",
+        "TIPE": "FOCUS1.5L SEDAN AT - TITANIUM",
+        "HARGA": "Rp. 502.280.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Focus",
+        "TIPE": "FOCUS 1.5L AT-S",
+        "HARGA": "Rp. 458.040.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "All-New Everest",
+        "TIPE": "EVEREST 2.2L TITANIUM (4X2) AT-PLUS",
+        "HARGA": "Rp. 644.000.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "All-New Everest",
+        "TIPE": "EVEREST 2.2L TREND (4X2) AT",
+        "HARGA": "Rp. 562.640.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RANGER SINGLE CABIN 2.2L (4X4) MT",
+        "HARGA": "Rp. 339.800.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RANGER DOUBLE CAB 2.2L BASE (4X4) MT-PLUS",
+        "HARGA": "Rp. 411.100.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RANGER DOUBLE CAB 2.2L XLS (4X4) MT",
+        "HARGA": "Rp. 431.600.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RANGER DOUBLE CAB 2.2L XLS (4X4) MT - 5 Star (extra) Safety Package",
+        "HARGA": "Rp. 441.600.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RANGER DOUBLE CAB 3.2L XLT (4X4) MT",
+        "HARGA": "Rp. 468.900.000,00"
+    },
+    {
+        "MERK": "FORD",
+        "JENIS": "New Ranger",
+        "TIPE": "RANGER DOUBLE CAB 3.2L WILDTRAK (4X4) AT",
+        "HARGA": "Rp. 513.000.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Grand Touring",
+        "HARGA": "Rp. 502.000.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Grand Touring (Soul Red)",
+        "HARGA": "Rp. 505.000.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Touring",
+        "HARGA": "Rp. 471.200.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Touring (Soul Red)",
+        "HARGA": "Rp. 474.200.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Urban",
+        "HARGA": "Rp. 450.900.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Urban (Soul Red)",
+        "HARGA": "Rp. 453.900.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Sport",
+        "HARGA": "Rp. 412.700.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-5",
+        "TIPE": "New CX5 Sport (Soul Red)",
+        "HARGA": "Rp. 415.700.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda VX-1",
+        "TIPE": "VX-1 V Metro MT",
+        "HARGA": "Rp. 200.500.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda VX0",
+        "TIPE": "VX-1 V Metro AT",
+        "HARGA": "Rp. 213.000.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda VX1",
+        "TIPE": "VX-1 R Metro MT",
+        "HARGA": "Rp. 208.900.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda VX2",
+        "TIPE": "VX-1 R Metro AT",
+        "HARGA": "Rp. 221.500.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "Mazda VX3",
+        "TIPE": "VX-1 R AT",
+        "HARGA": "Rp. 231.000.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda2",
+        "TIPE": "Mazda2 V M/T",
+        "HARGA": "Rp. 230.000.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda3",
+        "TIPE": "Mazda2 V M/T (Soul Red)",
+        "HARGA": "Rp. 233.000.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda4",
+        "TIPE": "Mazda2 V A/T",
+        "HARGA": "Rp. 240.100.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda5",
+        "TIPE": "Mazda2 V AT (Soul Red)",
+        "HARGA": "Rp. 243.100.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda6",
+        "TIPE": "Mazda2 R M/T",
+        "HARGA": "Rp. 251.300.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda7",
+        "TIPE": "Mazda2 R M/T (Soul Red)",
+        "HARGA": "Rp. 254.300.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda8",
+        "TIPE": "Mazda2 R A/T",
+        "HARGA": "Rp. 261.500.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda9",
+        "TIPE": "Mazda2 R A/T (Soul Red)",
+        "HARGA": "Rp. 264.500.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda10",
+        "TIPE": "Mazda2 GT",
+        "HARGA": "Rp. 285.600.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda11",
+        "TIPE": "Mazda2 GT (Soul Red)",
+        "HARGA": "Rp. 288.600.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda12",
+        "TIPE": "Mazda2 Limited Edition",
+        "HARGA": "Rp. 274.700.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda13",
+        "TIPE": "Mazda2 Limited Edition (Soul Red)",
+        "HARGA": "Rp. 277.700.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda 6",
+        "TIPE": "New Mazda6",
+        "HARGA": "Rp. 615.400.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda 7",
+        "TIPE": "New Mazda6 (Soul Red)",
+        "HARGA": "Rp. 618.400.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda Biante",
+        "TIPE": "New Mazda Biante with Skyactiv",
+        "HARGA": "Rp. 433.300.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda Biante",
+        "TIPE": "New Mazda Biante Limited Edition",
+        "HARGA": "Rp. 457.500.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda 8",
+        "TIPE": "New Mazda8",
+        "HARGA": "Rp. 559.600.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "New Mazda CX-9",
+        "TIPE": "New Mazda CX-9",
+        "HARGA": "Rp. 1.032.200.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda BT-50 Pro",
+        "TIPE": "BT-50 Pro Single Cabin 4x4",
+        "HARGA": "Rp. 304.900.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda BT-50 Pro",
+        "TIPE": "BT-50 Pro Double Cabin 4x4 Basic",
+        "HARGA": "Rp. 368.200.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda BT-50 Pro",
+        "TIPE": "BT-50 Pro Double Cabin 4x4 Mid",
+        "HARGA": "Rp. 376.300.000,00"
+    },
+    {
+        "MERK": "MAZDA",
+        "JENIS": "All New Mazda BT-50 Pro",
+        "TIPE": "BT-50 Pro Double Cabin 4x4 High A/T",
+        "HARGA": "Rp. 450.300.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Morning",
+        "TIPE": "M/T",
+        "HARGA": "Rp. 148.500,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "M/T",
+        "HARGA": "Rp. 171.650.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Picanto",
+        "TIPE": "A/T",
+        "HARGA": "Rp. 185.650.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Picanto Platinum",
+        "TIPE": "A/T",
+        "HARGA": "Rp. 205.650.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Rio",
+        "TIPE": "M/T",
+        "HARGA": "Rp. 224.650.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Rio",
+        "TIPE": "A/T",
+        "HARGA": "Rp. 238.650.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Rio Platinum",
+        "TIPE": "A/T",
+        "HARGA": "Rp. 260.650.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Sportage",
+        "TIPE": "LX M/T (Ring 17)",
+        "HARGA": "Rp. 337.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Sportage",
+        "TIPE": "LX A/T (Ring 17)",
+        "HARGA": "Rp. 360.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Sportage",
+        "TIPE": "EX A/T (Ring 18)",
+        "HARGA": "Rp. 409.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Sportage",
+        "TIPE": "Platinum A/T (Ring 18)",
+        "HARGA": "Rp. 453.500.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "New Sportage",
+        "TIPE": "Diesel (Ring 17)",
+        "HARGA": "Rp. 425.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sorento",
+        "TIPE": "A/T Gasoline",
+        "HARGA": "Rp. 487.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "All New Sorento",
+        "TIPE": "A/T Diesel",
+        "HARGA": "Rp. 525.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "Pick Up M/T",
+        "HARGA": "Rp. 202.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "Pick Up PS Long M/T",
+        "HARGA": "Rp. 203.000.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "Box Std M/T",
+        "HARGA": "Rp. 221.250.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "Box Std M/T + Pintu Samping",
+        "HARGA": "Rp. 222.250.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Big Up",
+        "TIPE": "Box Jumbo PS M/T",
+        "HARGA": "Rp. 223.250.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "Box Jumbo PS + Pintu Samping",
+        "HARGA": "Rp. 224.250.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "Opt 2  16 ST Long M/T",
+        "HARGA": "Rp. 278.500.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "Ambulance International M/T",
+        "HARGA": "Rp. 359.050.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "Ambulance STD 1  M/T",
+        "HARGA": "Rp. 289.500.000,00"
+    },
+    {
+        "MERK": "KIA",
+        "JENIS": "Travello",
+        "TIPE": "Ambulance Jenazah M/T",
+        "HARGA": "Rp. 289.500.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Futura",
+        "TIPE": "RV. GX",
+        "HARGA": "Rp. 147.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Futura",
+        "TIPE": "PU WD",
+        "HARGA": "Rp. 120.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Futura",
+        "TIPE": "PU FD",
+        "HARGA": "Rp. 119.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Futura",
+        "TIPE": "CH",
+        "HARGA": "Rp. 95.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga Dreza",
+        "TIPE": "Ertiga Dreza GS - AT",
+        "HARGA": "Rp. 236.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga Dreza",
+        "TIPE": "Ertiga Dreza GS - MT",
+        "HARGA": "Rp. 223.900.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga Dreza",
+        "TIPE": "Ertiga Dreza AT",
+        "HARGA": "Rp. 229.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga Dreza",
+        "TIPE": "Ertiga Dreza MT",
+        "HARGA": "Rp. 216.900.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ciaz",
+        "TIPE": "1.4 AT",
+        "HARGA": "Rp. 289.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ciaz",
+        "TIPE": "1.4 MT",
+        "HARGA": "Rp. 279.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "LUXURY 17\" A/T",
+        "HARGA": "Rp. 231.700.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "LUXURY 17\" M/T",
+        "HARGA": "Rp. 217.700.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "LUXURY 15\" A/T",
+        "HARGA": "Rp. 227.700.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "LUXURY 15\" M/T",
+        "HARGA": "Rp. 213.700.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "SGX A/T",
+        "HARGA": "Rp. 209.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "SGX",
+        "HARGA": "Rp. 194.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "GX",
+        "HARGA": "Rp. 192.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "GL",
+        "HARGA": "Rp. 179.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "APV GE2 - PS",
+        "HARGA": "Rp. 172.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV Airbag",
+        "TIPE": "BLIND VAN 1.5",
+        "HARGA": "Rp. 141.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Ertiga",
+        "TIPE": "GX A/T",
+        "HARGA": "Rp. 220.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Ertiga",
+        "TIPE": "GX M/T",
+        "HARGA": "Rp. 208.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Ertiga",
+        "TIPE": "GL A/T",
+        "HARGA": "Rp. 212.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Ertiga",
+        "TIPE": "GL M/T",
+        "HARGA": "Rp. 199.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Ertiga",
+        "TIPE": "GA",
+        "HARGA": "Rp. 183.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GS AGS Airbag",
+        "HARGA": "Rp. 132.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GL AGS Airbag",
+        "HARGA": "Rp. 123.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "BLIND VAN Airbag",
+        "HARGA": "Rp. 115.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GS Airbag",
+        "HARGA": "Rp. 124.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GL Airbag",
+        "HARGA": "Rp. 115.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Karimun Wagon R",
+        "TIPE": "GA Airbag",
+        "HARGA": "Rp. 110.250.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "CH",
+        "HARGA": "Rp. 100.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "PICK UP",
+        "HARGA": "Rp. 129.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "PICK UP WD",
+        "HARGA": "Rp. 131.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "PICK UP FD PS",
+        "HARGA": "Rp. 135.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "BOX 1.5",
+        "HARGA": "Rp. 142.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "APV",
+        "TIPE": "PICK UP WD PS",
+        "HARGA": "Rp. 138.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Swift",
+        "TIPE": "All New Swift GS AT",
+        "HARGA": "Rp. 233.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Swift",
+        "TIPE": "All New Swift GS MT",
+        "HARGA": "Rp. 224.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Swift",
+        "TIPE": "SPORT 1.6 A/T",
+        "HARGA": "Rp. 347.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Swift",
+        "TIPE": "GX 1.4 M/T",
+        "HARGA": "Rp. 209.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Swift",
+        "TIPE": "GX 1.4 A/T",
+        "HARGA": "Rp. 218.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Swift",
+        "TIPE": "SPORT 1.6 M/T",
+        "HARGA": "Rp. 331.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Celerio",
+        "TIPE": "Celerio-CVT",
+        "HARGA": "Rp. 166.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Celerio",
+        "TIPE": "Celerio-MT",
+        "HARGA": "Rp. 154.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Carry",
+        "TIPE": "REAL VAN GX 1.5",
+        "HARGA": "Rp. 147.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Carry",
+        "TIPE": "FLAT DECK 1.5",
+        "HARGA": "Rp. 119.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Carry",
+        "TIPE": "WIDE DECK 1.5",
+        "HARGA": "Rp. 120.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GL 1.4 A/T",
+        "HARGA": "Rp. 212.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GA 1.4 M/T",
+        "HARGA": "Rp. 183.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GX 1.4 M/T",
+        "HARGA": "Rp. 208.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GX 1.4 A/T",
+        "HARGA": "Rp. 220.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "SPORTY 1.4 A/T",
+        "HARGA": "Rp. 214.400.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "Ertiga",
+        "TIPE": "GL 1.4 M/T",
+        "HARGA": "Rp. 199.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Splash",
+        "TIPE": "1.2 M/T",
+        "HARGA": "Rp. 172.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Splash",
+        "TIPE": "1.2 A/T",
+        "HARGA": "Rp. 184.000.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Grand Vitara 2.4",
+        "TIPE": "2.4 M/T",
+        "HARGA": "Rp. 357.500.000,00"
+    },
+    {
+        "MERK": "SUZUKI",
+        "JENIS": "New Grand Vitara 2.5",
+        "TIPE": "2.4 A/T",
+        "HARGA": "Rp. 368.500.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "BRZ",
+        "TIPE": "2 AT",
+        "HARGA": "Rp. 598.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "BRZ",
+        "TIPE": "2 MT",
+        "HARGA": "Rp. 588.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Forester",
+        "TIPE": "2.0 XT",
+        "HARGA": "Rp. 568.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Impreza Sedan",
+        "TIPE": "2.0 S",
+        "HARGA": "Rp. 399.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Legacy",
+        "TIPE": "2.5 GT (Turbo)",
+        "HARGA": "Rp. 658.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Legacy",
+        "TIPE": "2 Automatic",
+        "HARGA": "Rp. 450.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Outback",
+        "TIPE": "3.6 R",
+        "HARGA": "Rp. 830.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Outback",
+        "TIPE": "2.5 Automatic",
+        "HARGA": "Rp. 560.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "Tribeca",
+        "TIPE": "Tribeca Automatic",
+        "HARGA": "Rp. 888.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza 2.5 (Turbo) M/T",
+        "HARGA": "Rp. 655.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza 2.5 A-Line (Turbo)",
+        "HARGA": "Rp. 680.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza STI 2.5 (Turbo) M/T",
+        "HARGA": "Rp. 670.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "WRX STI",
+        "TIPE": "Impreza STI 2.5 A-Line (Turbo)",
+        "HARGA": "Rp. 695.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "XV",
+        "TIPE": "2.0i Premium",
+        "HARGA": "Rp. 380.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "XV",
+        "TIPE": "Sports A/T",
+        "HARGA": "Rp. 390.000.000,00"
+    },
+    {
+        "MERK": "SUBARU",
+        "JENIS": "XV",
+        "TIPE": "STI Performance Edition",
+        "HARGA": "Rp. 399.000.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Suprima",
+        "TIPE": "Suprima S",
+        "HARGA": "Rp. 275.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "Exora Starr FLX A/T",
+        "HARGA": "Rp. 188.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "Exora Starr FLX M/T",
+        "HARGA": "Rp. 178.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "Exora Bold CVT",
+        "HARGA": "Rp. 248.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Exora",
+        "TIPE": "Exora Prime Limited Edition",
+        "HARGA": "Rp. 260.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Pesona",
+        "TIPE": "Pesona Elegance A/T",
+        "HARGA": "Rp. 178.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Pesona",
+        "TIPE": "Pesona Elegance M/T",
+        "HARGA": "Rp. 168.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Preve",
+        "TIPE": "Preve A/T",
+        "HARGA": "Rp. 285.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Saga",
+        "TIPE": "Saga A/T",
+        "HARGA": "Rp. 151.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Saga",
+        "TIPE": "Saga M/T",
+        "HARGA": "Rp. 140.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Neo",
+        "TIPE": "Neo R3 A/T",
+        "HARGA": "Rp. 230.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Neo",
+        "TIPE": "Neo R3 M/T",
+        "HARGA": "Rp. 220.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen 2",
+        "TIPE": "Gen 2 A/T",
+        "HARGA": "Rp. 183.000.000,00"
+    },
+    {
+        "MERK": "PROTON",
+        "JENIS": "Gen 3",
+        "TIPE": "Gen 2 A/T",
+        "HARGA": "Rp. 172.000.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "107",
+        "TIPE": "City Car",
+        "HARGA": "Rp. 230.200.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "207",
+        "TIPE": "Sportium",
+        "HARGA": "Rp. 283.300.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "207",
+        "TIPE": "Sedan",
+        "HARGA": "Rp. 273.300.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "3008",
+        "TIPE": "1.6 Turbo CrossOver",
+        "HARGA": "Rp. 516.800.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "308",
+        "TIPE": "Facelift 1.6 Turbo",
+        "HARGA": "Rp. 400.800.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "408",
+        "TIPE": "1.6 Turbo",
+        "HARGA": "Rp. 389.500.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "408",
+        "TIPE": "2.0 Std",
+        "HARGA": "Rp. 335.300.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "5008",
+        "TIPE": "1.6 Turbo MVP",
+        "HARGA": "Rp. 535.000.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "508",
+        "TIPE": "1.6 Turbo Sedan Premium",
+        "HARGA": "Rp. 609.200.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "GT1",
+        "TIPE": "GT1",
+        "HARGA": "Rp. 565.200.000,00"
+    },
+    {
+        "MERK": "PEEUGOT",
+        "JENIS": "RCZ",
+        "TIPE": "1.6 Turbo",
+        "HARGA": "Rp. 833.900.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW GRAND LIVINA",
+        "TIPE": "1.5L SV MT      ",
+        "HARGA": "Rp. 200.900.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW GRAND LIVINA",
+        "TIPE": "1.5L SV CVT    ",
+        "HARGA": "Rp. 212.300.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW GRAND LIVINA",
+        "TIPE": "1.5L XV M/T     ",
+        "HARGA": "Rp. 219.300.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW GRAND LIVINA",
+        "TIPE": "1.5L XV CVT    ",
+        "HARGA": "Rp. 230.600.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW GRAND LIVINA",
+        "TIPE": "1.5L HWS CVT     ",
+        "HARGA": "Rp. 243.600.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW GRAND LIVINA",
+        "TIPE": "1.5L HWS Authec ",
+        "HARGA": "Rp. 257.800.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": " ALL NEW GL XGEAR",
+        "TIPE": "1.5L MT        ",
+        "HARGA": "Rp. 231.100.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": " ALL NEW GL XGEAR",
+        "TIPE": "1.5L CVT      ",
+        "HARGA": "Rp. 245.500.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW SERENA",
+        "TIPE": "2.0 X                ",
+        "HARGA": "Rp. 372.700.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW SERENA",
+        "TIPE": "2.0 HWS         ",
+        "HARGA": "Rp. 420.500.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW SERENA",
+        "TIPE": "2.0 Panoramic Autech ",
+        "HARGA": "Rp. 453.100.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW XTRAIL T32",
+        "TIPE": "2.0 L MT     ",
+        "HARGA": "Rp. 390.900.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW XTRAIL T33",
+        "TIPE": "2.0 L CVT  ",
+        "HARGA": "Rp. 419.100.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW XTRAIL T34",
+        "TIPE": "2.5 L CVT  ",
+        "HARGA": "Rp. 450.400.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW XTRAIL T35",
+        "TIPE": "2.5 L Hybrid  ",
+        "HARGA": "Rp. 633.700.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "EVALIA",
+        "TIPE": "St M/T   ",
+        "HARGA": "Rp. 177.750.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "EVALIA",
+        "TIPE": "SV M/T  ",
+        "HARGA": "Rp. 192.250.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "EVALIA",
+        "TIPE": "SV A/T ",
+        "HARGA": "Rp. 203.800.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "EVALIA",
+        "TIPE": "XV M/T  ",
+        "HARGA": "Rp. 208.250.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "EVALIA",
+        "TIPE": "XV A/T ",
+        "HARGA": "Rp. 220.300.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ELGRAND",
+        "TIPE": "2.5L CVT     ",
+        "HARGA": "Rp. 907.150.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ELGRAND",
+        "TIPE": "2.5L HWS    ",
+        "HARGA": "Rp. 920.150.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW NAVARA",
+        "TIPE": "SL M/T ",
+        "HARGA": "Rp. 386.300.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW NAVARA",
+        "TIPE": "VL A/T ",
+        "HARGA": "Rp. 421.400.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "ALL NEW NAVARA",
+        "TIPE": "VL A/T ",
+        "HARGA": "Rp. 436.300.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW JUKE MC 2014",
+        "TIPE": "Juke Rx",
+        "HARGA": "Rp. 282.600.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW JUKE MC 2015",
+        "TIPE": "Juke Red Int",
+        "HARGA": "Rp. 291.600.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW JUKE MC 2015",
+        "TIPE": "Revolt Black",
+        "HARGA": "Rp. 301.600.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW JUKE MC 2015",
+        "TIPE": "Revolt Red Int",
+        "HARGA": "Rp. 310.600.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW-MARCH",
+        "TIPE": "March 1.2 M/T  ",
+        "HARGA": "Rp. 170.500.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW-MARCH",
+        "TIPE": "March 1.2 A/T   ",
+        "HARGA": "Rp. 180.800.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW-MARCH",
+        "TIPE": "March 1.2 XS     ",
+        "HARGA": "Rp. 189.900.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW-MARCH",
+        "TIPE": "March 1.5 M/T   ",
+        "HARGA": "Rp. 197.900.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "NEW-MARCH",
+        "TIPE": "March 1.5 A/T    ",
+        "HARGA": "Rp. 207.900.000,00"
+    },
+    {
+        "MERK": "NISSAN",
+        "JENIS": "TEANA",
+        "TIPE": "ALL NEW TEANA 2.5L V6 ",
+        "HARGA": "Rp. 565.100.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "T120",
+        "TIPE": "T 120 SS PU STD 1.5 86 ps",
+        "HARGA": "Rp. 104.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "T121",
+        "TIPE": "T 120 SS PU FD 1.5 86 ps",
+        "HARGA": "Rp. 104.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "T122",
+        "TIPE": "T 120 SS PU WD 3 WAYS 1.5 86 ps",
+        "HARGA": "Rp. 106.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "L300",
+        "TIPE": "L 300 PU STD 74 ps",
+        "HARGA": "Rp. 166.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "L301",
+        "TIPE": "L 300 PU FD 74 ps",
+        "HARGA": "Rp. 167.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "L302",
+        "TIPE": "L 300 MINIBUS STD E-2 74 ps",
+        "HARGA": "Rp. 197.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "L303",
+        "TIPE": "L 300 MINIBUS DLX E-2 74 ps",
+        "HARGA": "Rp. 211.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 71 110 ps",
+        "HARGA": "Rp. 233.900.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 73 110 ps",
+        "HARGA": "Rp. 268.800.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 73 HD 110 ps",
+        "HARGA": "Rp. 279.200.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 74 S 125 ps",
+        "HARGA": "Rp. 285.900.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 74 HDV 125 ps",
+        "HARGA": "Rp. 292.700.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE SUPER HD 136 ps",
+        "HARGA": "Rp. 298.900.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 84 G HDL 136 ps",
+        "HARGA": "Rp. 315.300.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE SUPER HDX 136 ps",
+        "HARGA": "Rp. 307.900.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 71 BC 110 ps",
+        "HARGA": "Rp. 232.900.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 83 BC 110 ps",
+        "HARGA": "Rp. 287.700.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "COLT DIESEL",
+        "TIPE": "COLT DIESEL FE 84 BC 136 ps",
+        "HARGA": "Rp. 303.600.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FM 517",
+        "TIPE": "FM 517 HS 4X2 – 6 BAN 220 ps",
+        "HARGA": "Rp. 522.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FM 517",
+        "TIPE": "FM 517 HL 4X2 – 6 BAN 220 ps",
+        "HARGA": "Rp. 552.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FM 517",
+        "TIPE": "FM 517 HL LONG 4X2 - 6 BAN 220 ps",
+        "HARGA": "Rp. 559.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FM 517",
+        "TIPE": "FN 517 ML 2 6X2 – 10 BAN 220 ps",
+        "HARGA": "Rp. 659.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FM 517",
+        "TIPE": "FN 517 ML 2 SUPER LONG 6X2 – 10 BAN 220 ps",
+        "HARGA": "Rp. 672.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FN 527",
+        "TIPE": "FN 527 MS 6X4 – 10 BAN 220 ps",
+        "HARGA": "Rp. 765.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FN 527",
+        "TIPE": "FN 527 ML 6X4 – 10 BAN 220 ps",
+        "HARGA": "Rp. 778.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FN 617",
+        "TIPE": "FN 617 6X2 - 10 BAN 220 ps",
+        "HARGA": "Rp. 788.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FN 617",
+        "TIPE": "FN 627 6X4 MT - 10 BAN 250 ps",
+        "HARGA": "Rp. 885.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "HEAD TRACTOR",
+        "TIPE": "HEAD TRACTOR FV 51 JH 380 ps",
+        "HARGA": "Rp. 1.200.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FUSO",
+        "TIPE": "FUSO FJ 2523",
+        "HARGA": "Rp. 584.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FUSO",
+        "TIPE": "FUSO FJ 2528 CHASSIS MIXER",
+        "HARGA": "Rp. 746.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "FUSO",
+        "TIPE": "FUSO FIV2P HD 4X2 FI 1217 C - 170 ps",
+        "HARGA": "Rp. 453.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "PAJERO",
+        "TIPE": "PAJERO SPORT GASOLINE 3.0 4X2 A/T 220 PS",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "PAJERO",
+        "TIPE": "PAJERO DAKAR 4X2 A/T HI-POWER 181 PS",
+        "HARGA": "Rp. 496.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "PAJERO",
+        "TIPE": "PAJERO DAKAR 4X4 A/T HI-POWER 181 PS",
+        "HARGA": "Rp. 623.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "PAJERO",
+        "TIPE": "PAJERO EXCEED 4X2 A/T 136 PS",
+        "HARGA": "Rp. 446.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "PAJERO",
+        "TIPE": "PAJERO GLS 4X2 M/T 136 PS",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "PAJERO",
+        "TIPE": "PAJERO GLX 4X4 M/T 136 PS",
+        "HARGA": "Rp. 495.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "DELICA",
+        "TIPE": "NEW MITSUBISHI DELICA 2.0 A/T 150 PS",
+        "HARGA": "Rp. 429.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "DELICA",
+        "TIPE": "NEW MITSUBISHI DELICA ROYAL 2.0 A/T 150 PS",
+        "HARGA": "Rp. 450.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "STRADA TRITON",
+        "TIPE": "STRADA TRITON EXCEED HP A/T CBU THAILAND",
+        "HARGA": "Rp. 406.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "STRADA TRITON",
+        "TIPE": "STRADA TRITON EXCEED HP M/T CBU THAILAND",
+        "HARGA": "Rp. 392.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "STRADA TRITON",
+        "TIPE": "STRADA TRITON GLS CBU M/T THAILAND",
+        "HARGA": "Rp. 371.500.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "STRADA TRITON",
+        "TIPE": "STRADA TRITON GLS NON AB CBU THAILAND",
+        "HARGA": "Rp. 358.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "STRADA TRITON",
+        "TIPE": "STRADA TRITON SINGLE CAB EXCEED HDX 4X4 M/T CBU THAILAND",
+        "HARGA": "Rp. 292.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "STRADA TRITON",
+        "TIPE": "STRADA TRITON DC HD-X 2.8 L M/T CBU THAILAND",
+        "HARGA": "Rp. 348.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "OUTLANDER",
+        "TIPE": "NEW OUTLANDER PX A/T",
+        "HARGA": "Rp. 354.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "OUTLANDER",
+        "TIPE": "NEW OUTLANDER GLS A/T",
+        "HARGA": "Rp. 329.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "OUTLANDER",
+        "TIPE": "NEW OUTLANDER GLX M/T",
+        "HARGA": "Rp. 314.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "MIRAGE",
+        "TIPE": "SMALL CAR MIRAGE GLX M/T",
+        "HARGA": "Rp. 162.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "MIRAGE",
+        "TIPE": "SMALL CAR MIRAGE GLS A/T",
+        "HARGA": "Rp. 173.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "MIRAGE",
+        "TIPE": "SMALL CAR MIRAGE GLS SPORT A/T ",
+        "HARGA": "Rp. 179.000.000,00"
+    },
+    {
+        "MERK": "MITSHUBISHI",
+        "JENIS": "MIRAGE",
+        "TIPE": "SMALL CAR MIRAGE EXCEED A/T",
+        "HARGA": "Rp. 184.000.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "A-Class",
+        "TIPE": "A 200 URBAN (W176)",
+        "HARGA": "Rp. 539.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "A-Class",
+        "TIPE": "A 250 SPORT (W176)",
+        "HARGA": "Rp. 679.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "A-Class",
+        "TIPE": "A 45 AMG (W176)",
+        "HARGA": "Rp. 1.099.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "B-Class",
+        "TIPE": "B 200 (W246)",
+        "HARGA": "Rp. 499.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "B-Class",
+        "TIPE": "B 200 SPORT (W246)",
+        "HARGA": "Rp. 565.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "CLA-Class",
+        "TIPE": "CLA 200 Urban",
+        "HARGA": "Rp. 639.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "CLA-Class",
+        "TIPE": "CLA 200 Sport",
+        "HARGA": "Rp. 699.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "New C-Class",
+        "TIPE": "New C 200 AVA",
+        "HARGA": "Rp. 719.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "New C-Class",
+        "TIPE": "New C 250 Exclusive",
+        "HARGA": "Rp. 769.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "New C-Class",
+        "TIPE": "New C 250 AMG",
+        "HARGA": "Rp. 819.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "C-Class Coupe",
+        "TIPE": "C 250 CGI COUPE AMG",
+        "HARGA": "Rp. 899.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "C-Class Coupe",
+        "TIPE": "C 63 COUPE AMG",
+        "HARGA": "Rp. 2.259.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class",
+        "TIPE": "E 200 FL (W212)",
+        "HARGA": "Rp. 849.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class",
+        "TIPE": "E 250 CDI ELEGANCE FL (W212)",
+        "HARGA": "Rp. 939.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class",
+        "TIPE": "E 250 AVA FL (W212)",
+        "HARGA": "Rp. 1.049.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class",
+        "TIPE": "E 250 CGI A/T AVA AMG (W212) - pre FL",
+        "HARGA": "Rp. 1.019.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class",
+        "TIPE": "E 400 AMG FL (W212)",
+        "HARGA": "Rp. 1.269.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class Cabriolet",
+        "TIPE": "E 250 CABRIO AMG FL (A207)",
+        "HARGA": "Rp. 1.329.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "E-Class Coupe",
+        "TIPE": "E 250 COUPE AMG FL (C207)",
+        "HARGA": "Rp. 1.289.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "S-Class",
+        "TIPE": "New S 400 L EXCLUSIVE",
+        "HARGA": "Rp. 2.089.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "New S 500 L",
+        "TIPE": "New S 400 L EXCLUSIVE (CBU)",
+        "HARGA": "Rp. 2.379.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "New S 500 L",
+        "TIPE": "New S 500 L (CBU)",
+        "HARGA": "Rp. 4.569.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "GLA-Class",
+        "TIPE": "New GLA 200 URBAN",
+        "HARGA": "Rp. 599.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "GLA-Class",
+        "TIPE": "New GLA 200 SPORT",
+        "HARGA": "Rp. 649.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "M-Class",
+        "TIPE": "ML 250 CDI",
+        "HARGA": "Rp. 1.049.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "M-Class",
+        "TIPE": "ML 400",
+        "HARGA": "Rp. 1.189.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "M-Class",
+        "TIPE": "ML 63 AMG",
+        "HARGA": "Rp. 2.699.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "GL-Class",
+        "TIPE": "GL 400 (X166)",
+        "HARGA": "Rp. 1.699.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "GL-Class",
+        "TIPE": "GL 500 (X166) CBU",
+        "HARGA": "Rp. 2.899.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "GL-Class",
+        "TIPE": "GL 500 (X166)",
+        "HARGA": "Rp. 2.499.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "GL-Class",
+        "TIPE": "GL 63 AMG (X166)",
+        "HARGA": "Rp. 3.599.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "CLS-Class",
+        "TIPE": "New CLS 400 AMG DYNAMIC",
+        "HARGA": "Rp. 1.399.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "CLS-Class",
+        "TIPE": "CLS 63 AMG",
+        "HARGA": "Rp. 2.679.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "SL-Class",
+        "TIPE": "SL 350 AMG (R231)",
+        "HARGA": "Rp. 2.229.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "SL-Class",
+        "TIPE": "SL 63 AMG",
+        "HARGA": "Rp. 3.399.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "SLK-Class",
+        "TIPE": "SLK 200",
+        "HARGA": "Rp. 1.029.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "SLK-Class",
+        "TIPE": "SLK 250 AMG",
+        "HARGA": "Rp. 1.149.000.000,00"
+    },
+    {
+        "MERK": "MERCEDES-BENZ",
+        "JENIS": "SLK-Class",
+        "TIPE": "SLK 55 AMG",
+        "HARGA": "Rp. 2.339.000.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "GL MT",
+        "HARGA": "Rp. 211.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "GL AT",
+        "HARGA": "Rp. 225.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "SG AT",
+        "HARGA": "Rp. 228.500.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "Limited MT",
+        "HARGA": "Rp. 218.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand Avega",
+        "TIPE": "Limited AT",
+        "HARGA": "Rp. 232.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand i10",
+        "TIPE": "GL M/T",
+        "HARGA": "Rp. 147.500.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand i10",
+        "TIPE": "GLS M/T",
+        "HARGA": "Rp. 175.500.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Grand i10",
+        "TIPE": "X M/T",
+        "HARGA": "Rp. 160.500.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1",
+        "TIPE": "Elegance Gasoline Next Gen",
+        "HARGA": "Rp. 409.600.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1",
+        "TIPE": "XG Gasoline Next Gen",
+        "HARGA": "Rp. 439.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1",
+        "TIPE": "Royale Gasoline Next Gen",
+        "HARGA": "Rp. 515.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1",
+        "TIPE": "XG CRDi Next Gen",
+        "HARGA": "Rp. 493.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "H-1",
+        "TIPE": "Royale CRDi Next Gen",
+        "HARGA": "Rp. 572.500.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Santa Fe",
+        "TIPE": "Sport A/T",
+        "HARGA": "Rp. 417.500.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Santa Fe",
+        "TIPE": "GAS A/T",
+        "HARGA": "Rp. 478.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Santa Fe",
+        "TIPE": "GAS Limited A/T",
+        "HARGA": "Rp. 489.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Santa Fe",
+        "TIPE": "CRDi A/T",
+        "HARGA": "Rp. 523.250.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Santa Fe",
+        "TIPE": "CRDi Limited A/T",
+        "HARGA": "Rp. 534.250.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Sonata",
+        "TIPE": "2.4 A/T",
+        "HARGA": "Rp. 490.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Starex",
+        "TIPE": "Mover GAS M/T",
+        "HARGA": "Rp. 345.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Starex",
+        "TIPE": "Mover CRDi M/T",
+        "HARGA": "Rp. 396.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Tucson",
+        "TIPE": "GLS A/T",
+        "HARGA": "Rp. 352.000.000,00"
+    },
+    {
+        "MERK": "HYUNDAI",
+        "JENIS": "Tucson",
+        "TIPE": "XG A/T",
+        "HARGA": "Rp. 387.500.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "HR-V",
+        "TIPE": "New HR-V A 1.5 MT",
+        "HARGA": "Rp. 252.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "HR-V",
+        "TIPE": "New HR-V S 1.5 MT",
+        "HARGA": "Rp. 266.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "HR-V",
+        "TIPE": "New HR-V S 1.5 AT",
+        "HARGA": "Rp. 276.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "HR-V",
+        "TIPE": "New HR-V E 1.5 AT",
+        "HARGA": "Rp. 297.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "HR-V",
+        "TIPE": "New HR-V Prestige 1.8 AT",
+        "HARGA": "Rp. 368.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio Satya",
+        "TIPE": "Brio Satya  A MT",
+        "HARGA": "Rp. 118.900.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio Satya",
+        "TIPE": "Brio Satya  S MT",
+        "HARGA": "Rp. 123.900.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio Satya",
+        "TIPE": "Brio Satya  E MT",
+        "HARGA": "Rp. 129.900.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio",
+        "TIPE": "Brio S 1.2 AT",
+        "HARGA": "Rp. 150.600.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Brio",
+        "TIPE": "Brio E 1.2 AT",
+        "HARGA": "Rp. 158.600.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "Mobilio S 1.5 MT",
+        "HARGA": "Rp. 181.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "Mobilio E 1.5 MT",
+        "HARGA": "Rp. 202.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "Mobilio E 1.5 CVT",
+        "HARGA": "Rp. 213.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "Mobilio Prestige 1.5 CVT",
+        "HARGA": "Rp. 222.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "Mobilio RS 1.5 MT",
+        "HARGA": "Rp. 224.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Mobilio",
+        "TIPE": "Mobilio RS 1.5 CVT",
+        "HARGA": "Rp. 234.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Jazz",
+        "TIPE": "New Jazz A 1.5 MT",
+        "HARGA": "Rp. 208.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Jazz",
+        "TIPE": "New Jazz S 1.5 MT",
+        "HARGA": "Rp. 226.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Jazz",
+        "TIPE": "New Jazz S 1.5 CVT",
+        "HARGA": "Rp. 236.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Jazz",
+        "TIPE": "New Jazz RS 1.5 MT",
+        "HARGA": "Rp. 248.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Jazz",
+        "TIPE": "New Jazz RS 1.5 CVT",
+        "HARGA": "Rp. 258.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "City",
+        "TIPE": "New City S 1.5 MT",
+        "HARGA": "Rp. 289.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "City",
+        "TIPE": "New City S 1.5 CVT",
+        "HARGA": "Rp. 299.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "City",
+        "TIPE": "New City E 1.5 MT",
+        "HARGA": "Rp. 304.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "City",
+        "TIPE": "New City E 1.5 CVT",
+        "HARGA": "Rp. 314.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "City",
+        "TIPE": "New City ES 1.5 CVT",
+        "HARGA": "Rp. 334.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Civic",
+        "TIPE": "New Civic 1.8 MT",
+        "HARGA": "Rp. 382.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Civic",
+        "TIPE": "New Civic 1.8 AT",
+        "HARGA": "Rp. 395.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Civic",
+        "TIPE": "New Civic 2.0 AT",
+        "HARGA": "Rp. 463.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Freed",
+        "TIPE": "New Freed S 1.5 AT",
+        "HARGA": "Rp. 271.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Freed",
+        "TIPE": "New Freed E 1.5 AT",
+        "HARGA": "Rp. 293.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "CR-V",
+        "TIPE": "CR-V 2.0 I-VTEC MT",
+        "HARGA": "Rp. 400.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "CR-V",
+        "TIPE": "CR-V 2.0 I-VTEC AT",
+        "HARGA": "Rp. 410.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "CR-V",
+        "TIPE": "CR-V 2.4 I-VTEC AT",
+        "HARGA": "Rp. 444.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "CR-V",
+        "TIPE": "CR-V 2.4 I-VTEC AT Prestige",
+        "HARGA": "Rp. 492.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Accord",
+        "TIPE": "Accord 2.4 VTi-L CVT",
+        "HARGA": "Rp. 650.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Odyssey",
+        "TIPE": "Odyssey S CVT 2,4L",
+        "HARGA": "Rp. 607.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "Odyssey",
+        "TIPE": "Odyssey E CVT 2.4L Prestige",
+        "HARGA": "Rp. 707.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "CR-Z",
+        "TIPE": "CR-Z Manual",
+        "HARGA": "Rp. 497.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "CR-Z",
+        "TIPE": "CR-Z Otomatis",
+        "HARGA": "Rp. 529.000.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "BR-V",
+        "TIPE": "Honda BR-V S 6MT",
+        "HARGA": "Rp. 226.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "BR-V",
+        "TIPE": "Honda BR-V E 6MT",
+        "HARGA": "Rp. 236.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "BR-V",
+        "TIPE": "Honda BR-V E CVT",
+        "HARGA": "Rp. 246.500.000,00"
+    },
+    {
+        "MERK": "HONDA",
+        "JENIS": "BR-V",
+        "TIPE": "Honda BR-V Prestige CVT",
+        "HARGA": "Rp. 261.500.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca A M/T",
+        "HARGA": "Rp. 94.200.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca T M/T",
+        "HARGA": "Rp. 105.100.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca T Option M/T",
+        "HARGA": "Rp. 105.600.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go",
+        "TIPE": "Panca T Aktif M/T",
+        "HARGA": "Rp. 110.600.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca D M/T",
+        "HARGA": "Rp. 94.600.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca A M/T",
+        "HARGA": "Rp. 102.300.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca A Option M/T",
+        "HARGA": "Rp. 102.800.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca T M/T",
+        "HARGA": "Rp. 109.850.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca T Option M/T",
+        "HARGA": "Rp. 112.850.000,00"
+    },
+    {
+        "MERK": "Datsun",
+        "JENIS": "Go +",
+        "TIPE": "Panca T Style M/T",
+        "HARGA": "Rp. 118.450.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Trax",
+        "TIPE": "1.4T LT AT ",
+        "HARGA": "Rp. 267.000.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Trax",
+        "TIPE": "1.4 LTZ AT",
+        "HARGA": "Rp. 291.000.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Captiva",
+        "TIPE": "2.4 AT ",
+        "HARGA": "Rp. 384.700.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Captiva",
+        "TIPE": "2.0 AT FWD (Diesel) ",
+        "HARGA": "Rp. 402.000.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Captiva",
+        "TIPE": "2.0 AT AWD (Diesel) ",
+        "HARGA": "Rp. 460.800.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": "Orlando",
+        "TIPE": "1.8 LT AT",
+        "HARGA": "Rp. 306.100.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": " All-New Spin",
+        "TIPE": "1.3 LTZ MT (Diesel) ",
+        "HARGA": "Rp. 219.800.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": " All-New Spin",
+        "TIPE": "1.5 LS MT ",
+        "HARGA": "Rp. 171.800.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": " All-New Spin",
+        "TIPE": "1.5 LTZ MT ",
+        "HARGA": "Rp. 193.000.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": " All-New Spin",
+        "TIPE": "1.5 LTZ AT ",
+        "HARGA": "Rp. 204.100.000,00"
+    },
+    {
+        "MERK": "CHEVROLET",
+        "JENIS": " All-New Spin",
+        "TIPE": "Spin Activ 1.5 AT ",
+        "HARGA": "Rp. 211.900.000,00"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 1 SERIES",
+        "TIPE": "The new BMW M135i (3-door) ",
+        "HARGA": "Rp. 989.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 1 SERIES",
+        "TIPE": "The new BMW 118i M Sport (5-door). ",
+        "HARGA": "Rp. 649.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 2 SERIES",
+        "TIPE": "218i Active Tourer Sport ",
+        "HARGA": "Rp. 659.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 2 SERIES",
+        "TIPE": "The first-ever BMW 218i Gran Tourer Luxury ",
+        "HARGA": "Rp. 759.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 2 SERIES",
+        "TIPE": "M235i Coupé ",
+        "HARGA": "Rp. 959.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 3 SERIES",
+        "TIPE": "320i Sport ",
+        "HARGA": "Rp. 659.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 3 SERIES",
+        "TIPE": "320i Luxury ",
+        "HARGA": "Rp. 699.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 3 SERIES",
+        "TIPE": "328i Sport ",
+        "HARGA": "Rp. 785.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 3 SERIES",
+        "TIPE": "328i Luxury ",
+        "HARGA": "Rp. 785.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 3 SERIES",
+        "TIPE": "320d Sport ",
+        "HARGA": "Rp. 665.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "The new BMW 3 Series ",
+        "TIPE": "320i Sport ",
+        "HARGA": "Rp. 699.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "The new BMW 3 Series ",
+        "TIPE": "320d Sport ",
+        "HARGA": "Rp. 709.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "The new BMW 3 Series ",
+        "TIPE": "320i M Sport ",
+        "HARGA": "Rp. 739.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "The new BMW 3 Series ",
+        "TIPE": "330i M Sport ",
+        "HARGA": "Rp. 849.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "The new BMW 3 Series ",
+        "TIPE": "340i M Sport Individual ",
+        "HARGA": "Rp. 1.199.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 4 SERIES",
+        "TIPE": "435i Coupé M Sport ",
+        "HARGA": "Rp. 1.119.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 4 SERIES",
+        "TIPE": "428i Gran Coupé M Sport ",
+        "HARGA": "Rp. 1.059.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 4 SERIES",
+        "TIPE": "428i Convertible Sport ",
+        "HARGA": "Rp. 1.199.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 5 SERIES",
+        "TIPE": "520i Luxury ",
+        "HARGA": "Rp. 909.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 5 SERIES",
+        "TIPE": "528i Luxury ",
+        "HARGA": "Rp. 1.039.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 5 SERIES",
+        "TIPE": "520d Luxury ",
+        "HARGA": "Rp. 929.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 6 SERIES",
+        "TIPE": "640i Coupé ",
+        "HARGA": "Rp. 1.589.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 6 SERIES",
+        "TIPE": "640i Coupé M Sport ",
+        "HARGA": "Rp. 1.709.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 6 SERIES",
+        "TIPE": "640i Convertible* ",
+        "HARGA": "Rp. 1.799.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 6 SERIES",
+        "TIPE": "640i Gran Coupé M Sport ",
+        "HARGA": "Rp. 1.969.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 7 SERIES",
+        "TIPE": "740Li Executive ",
+        "HARGA": "Rp. 2.089.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW 7 SERIES",
+        "TIPE": "740Li Pure Excellence ",
+        "HARGA": "Rp. 2.499.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X1 SERIES",
+        "TIPE": "X1 sDrive18i xLine Edition ",
+        "HARGA": "Rp. 629.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X1 SERIES",
+        "TIPE": "X1 sDrive18i Sport Edition ",
+        "HARGA": "Rp. 659.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X1 SERIES",
+        "TIPE": "X1 sDrive20d Sport Edition ",
+        "HARGA": "Rp. 689.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X3 SERIES",
+        "TIPE": "X3 xDrive20i xLine ",
+        "HARGA": "Rp. 939.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X3 SERIES",
+        "TIPE": "X3 xDrive20d xLine ",
+        "HARGA": "Rp. 959.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X3 SERIES",
+        "TIPE": "X3 xDrive20d Efficient Dynamics ",
+        "HARGA": "Rp. 899.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X4 SERIES",
+        "TIPE": "X4 xDrive28i xLine ",
+        "HARGA": "Rp. 1.109.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X4 SERIES",
+        "TIPE": "X4 xDrive28i M Sport ",
+        "HARGA": "Rp. 1.209.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X5 SERIES",
+        "TIPE": "X5 xDrive25d ",
+        "HARGA": "Rp. 1.159.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X5 SERIES",
+        "TIPE": "X5 xDrive35i xLine ",
+        "HARGA": "Rp. 1.279.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW X5 SERIES",
+        "TIPE": "X5 xDrive35i M Sport ",
+        "HARGA": "Rp. 1.459.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "The all-new BMW X6 ",
+        "TIPE": "X6 xDrive35i ",
+        "HARGA": "Rp. 1.999.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW Z SERIES",
+        "TIPE": "Z4 sDrive20i* ",
+        "HARGA": "Rp. 1.129.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M3 ",
+        "HARGA": "Rp. 1.859.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M3 Pure Edition ",
+        "HARGA": "Rp. 1.759.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M4 Coupé ",
+        "HARGA": "Rp. 1.969.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M5 ",
+        "HARGA": "Rp. 3.189.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M6 Coupé ",
+        "HARGA": "Rp. 3.549.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M6 Gran Coupé ",
+        "HARGA": "Rp. 3.839.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "M6 Gran Coupé Exclusive ",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "X5 M ",
+        "HARGA": "Rp. 3.359.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "X5 M Exclusive ",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "X6 M ",
+        "HARGA": "Rp. 3.469.000.000,00"
+    },
+    {
+        "MERK": "BMW",
+        "JENIS": "BMW M SERIES",
+        "TIPE": "X6 M Exclusive ",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "",
+        "JENIS": "",
+        "TIPE": "",
+        "HARGA": ""
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Bison",
+        "TIPE": "STD",
+        "HARGA": "Rp. 162.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Bison",
+        "TIPE": "FLAT BED",
+        "HARGA": "Rp. 169.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Bison",
+        "TIPE": "MINIBUS",
+        "HARGA": "Rp. 179.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "SINGLE CAB 2.5 M/T",
+        "HARGA": "Rp. 291.800.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "DOUBLE CAB 2.5 M/T",
+        "HARGA": "Rp. 358.700.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "DOUBLE CAB 2.5 VGS M/T",
+        "HARGA": "Rp. 380.400.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "RODEO LS 2.5 M/T",
+        "HARGA": "Rp. 390.400.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "RODEO LS 2.5 VGS M/T",
+        "HARGA": "Rp. 419.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "D-Max",
+        "TIPE": "RODEO LS 2.5 VGS A/T",
+        "HARGA": "Rp. 460.200.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 CC (100PS/2800cc/4 Ban)",
+        "HARGA": "Rp. 224.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 LWB C/O (100PS/2800cc/4 Ban)",
+        "HARGA": "Rp. 232.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 L C/C (100PS/2800cc/6 Ban)",
+        "HARGA": "Rp. 234.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 71 CC STD New (125PS/4500cc/6 Ban)",
+        "HARGA": "Rp. 272.300.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NHR 55 CC",
+        "HARGA": "Rp. 217.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 71 CC HD",
+        "HARGA": "Rp. 278.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 71 LWB",
+        "HARGA": "Rp. 284.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NHR 55 C/C (100PS/2800cc/4 Ban)",
+        "HARGA": "Rp. 203.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NHR 55 C/O (100PS/2800cc/4 Ban)",
+        "HARGA": "Rp. 207.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF",
+        "TIPE": "NKR 55 C/C (100PS/2800cc/4 Ban)",
+        "HARGA": "Rp. 211.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NHR 55 Mikrobus Full H/B (Non AC)",
+        "HARGA": "Rp. 257.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NKR 55 LWB Mikrobus Full H/B (Non AC)",
+        "HARGA": "Rp. 292.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NKR 55 LWB Mikrobus Full H/B (2) (Non AC)",
+        "HARGA": "Rp. 296.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NKR 71 4T",
+        "HARGA": "Rp. 265.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "ELF Mikrobus",
+        "TIPE": "NQR 71 MEDIUM BUS",
+        "HARGA": "Rp. 306.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FRR 90 Q (190PS/6 Ban/4x2)",
+        "HARGA": "Rp. 410.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 L (210PS/WB 4.250)",
+        "HARGA": "Rp. 480.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 P (WB 5.050)",
+        "HARGA": "Rp. 486.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 S (WB 6.050)",
+        "HARGA": "Rp. 494.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FTR 90 H (WB 3.230)",
+        "HARGA": "Rp. 521.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 L (240PS/WB 4.250)",
+        "HARGA": "Rp. 541.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 P(WB 5.050)",
+        "HARGA": "Rp. 547.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 S (WB 6.050)",
+        "HARGA": "Rp. 553.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVM 34 Q (240PS/WB 5.450/6x2)",
+        "HARGA": "Rp. 650.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVM 34 W (WB 7.120)",
+        "HARGA": "Rp. 660.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVZ 34 P (285PS/10 Ban/6x4)",
+        "HARGA": "Rp. 820.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 TH",
+        "HARGA": "Rp. 590.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 P HP",
+        "HARGA": "Rp. 585.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVR 34 S HP",
+        "HARGA": "Rp. 590.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (G-Series)",
+        "TIPE": "GVR 34 TH",
+        "HARGA": "Rp. 625.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVM 34 THP",
+        "HARGA": "Rp. 682.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVZ 34 TH",
+        "HARGA": "Rp. 867.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVZ 34 MIXER",
+        "HARGA": "Rp. 825.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (F-Series)",
+        "TIPE": "FVZ 34 T",
+        "HARGA": "Rp. 836.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (C-Series)",
+        "TIPE": "CYZ 51 Q",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "GIGA Truck (C-Series)",
+        "TIPE": "CYZ 51 N",
+        "HARGA": "*by request"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Touring A/T",
+        "HARGA": "Rp. 431.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Touring A/T (Soul Red Colour)",
+        "HARGA": "Rp. 434.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Smart - J",
+        "HARGA": "Rp. 258.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Smart FF - J",
+        "HARGA": "Rp. 259.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "LV - J",
+        "HARGA": "Rp. 265.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "LV FF - J",
+        "HARGA": "Rp. 266.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Adventure - J",
+        "HARGA": "Rp. 237.800.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "LS FF - J",
+        "HARGA": "Rp. 289.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Touring - J",
+        "HARGA": "Rp. 255.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther",
+        "TIPE": "Grand Touring - J",
+        "HARGA": "Rp. 313.500.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther Pick Up",
+        "TIPE": "Pick Turbo LC",
+        "HARGA": "Rp. 180.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther Pick Up",
+        "TIPE": "Turbo Flat Deck (FD)",
+        "HARGA": "Rp. 183.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "Panther Pick Up",
+        "TIPE": "Turbo GD 3 Way",
+        "HARGA": "Rp. 184.000.000,00"
+    },
+    {
+        "MERK": "Isuzu",
+        "JENIS": "MU-X",
+        "TIPE": "Triptonic 5 Speed",
+        "HARGA": "Rp. 443.000.000,00"
+    }
+]
+}
