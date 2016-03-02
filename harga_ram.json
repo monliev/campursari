@@ -1,0 +1,6575 @@
+{
+  "contacts":
+  [
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Red Tesla ROG Series PC21000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ126661504G-2RDROG",
+        "HARGA": "Rp 1,720,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Red Tesla ROG Series PC21000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ126661508G-2RDROG",
+        "HARGA": "Rp 2,970,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Impact ROG Series PC21000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ126661504G-2IPROG",
+        "HARGA": "Rp 1,220,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Impact ROG Series PC21000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ126661508G-2IPROG",
+        "HARGA": "Rp 2,220,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC17000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ121331504G-2COR",
+        "HARGA": "Rp 695,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC17000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ121331504G-2COB",
+        "HARGA": "Rp 695,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core White PC17000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ121331504G-2COW",
+        "HARGA": "Rp 695,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC17000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ121331508G-2COR",
+        "HARGA": "Rp 1,225,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC17000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ121331508G-2COB",
+        "HARGA": "Rp 1,225,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core White PC17000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ121331508G-2COW",
+        "HARGA": "Rp 1,225,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC19200 4GB (1x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "AVD4UZ124001604G-1COR",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC19200 4GB (1x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "AVD4UZ124001604G-1COB",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC19200 8GB (1x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "AVD4UZ124001608G-1COR",
+        "HARGA": "Rp 700,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC19200 8GB (1x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "AVD4UZ124001608G-1COB",
+        "HARGA": "Rp 700,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC19200 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ124001604G-2COR",
+        "HARGA": "Rp 725,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC19200 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ124001604G-2COB",
+        "HARGA": "Rp 725,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core White PC19200 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ124001604G-2COW",
+        "HARGA": "Rp 725,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC19200 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ124001608G-2COR",
+        "HARGA": "Rp 1,245,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC19200 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ124001608G-2COB",
+        "HARGA": "Rp 1,245,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core White PC19200 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ124001608G-2COW",
+        "HARGA": "Rp 1,245,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC21000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ126661504G-2COB",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC21000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ126661504G-2COR",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Blue PC21000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ126661508G-2COB",
+        "HARGA": "Rp 1,430,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Core Red PC21000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ126661508G-2COR",
+        "HARGA": "Rp 1,430,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Raiden Series PC24000 16GB (4x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Quad Channel",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "AVD4UZ130001504G-4RD",
+        "HARGA": "Rp 2,850,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Raiden Series PC24000 32GB (4x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Quad Channel",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "AVD4UZ130001508G-4RD",
+        "HARGA": "Rp 4,450,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Blitz Red PC24000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ130001504G-2BZ1RR",
+        "HARGA": "Rp 1,030,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Blitz White PC24000 8GB (2x4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD4UZ130001504G-2BZ1SW",
+        "HARGA": "Rp 1,030,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Blitz Red PC24000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ130001508G-2BZ1RR",
+        "HARGA": "Rp 1,735,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR4 Blitz White PC24000 16GB (2x8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD4UZ130001508G-2BZ1SW",
+        "HARGA": "Rp 1,735,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Blue PC12800 4GB (1x4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "AVD3U16001104G-1CW",
+        "HARGA": "Rp 320,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Red PC12800 4GB (1x4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "AVD3U16001104G-1CIR",
+        "HARGA": "Rp 320,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Blue PC12800 8GB (1x8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "AVD3U16001108G-1CW",
+        "HARGA": "Rp 620,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Red PC12800 8GB (1x8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "AVD3U16001108G-1CIR",
+        "HARGA": "Rp 620,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Blue PC12800 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U16001104G-2CW",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Red PC12800 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U16001104G-2CIR",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core White PC12800 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U16001104G-2CIW",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core MPOWER Yellow PC12800 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U16001104G-2CM",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Green PC12800 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U16001104G-2CIG",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Blue PC12800 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U16001108G-2CW",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Red PC12800 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U16001108G-2CIR",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core White PC12800 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U16001108G-2CIW",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core MPOWER Yellow PC12800 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U16001108G-2CM",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Core Green PC12800 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U16001108G-2CIG ",
+        "HARGA": "Rp 1,125,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Blitz Red PC15000 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U18660904G-2BZ1",
+        "HARGA": "Rp 890,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Blitz Gold PC15000 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U18660904G-2BZ1SE",
+        "HARGA": "Rp 890,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Blitz Silver PC15000 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U18660904G-2BZ1SW",
+        "HARGA": "Rp 890,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Blitz Red PC15000 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U18660908G-2BZ1",
+        "HARGA": "Rp 1,580,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Blitz Gold PC15000 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U18660908G-2BZ1SE",
+        "HARGA": "Rp 1,580,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 Blitz Silver PC15000 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U18660908G-2BZ1SW",
+        "HARGA": "Rp 1,580,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 RAIDEN Series PC12800 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U16000904G-2RD",
+        "HARGA": "Rp 1,250,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 RAIDEN Series PC17000 8GB (2x4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AVD3U21330904G-2RD",
+        "HARGA": "Rp 1,325,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 RAIDEN Series PC12800 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U16001008G-2RD",
+        "HARGA": "Rp 2,110,000"
+    },
+    {
+        "MERK": "Avexir",
+        "NAMA": "Avexir DDR3 RAIDEN Series PC17000 16GB (2x8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AVD3U21330908G-2RD",
+        "HARGA": "Rp 2,325,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR3 PC12800 1600Mhz 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 190,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR3 PC12800 1600Mhz 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 280,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR3 PC12800 1600Mhz 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 530,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR3 PC12800 1600Mhz 4GB KIT (2x2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB KIT (2x2GB)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 330,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR3 PC12800 1600Mhz 8GB KIT (2x4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB KIT (2x4GB)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 550,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR3 PC12800 1600Mhz 16GB KIT (2x8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB KIT (2x8GB)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 1,050,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR4 PC17000 2133Mhz 4GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 370,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR4 PC17000 2133Mhz 8GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 640,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR4 PC17000 2133Mhz 8GB KIT (2x4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB KIT (2x4GB)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 680,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC XTREME DDR4 PC17000 2133Mhz 16GB KIT (2x8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB KIT (2x8GB)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung DDR3 PC12800 2GBLifetime Warranty",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 170,000"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung DDR3 PC12800 4GBLifetime Warranty",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 275,000"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung DDR3 PC12800 8GBLifetime Warranty",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 520,000"
+    },
+    {
+        "MERK": "Hynix",
+        "NAMA": "Hynix DDR3 PC12800 2GBLifetime Warranty",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 170,000"
+    },
+    {
+        "MERK": "Hynix",
+        "NAMA": "Hynix DDR3 PC12800 4GBLifetime Warranty",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 275,000"
+    },
+    {
+        "MERK": "Hynix",
+        "NAMA": "Hynix DDR3 PC12800 8GBLifetime Warranty",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 520,000"
+    },
+    {
+        "MERK": "Strontium",
+        "NAMA": "Strontium DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 315,000"
+    },
+    {
+        "MERK": "Strontium",
+        "NAMA": "Strontium DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 602,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR1 Value Select 1GB PC3200",
+        "DDR": "DDR1",
+        "MODUL": "PC3200",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "VS1GB400C3",
+        "HARGA": "Rp 435,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR2 Value Select 1GB PC5300",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "VS1GB667D2",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR2 Value Select 2GB PC6400",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "VS2GB800D2",
+        "HARGA": "Rp 405,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Value 4GB PC17000 (1 X 4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMV4GX4M1A2133C15",
+        "HARGA": "Rp 355,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Value 8GB PC17000 (1 X 8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMV8GX4M1A2133C15",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC19200 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMK8GX4M2A2400C14",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC19200 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMK8GX4M2A2400C14R",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMK8GX4M2A2666C16",
+        "HARGA": "Rp 885,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMK8GX4M2A2666C16R",
+        "HARGA": "Rp 885,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMK16GX4M2A2666C16",
+        "HARGA": "Rp 1,505,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMK16GX4M2A2666C16R",
+        "HARGA": "Rp 1,505,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC25600 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMK8GX4M2B3200C16",
+        "HARGA": "Rp 1,160,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC25600 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMK8GX4M2B3200C16R",
+        "HARGA": "Rp 1,160,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC25600 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMK16GX4M2B3200C16",
+        "HARGA": "Rp 1,685,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC25600 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMK16GX4M2B3200C16R",
+        "HARGA": "Rp 1,685,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC21000 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMD16GX4M2A2666C15",
+        "HARGA": "Rp 2,260,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC24000 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMD16GX4M2B3000C15",
+        "HARGA": "Rp 2,360,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC24000 32GB (2X16GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (2x16GB)",
+        "PART NUMBER": "CMD32GX4M2B3000C15",
+        "HARGA": "Rp 4,410,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 16GB (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMK16GX4M4A2666C16",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 16GB (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMK16GX4M4A2666C15",
+        "HARGA": "Rp 1,805,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC22400 16GB (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC22400",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMK16GX4M4A2800C16",
+        "HARGA": "Rp 2,810,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 32GB (4X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMK32GX4M4A2666C15",
+        "HARGA": "Rp 3,160,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Vengeance LPX PC21000 16GB (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMK16GX4M4A2666C15R",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC21000 16GB (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMD16GX4M4A2666C15",
+        "HARGA": "Rp 2,885,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC21000 32GB (4X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMD32GX4M4A2666C15",
+        "HARGA": "Rp 4,610,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC21000 32GB (4X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMD32GX4M4A2666C16",
+        "HARGA": "Rp 5,360,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR4 Dominator PC25600 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMD16GX4M2B3200C15",
+        "HARGA": "Rp 2,860,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Value Select 2GB PC10660",
+        "DDR": "DDR3",
+        "MODUL": "PC10660",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "VS2GB1333D3",
+        "HARGA": "Rp 235,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Value 4GB PC10600 (1X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMV4GX3M1A1333C9",
+        "HARGA": "Rp 340,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Value 4GB PC12800 (1X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMV4GX3M1A1600C11",
+        "HARGA": "Rp 340,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Value 8GB PC10600 (1X8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMV8GX3M1A1333C9",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Value 8GB PC12800 (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMV8GX3M1A1600C11",
+        "HARGA": "Rp 580,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Value 8GB PC12800 (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMV8GX3M2A1600C11",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 XMS3 PC10666 4GB (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMX4GX3M1A1333C9",
+        "HARGA": "Rp 410,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 4GB (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "CMZ4GX3M1A1600C9",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 4GB (2X2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (2x2GB)",
+        "PART NUMBER": "CMZ4GX3M2A1600C9",
+        "HARGA": "Rp 485,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMZ8GX3M2A1600C9",
+        "HARGA": "Rp 720,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC15000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMZ8GX3M2A1866C9",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 8GB (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "CMZ8GX3M1A1600C9",
+        "HARGA": "Rp 645,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 8GB (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "CMZ8GX3M1A1600C10",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 16GB (4X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMZ16GX3M4A1600C9",
+        "HARGA": "Rp 1,460,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMZ16GX3M2A1600C9",
+        "HARGA": "Rp 1,235,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMZ16GX3M2A1600C10",
+        "HARGA": "Rp 1,210,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 32GB (4X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMZ32GX3M4A1600C9",
+        "HARGA": "Rp 2,485,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 4GB (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "CML4GX3M1A1600C9 LP",
+        "HARGA": "Rp 380,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 4GB (2X2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (2x2GB)",
+        "PART NUMBER": "CML4GX3M2A1600C9 LP ",
+        "HARGA": "Rp 480,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CML8GX3M2A1600C9 LP ",
+        "HARGA": "Rp 715,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Black PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CML16GX3M2A1600C10 LP ",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 4GB (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (1x4GB)",
+        "PART NUMBER": "CMZ4GX3M1A1600C9B",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 4GB (2X2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (2x2GB)",
+        "PART NUMBER": "CMZ4GX3M2A1600C9B",
+        "HARGA": "Rp 485,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMZ8GX3M2A1600C9B",
+        "HARGA": "Rp 720,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC15000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMZ8GX3M2A1866C9B",
+        "HARGA": "Rp 865,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 8GB (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (1x8GB)",
+        "PART NUMBER": "CMZ8GX3M1A1600C10B",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 16GB (4X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMZ16GX3M4A1600C9B",
+        "HARGA": "Rp 1,460,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMZ16GX3M2A1600C10B",
+        "HARGA": "Rp 1,210,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 4GB (2X2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB (2x2GB)",
+        "PART NUMBER": "CML4GX3M2A1600C9B LP ",
+        "HARGA": "Rp 480,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CML8GX3M2A1600C9B LP ",
+        "HARGA": "Rp 715,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Blue PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CML16GX3M2A1600C10B LP ",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Red PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMZ8GX3M2A1600C9R",
+        "HARGA": "Rp 720,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Red PC15000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMZ8GX3M2A1866C9R",
+        "HARGA": "Rp 865,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Red PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMZ16GX3M2A1600C10R",
+        "HARGA": "Rp 1,210,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Red PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CML8GX3M2A1600C9R LP",
+        "HARGA": "Rp 715,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Red PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CML16GX3M2A1600C10R LP",
+        "HARGA": "Rp 1,200,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Green PC12800 8GB (2X4GB) 1.35V",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB) 1.35V",
+        "PART NUMBER": "CMZ8GX3M2A1600C9G",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Green PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMZ16GX3M2A1600C9G",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance White PC12800 8GB (2X4GB) 1.35V",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB) 1.35V",
+        "PART NUMBER": "CML8GX3M2A1600C9W",
+        "HARGA": "Rp 835,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1600C9 ",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC15000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1866C9 ",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC17000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2B2133C9",
+        "HARGA": "Rp 910,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1600C9",
+        "HARGA": "Rp 1,285,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC15000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1866C9",
+        "HARGA": "Rp 1,385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC17000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A2133C11",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC12800 32GB (4X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMY32GX3M4A1600C9",
+        "HARGA": "Rp 2,505,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro PC17000 32GB (4X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMY32GX3M4A2133C11",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Blue PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1600C9B",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Blue PC15000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1866C9B",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Blue PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1600C9B",
+        "HARGA": "Rp 1,285,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Blue PC15000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1866C9B",
+        "HARGA": "Rp 1,385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Blue PC12800 32GB (4X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMY32GX3M4A1600C9B",
+        "HARGA": "Rp 2,505,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1600C9R ",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC15000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1866C9R",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC17000 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2B2133C9R ",
+        "HARGA": "Rp 910,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC21300 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A2666C12R",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1600C9R",
+        "HARGA": "Rp 1,285,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC15000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1866C9R ",
+        "HARGA": "Rp 1,385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC17000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A2133C11R",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC19200 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A2400C11R",
+        "HARGA": "Rp 1,360,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC21300 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A2666C12R",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC12800 32GB (4X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMY32GX3M4A1600C9R ",
+        "HARGA": "Rp 2,505,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Red PC19200 32GB (4X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "CMY32GX3M4A2400C11R",
+        "HARGA": "Rp 2,685,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Gold PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMY8GX3M2A1600C9A",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Gold PC12800 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A1600C9A ",
+        "HARGA": "Rp 1,285,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Vengeance Pro Gold PC19200 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMY16GX3M2A2400C11A",
+        "HARGA": "Rp 1,360,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMD8GX3M2A1600C9",
+        "HARGA": "Rp 1,410,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC12800 8GB (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "CMD8GX3M2A1600C8",
+        "HARGA": "Rp 1,610,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC17000 8GB (2X4GB) 1.65V",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB) 1.65V",
+        "PART NUMBER": "CMD8GX3M2B2133C9",
+        "HARGA": "Rp 1,660,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC15000 16GB (4X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "CMD16GX3M4A1866C9",
+        "HARGA": "Rp 2,710,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC15000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMD16GX3M2A1866C9",
+        "HARGA": "Rp 2,410,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC17000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMD16GX3M2A2133C9",
+        "HARGA": "Rp 2,910,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC19200 16GB (4X4GB) 1.65V",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB) 1.65V",
+        "PART NUMBER": "CMD16GX3M4A2400C10",
+        "HARGA": "Rp 3,385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC19200 16GB (2X8GB) 1.65V",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB) 1.65V",
+        "PART NUMBER": "CMD16GX3M2A2400C10",
+        "HARGA": "Rp 3,110,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair DDR3 Dominator Platinum PC21000 16GB (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC21000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "CMD16GX3M2A2666C12",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite DDR2 PC6400 800Mhz 1GB 6-6-6-18",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1",
+        "PART NUMBER": "TPD21G800HC601",
+        "HARGA": "Rp 209,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite DDR2 PC6400 800Mhz 2GB 6-6-6-18",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2",
+        "PART NUMBER": "TPD22G800HC601",
+        "HARGA": "Rp 299,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR4 PC19200 2400Mhz 16GB (4X4GB) 16-16-16-39",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Quad Channel",
+        "SIZE": " 16GB  (4x4GB",
+        "PART NUMBER": "TPD416GM2400HC16QC01",
+        "HARGA": "Rp 1,710,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR4 PC19200 2400Mhz 32GB (4X8GB) 16-16-16-39",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Quad Channel",
+        "SIZE": " 32GB  (4x8GB",
+        "PART NUMBER": "TPD432GM2400HC16QC01",
+        "HARGA": "Rp 3,070,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR4 PC19200 2400Mhz 16GB (2X8GB) 16-16-16-39",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TPD416GM2400HC16DC01",
+        "HARGA": "Rp 1,410,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR4 PC19200 2400Mhz 8GB (2X4GB) 16-16-16-39",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TPD48GM2400HC8DC01",
+        "HARGA": "Rp 720,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR4 PC19200 2400Mhz 8GB 16-16-16-39",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "#VALUE!",
+        "PART NUMBER": "TPD48GM2400HC1601",
+        "HARGA": "Rp 715,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR4 PC19200 2400Mhz 4GB 16-16-16-39",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "#VALUE!",
+        "PART NUMBER": "TPD44GM2400HC1601",
+        "HARGA": "Rp 365,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR4 PC24000 3000Mhz 16GB (4x4GB) 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Quad Channel",
+        "SIZE": " 16GB  (4x4GB",
+        "PART NUMBER": "TDKED416G3000HC16AQC01",
+        "HARGA": "Rp 1,610,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR4 PC24000 3000Mhz 32GB (4x8GB) 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Quad Channel",
+        "SIZE": " 32GB  (4x8GB",
+        "PART NUMBER": "TDKED432G3000HC16AQC01",
+        "HARGA": "Rp 3,170,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR4 PC21000 2666Mhz 8GB (2x4GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDKED48G2666HC15ADC01",
+        "HARGA": "Rp 805,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR4 PC21000 2666Mhz 16GB (2x8GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDKED416G2666HC15ADC01",
+        "HARGA": "Rp 1,580,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR4 PC24000 3000Mhz 8GB (2x4GB) 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDRED48G3000HC16ADC01",
+        "HARGA": "Rp 885,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR4 PC24000 3000Mhz 16GB (2x8GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDRED416G3000HC15ADC01",
+        "HARGA": "Rp 1,665,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Vulcan Series DDR4 PC21000 2666Mhz 16GB (2x8GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TLWED416G2666HC15ADC01",
+        "HARGA": "Rp 1,585,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Vulcan Series DDR4 PC24000 3000Mhz 16GB (2x8GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TLWED416G3000HC15ADC01",
+        "HARGA": "Rp 1,665,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Dark Pro DDR4 PC24000 3000Mhz 8GB (2x4GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDPRD48G3000HC15ADC01",
+        "HARGA": "Rp 1,025,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Dark Pro DDR4 PC24000 3000Mhz 16GB (2x8GB) 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDPRD416G3000HC15ADC01",
+        "HARGA": "Rp 1,865,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Dark Pro DDR4 PC25600 3200Mhz 8GB (2x4GB) 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDPRD48G3200HC16ADC01",
+        "HARGA": "Rp 1,095,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Dark Pro DDR4 PC25600 3200Mhz 16GB (2x8GB) 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDPRD416G3200HC16ADC01",
+        "HARGA": "Rp 2,020,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC12800 1600Mhz 2GB 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB ",
+        "PART NUMBER": "TPD32GM1600HC1101",
+        "HARGA": "Rp 188,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC12800 1600Mhz 4GB 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB ",
+        "PART NUMBER": "TPD34G1600HC1101",
+        "HARGA": "Rp 300,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC12800 1600Mhz 8GB 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB ",
+        "PART NUMBER": "TPD38G1600HC1101",
+        "HARGA": "Rp 570,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC12800 1600Mhz 4GB (2X2GB) 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 4GB  (2x2GB",
+        "PART NUMBER": "TPD34G1600HC11DC01",
+        "HARGA": "Rp 375,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC12800 1600Mhz 8GB (2X4GB) 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TPD38G1600HC11DC01",
+        "HARGA": "Rp 605,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC12800 1600Mhz 16GB (2X8GB) 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TPD316G1600HC11DC01",
+        "HARGA": "Rp 1,100,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC15000 1866Mhz 4GB 13-13-13-32",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB ",
+        "PART NUMBER": "TED34G1866HC1301",
+        "HARGA": "Rp 310,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite Plus DDR3 PC15000 1866Mhz 8GB 13-13-13-32",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB ",
+        "PART NUMBER": "TED38GM1866HC1301",
+        "HARGA": "Rp 575,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite DDR3L 1.35V PC12800 1600Mhz 4GB 11-11-11-28- TPD3L4GM1600HC1101",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 310,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC12800 1600Mhz 4GB (2x2GB) 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 4GB  (2x2GB",
+        "PART NUMBER": "TDKED34G1600HC9DC01",
+        "HARGA": "Rp 390,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC12800 1600Mhz 8GB (2x4GB) 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDKED38G1600HC9DC01",
+        "HARGA": "Rp 630,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC12800 1600Mhz 16GB (2X8GB) 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDKED316G1600HC9DC01",
+        "HARGA": "Rp 1,145,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC17000 2133Mhz 8GB (2x4GB) 10-10-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDKED38G2133HC10QDC01",
+        "HARGA": "Rp 665,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC17000 2133Mhz 16GB (2x8GB) 10-10-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDKED316G2133HC10QDC01",
+        "HARGA": "Rp 1,170,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC19200 2400Mhz 8GB (2x4GB) 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TDKED38G2400HC11CDC01",
+        "HARGA": "Rp 695,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Dark DDR3 PC19200 2400Mhz 16GB (2x8GB) 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TDKED316G2400HC11CDC01",
+        "HARGA": "Rp 1,205,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC12800 1600Mhz 8GB (2X4GB) 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TLRED38G1600HC9DC01",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC12800 1600Mhz 16GB (2X8GB) 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TLRED316G1600HC9DC01",
+        "HARGA": "Rp 1,130,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC17000 2133Mhz 32GB (4X8GB) 11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Quad Channel",
+        "SIZE": " 32GB  (4x8GB",
+        "PART NUMBER": "TLD332G2133HC11AQC01",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC17000 2133Mhz 16GB (4X4GB) 11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Quad Channel",
+        "SIZE": " 16GB  (4x4GB",
+        "PART NUMBER": "TLD316G2133HC11AQC01",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC17000 2133Mhz 8GB (2X4GB) 11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TLRED38G2133HC10QDC01",
+        "HARGA": "Rp 665,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC17000 2133Mhz 16GB (2X8GB) 11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TLD316G2133HC11ADC01",
+        "HARGA": "Rp 1,170,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Xtreem Vulcan DDR3 PC19200 2400Mhz 8GB (2X4GB) 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TLD38G2400HC11CDC01",
+        "HARGA": "Rp 695,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team LV Series DDR3 PC21000 2666Mhz 16GB (2x8GB) 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 16GB  (2x8GB",
+        "PART NUMBER": "TXD316G2666HC11CDC01",
+        "HARGA": "Rp 2,060,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team LV Series DDR3 PC21000 2666Mhz 8GB (2x4GB) 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC21000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": " 8GB  (2x4GB",
+        "PART NUMBER": "TXD38G2666HC11CDC01",
+        "HARGA": "Rp 1,040,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston DDR2 1GB PC6400 ",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston DDR2 2GB PC6400 ",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston DDR3 2GB PC12800 ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 195,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston DDR3 4GB PC12800 ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 335,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston DDR3 8GB PC12800 ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Predator (T2) DDR4 2800MHz (PC22400) 16GB",
+        "DDR": "DDR4",
+        "MODUL": "PC22400",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "HX428C14PB2K4/16",
+        "HARGA": "Rp 3,290,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury Black DDR4 2133 MHz (PC 17000) 8GB",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "HX421C14FBK2/8",
+        "HARGA": "Rp 1,068,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury Black DDR4 2133 MHz (PC 17000) 16GB",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "HX421C14FBK2/16",
+        "HARGA": "Rp 1,970,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury Black 1600MHz (4GBx1) 4GB (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "HX316C10FB/4",
+        "HARGA": "Rp 498,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury Blue 1600MHz (4GBx1) 4GB (Blue Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "HX316C10F/4",
+        "HARGA": "Rp 498,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston HyperX Fury Red 1600MHz (4GBx1) 4GB (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "HX316C10FR/4",
+        "HARGA": "Rp 498,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 8GB( Kit 4GB x 2) (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "HX318C10FBK2/8 ",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 16GB( Kit 8GB x 2) (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "HX318C10FBK2/16 ",
+        "HARGA": "Rp 1,436,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 8GB( Kit 4GB x 2) (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "HX318C10FRK2/8 ",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 16GB( Kit 8GB x 2) (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "HX318C10FRK2/16 ",
+        "HARGA": "Rp 1,436,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 8GB( Kit 4GB x 2) (Blue Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "HX318C10FK2/8 ",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 16GB( Kit 8GB x 2) (Blue Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "HX318C10FK2/16 ",
+        "HARGA": "Rp 1,436,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 8GB( Kit 4GB x 2) (White Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "HX318C10FWK2/8 ",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Fury DDR3 PC15000 16GB( Kit 8GB x 2) (White Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "HX318C10FWK2/16 ",
+        "HARGA": "Rp 1,436,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Kingston HyperX 800MHz (PC6400) (Kit 1GB x 2) 2GB (Blue HeatSpreader)",
+        "DDR": "DDR1",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB (1x2)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 355,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Blu DDR3 PC12800 8GB( Kit 4GB x 2) (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX16C9B1RK2/8X ",
+        "HARGA": "Rp 910,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Blu DDR3 PC12800 8GB( Kit 4GB x 2) (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX16C9B1BK2/8X ",
+        "HARGA": "Rp 910,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper XMP Blu Red Series DDR3 PC12800 16GB( Kit 8GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "KHX16C10B1RK2/16X ",
+        "HARGA": "Rp 1,535,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper XMP Blu Black Series DDR3 PC12800 16GB( Kit 8GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "KHX16C10B1BK2/16X ",
+        "HARGA": "Rp 1,535,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Blu DDR3 PC12800 6GB(Triple Channel Kit 2GB x 3)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "6GB",
+        "PART NUMBER": "KHX1600C9D3K3/6GX ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Savage Red 1600 (4GB x 1) (PC12800) 4GB",
+        "DDR": "DDR0",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "KHX316C9SR/4",
+        "HARGA": "Rp 454,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC12800 2GB(Single Module 2GB x 1)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "KHX1600C9AD3/2G ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC12800 4GB(Single Module 4GB x 1)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "KHX1600C9D3/4G ",
+        "HARGA": "Rp 377,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC12800 8GB( Kit 4GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX1600C9D3X2K2/8GX ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC12800 32GB( Quad Channel Kit Module 4GB x 8)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "KHX1600C9D3K8/32GX ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC15000 8GB( Kit 4GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX1866C9D3K2/8GX ",
+        "HARGA": "Rp 883,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC17000 8GB(Quad Channel Kit 2GB x 4) ",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX2133C11D3K4/8GX ",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Genesis DDR3 PC17000 16GB(Quad Channel Kit 4GB x 4) ",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "KHX2133C11D3K4/16GX ",
+        "HARGA": "Rp 1,360,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Predator DDR3 PC17000 8GB( Kit 4GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX21C11T2K2/8X ",
+        "HARGA": "Rp 1,455,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Predator DDR3 PC17000 16GB( Kit 8GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "KHX21C11T2K2/16X ",
+        "HARGA": "Rp 1,043,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X Predator DDR3 PC19000 8GB(DualChannel Kit 4GB x 2)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "KHX24C11T2K2/8X ",
+        "HARGA": "Rp 1,043,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston Hyper X 10th Years DDR3 Kingston PC16500 16GB(Quad Channel Kit 4GB x 4)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "KHX21C11X3K4/16X ",
+        "HARGA": "Rp 2,800,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR1 PC3200 1GB F1-3200PHU1-1GBNS / 2.5-3-3-6",
+        "DDR": "DDR0",
+        "MODUL": "PC3200",
+        "CHANNEL": "N/A",
+        "SIZE": "#VALUE!",
+        "PART NUMBER": "",
+        "HARGA": "Rp 368,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC6400 1GB NT  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC6400",
+        "CHANNEL": "Single Channel",
+        "SIZE": "1GB",
+        "PART NUMBER": "F2-6400CL5S-1GBNT",
+        "HARGA": "Rp 198,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC6400 2GB NT  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC6400",
+        "CHANNEL": "Single Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "F2-6400CL5S-2GBNT",
+        "HARGA": "Rp 409,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC6400 1GB NQ  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC6400",
+        "CHANNEL": "Single Channel",
+        "SIZE": "1GB",
+        "PART NUMBER": "F2-6400CL5S-1GBNQ",
+        "HARGA": "Rp 259,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC6400 2GB NQ  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC6400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "F2-6400CL5D-2GBNQ",
+        "HARGA": "Rp 546,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC6400 4GB PI Black  / 4-4-4-12",
+        "DDR": "DDR0",
+        "MODUL": "PC6400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F2-6400CL4D-4GBPI-B",
+        "HARGA": "Rp 1,146,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC8500 4GB PI Black  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC8500",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F2-8500CL5D-4GBPI-B",
+        "HARGA": "Rp 1,146,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC8800 4GB PI  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F2-8800CL5D-4GBPI",
+        "HARGA": "Rp 1,146,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR2 PC9600 4GB PI  / 5-5-5-15",
+        "DDR": "DDR0",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F2-9600CL5D-4GBPI",
+        "HARGA": "Rp 1,350,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10600 2GB NT  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "Single Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "F3-10600CL9S-2GBNT/NS",
+        "HARGA": "Rp 211,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10600 4GB NT  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10600CL9D-4GBNT",
+        "HARGA": "Rp 614,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10600 4GB NT  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10600CL9S-4GBNT",
+        "HARGA": "Rp 587,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 4GB XL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL9D-4GBX",
+        "HARGA": "Rp 641,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 4GB XM  / 8-8-8-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL8D-4GBXM",
+        "HARGA": "Rp 641,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 4GB XH  / 7-7-7-21",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL7D-4GBXH",
+        "HARGA": "Rp 641,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 4GB RL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL9D-4GBR",
+        "HARGA": "Rp 641,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 4GB RL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL9S-4GBR",
+        "HARGA": "Rp 587,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10600 8GB NT  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10600CL9D-8GBNT",
+        "HARGA": "Rp 1,159,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10600 8GB NT  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10600CL9S-8GBNT",
+        "HARGA": "Rp 1,105,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 8GB XL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10666CL9S-8GBX",
+        "HARGA": "Rp 1,105,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 8GB XL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10666CL9D-8GBX",
+        "HARGA": "Rp 1,159,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 8GB XH  / 7-7-7-21",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10666CL7D-8GBXH",
+        "HARGA": "Rp 1,187,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 8GB RL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10666CL9D-8GBR",
+        "HARGA": "Rp 1,159,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 8GB SR  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10666CL9D-8GBSR",
+        "HARGA": "Rp 839,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 8GB AO  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1333C9D-8GAO",
+        "HARGA": "Rp 1,228,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10666 16GB AO  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1333C9D-16GAO",
+        "HARGA": "Rp 2,360,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC10600 16GB NT  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-10600CL9D-16GBNT",
+        "HARGA": "Rp 2,196,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 2GB TD TRIDENT  / 8-8-8-21",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "F3-12800CL8D-2GBTD",
+        "HARGA": "Rp 464,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-1600C11S-4GNT",
+        "HARGA": "Rp 368,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-1600C11S-4GIS",
+        "HARGA": "Rp 368,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB ECO CL9  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL9D-4GBECO",
+        "HARGA": "Rp 723,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB RL RIPJAWS LOW L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL9D-4GBR",
+        "HARGA": "Rp 477,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB RL RIPJAWS LOW L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL9S-4GBR",
+        "HARGA": "Rp 423,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB TD TRIDENT  / 8-8-8-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL8D-4GBTD",
+        "HARGA": "Rp 525,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB ECO CL7  / 7-8-7-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL7D-4GBECO",
+        "HARGA": "Rp 928,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB RM RIPJAWS MID  / 8-8-8-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL8D-4GBRM",
+        "HARGA": "Rp 477,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB RM RIPJAWS MID  / 7-8-7-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL7D-4GBRM",
+        "HARGA": "Rp 477,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB XL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL9D-4GBX",
+        "HARGA": "Rp 440,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 4GB XH  / 6-8-6-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-12800CL6D-4GBXH",
+        "HARGA": "Rp 1,064,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 6GB RM RIPJAWS MID Triple Channel / 8-8-8-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "6GB",
+        "PART NUMBER": "F3-12800CL8T-6GBRM",
+        "HARGA": "Rp 655,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1600C11D-8GNT",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1600C11S-8GNT",
+        "HARGA": "Rp 709,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1600C11D-8GIS",
+        "HARGA": "Rp 620,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1600C11S-8GIS",
+        "HARGA": "Rp 620,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB RL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL9D-8GBR",
+        "HARGA": "Rp 825,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB XL L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL9D-8GBX",
+        "HARGA": "Rp 700,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB XL L / 10-10-10-30",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL10S-8GBX",
+        "HARGA": "Rp 771,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB AB  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1600C9D-8GAB",
+        "HARGA": "Rp 825,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB AB  / 8-8-8",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-1600C8D-8GAB",
+        "HARGA": "Rp 825,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB SR  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL9D-8GBSR",
+        "HARGA": "Rp 859,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB SR2  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL9D-8GBSR2",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB SR1  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL9D-8GBSR1",
+        "HARGA": "Rp 873,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 8GB ZL Quad Channel L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-12800CL9Q-8GBZ",
+        "HARGA": "Rp 1,405,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 16GB NT  / 11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-1600C11D-16GNT",
+        "HARGA": "Rp 1,398,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 16GB GTX  / 7-8-8-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-1600C7D-16GTX",
+        "HARGA": "Rp 1,787,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 16GB XL L / 10-10-10-30",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-12800CL10D-16GBX",
+        "HARGA": "Rp 1,528,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 16GB RL Quad Channel L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-12800CL9Q-16GBR",
+        "HARGA": "Rp 1,657,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 16GB SR1 Quad Channel / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-12800CL9Q-16GBSR1",
+        "HARGA": "Rp 1,746,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 16GB ZL Quad Channel L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-12800CL9Q-16GBZ",
+        "HARGA": "Rp 2,564,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 24GB RL Triple Channel / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "24GB",
+        "PART NUMBER": "x 2 F3-12800CL9T2-24GBRL",
+        "HARGA": "Rp 2,578,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 32GB ZL Quad Channel L / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-12800CL9Q2-32GBZ",
+        "HARGA": "Rp 5,115,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 32GB ZL Quad Channel L / 10-10-10-30",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-12800CL10Q-32GBZ",
+        "HARGA": "Rp 4,897,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC12800 64GB ZL Quad Channel L / 10-10-10-30",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "64GB",
+        "PART NUMBER": "F3-12800CL10Q2-64GBZ",
+        "HARGA": "Rp 9,657,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC14400 4GB FLS FLARE  / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC14400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-14400CL9D-4GBFLS",
+        "HARGA": "Rp 1,228,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC14400 4GB FLS FLARE  / 7-8-7-24",
+        "DDR": "DDR3",
+        "MODUL": "PC14400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-14400CL7D-4GBFLS",
+        "HARGA": "Rp 1,760,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC14900 16GB ZL Quad Channel L / 10-10-10-30",
+        "DDR": "DDR3",
+        "MODUL": "PC14900",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-14900CL9Q-16GBZ",
+        "HARGA": "Rp 2,373,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC14900 32GB ZL Quad Channel L / 10-10-10-30",
+        "DDR": "DDR3",
+        "MODUL": "PC14900",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-14900CL9Q2-32GBZ",
+        "HARGA": "Rp 4,760,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC14900 16GB ZH Quad Channel / 9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC14900",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-1866C9D-16GZH",
+        "HARGA": "Rp 2,564,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC16000 4GB RM  / 9-9-9-27",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-16000CL9D-4GBRM",
+        "HARGA": "Rp 587,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 8GB AO  / 11-11-11",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2133C11D-8GAO",
+        "HARGA": "Rp 1,309,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 8GB AB  / 9-11-10",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2133C9D-8GAB",
+        "HARGA": "Rp 1,309,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 8GB XM  / 9-11-10-28",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-17000CL9D-8GBXM",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 8GB XM  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2133C10D-8GXM",
+        "HARGA": "Rp 853,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 8GB XL L / 11-11-11-30",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-17000CL11D-8GBX",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 8GB XL L / 9-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2133C9D-8GX",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB ZL Quad Channel L / 11-11-11-30",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-17000CL11Q-16GBZ",
+        "HARGA": "Rp 2,510,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB ZH Quad Channel / 9-11-10-28",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-17000CL9Q-16GBZH",
+        "HARGA": "Rp 2,769,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB SR Quad Channel / 9-11-10-28",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-17000CL9Q-16GBSR",
+        "HARGA": "Rp 2,537,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB XL Quad Channel L / 11-11-11-30",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-17000CL11Q-16GBX",
+        "HARGA": "Rp 1,753,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB XL  / 9-11-11",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2133C9D-16GXH",
+        "HARGA": "Rp 1,814,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB XL  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2133C10D-16GXM",
+        "HARGA": "Rp 1,582,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB ZL Quad Channel L / 11-11-11-30",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2133C11D-16GZ",
+        "HARGA": "Rp 2,592,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 16GB GTX  / 9-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2133C9D-16GTX",
+        "HARGA": "Rp 1,848,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 32GB ZL Quad Channel L / 11-11-11-30",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-17000CL11Q2-32GBZ",
+        "HARGA": "Rp 4,979,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC17000 32GB ZH Quad Channel / 9-11-10-28",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-17000CL9Q2-32GBZH",
+        "HARGA": "Rp 5,497,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB XLD  / 11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-19200CL11D-8GBXLD",
+        "HARGA": "Rp 1,610,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB GXM  / 11-13-13-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2400C11D-8GXM",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB GAB  / 11-13-13-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2400C11D-8GAB",
+        "HARGA": "Rp 853,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB GZH  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2400C10D-8GZH",
+        "HARGA": "Rp 1,323,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB GTX  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2400C10D-8GTX",
+        "HARGA": "Rp 934,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB GTXD  / 9-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2400C9D-8GTXD",
+        "HARGA": "Rp 1,637,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB GAB Quad Channel / 11-13-13-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2400C11D-16GXM",
+        "HARGA": "Rp 1,405,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB GAB Quad Channel / 11-13-13-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2400C11D-16GAB",
+        "HARGA": "Rp 1,405,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB GZH Quad Channel / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2400C10Q-16GZH",
+        "HARGA": "Rp 2,605,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB GTX Quad Channel / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2400C10Q-16GTX",
+        "HARGA": "Rp 1,828,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB GTX / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2400C10D-16GTX",
+        "HARGA": "Rp 1,991,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB TDD  / 10-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-19200CL10D-8GBTDD",
+        "HARGA": "Rp 1,732,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 8GB TD  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2400C10D-8GTD",
+        "HARGA": "Rp 934,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB ZHD Quad Channel / 11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-19200CL11Q-16GBZHD",
+        "HARGA": "Rp 3,437,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB ZMD Quad Channel / 9-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-19200CL9Q-16GBZMD",
+        "HARGA": "Rp 3,656,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 16GB TD Quad Channel / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2400C10Q-16GTD",
+        "HARGA": "Rp 1,828,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 32GB GTX Quad Channel / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-2400C10Q-32GTX",
+        "HARGA": "Rp 3,942,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 32GB GZM Quad Channel / 11-13-13-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-2400C11Q-32GZM",
+        "HARGA": "Rp 5,251,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC19200 32GB ZHD Quad Channel / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-19200CL10Q-32GBZHD",
+        "HARGA": "Rp 5,770,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC20800 8GB GTXD  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC20800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2600C10D-8GTXD",
+        "HARGA": "Rp 1,596,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC20800 16GB GTXD Quad Channel / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC20800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2600C10Q-16GTXD",
+        "HARGA": "Rp 3,192,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC21300 8GB GTXD  / 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2666C11D-8GTXD",
+        "HARGA": "Rp 1,384,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC21300 8GB GTXD  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2666C10D-8GTXD",
+        "HARGA": "Rp 2,155,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC21300 16GB GZHD Quad Channel / 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2666C11Q-16GZHD",
+        "HARGA": "Rp 4,051,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC21300 16GB GTXD Quad Channel / 11-13-13-35",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2666C11Q-16GTXD",
+        "HARGA": "Rp 2,762,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC21300 16GB GTXD  / 10-12-12-31",
+        "DDR": "DDR3",
+        "MODUL": "PC21300",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2666C10Q-16GTXD",
+        "HARGA": "Rp 3,983,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC22400 8GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2800C12D-8GTXDG",
+        "HARGA": "Rp 1,698,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC22400 16GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2800C12Q-16GTXDG",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC22400 16GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2800C12D-16GTXDG",
+        "HARGA": "Rp 4,979,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC22400 32GB Quad Channel / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC22400",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-2800C12Q-32GTXDG",
+        "HARGA": "Rp 9,030,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC22400 8GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2800C11D-8GTXDG",
+        "HARGA": "Rp 3,710,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC22400 16GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2800C11Q-16GTXDG",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24000 8GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-2933C12D-8GTXDG",
+        "HARGA": "Rp 2,714,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24000 16GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2933C12Q-16GTXDG",
+        "HARGA": "Rp 5,415,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24000 16GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-2933C12D-16GTXDG",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24000 32GB Quad Channel / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F3-2933C12Q-32GTXDG",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24000 8GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-3000C12D-8GTXDG",
+        "HARGA": "Rp 5,074,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24000 16GB Quad Channel / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-3000C12Q-16GTXDG",
+        "HARGA": "Rp 10,121,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR3 PC24800 8GB  / 12-14-14-35",
+        "DDR": "DDR3",
+        "MODUL": "PC24800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-3100C12D-8GTXDG",
+        "HARGA": "Rp 10,121,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC17000 16GB Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2133C15Q-16GNT",
+        "HARGA": "Rp 1,650,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC17000 32GB Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-2133C15Q-32GNT",
+        "HARGA": "Rp 3,090,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC19200 16GB Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2400C15Q-16GNT",
+        "HARGA": "Rp 1,690,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC19200 32GB Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-2400C15Q-32GNT",
+        "HARGA": "Rp 3,135,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC19200 16GB Ripjaws4 Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2400C15Q-16GRR",
+        "HARGA": "Rp 1,900,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC19200 32GB Ripjaws4 Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-2400C15Q-32GRR",
+        "HARGA": "Rp 3,490,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC21300 16GB Ripjaws4 Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC21300",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2666C15Q-16GRR",
+        "HARGA": "Rp 1,950,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC22400 16GB Ripjaws4 Quad Channel / 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC22400",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2800C16Q-16GRK",
+        "HARGA": "Rp 1,940,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC24000 16GB Ripjaws4 Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-3000C15Q-16GRR",
+        "HARGA": "Rp 2,185,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC25600 16GB Ripjaws4 Quad Channel / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-3200C16Q-16GRKD",
+        "HARGA": "Rp 2,460,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC19200 16GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2400C15D-16GVR",
+        "HARGA": "Rp 1,760,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC19200 32GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-2400C15D-32GVR",
+        "HARGA": "Rp 3,490,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC21300 16GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC21300",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2666C15D-16GVR",
+        "HARGA": "Rp 1,840,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC21300 32GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC21300",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-2666C15D-32GVR",
+        "HARGA": "Rp 3,680,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC22400 16GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-2800C15D-16GVR",
+        "HARGA": "Rp 1,920,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC22400 32GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC22400",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-2800C15D-32GVR",
+        "HARGA": "Rp 3,810,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC24000 16GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-3000C15D-16GVR",
+        "HARGA": "Rp 2,105,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC24000 32GB Ripjaws5  / 15-15-15-35",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-3000C15D-32GVR",
+        "HARGA": "Rp 4,270,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC25600 16GB Ripjaws5  / 16-16-16-36",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-3200C16D-16GVK",
+        "HARGA": "Rp 2,365,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC25600 32GB Ripjaws5  / 16-18-18-38",
+        "DDR": "DDR4",
+        "MODUL": "PC25600",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "32GB",
+        "PART NUMBER": "F4-3200C16D-32GVK",
+        "HARGA": "Rp 4,770,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC28800 8GB Ripjaws5  / 17-18-18-38",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F4-3600C17D-8GVK",
+        "HARGA": "Rp 6,000,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill DDR4 PC28800 16GB Ripjaws5  / 17-18-18-38",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F4-3600C17D-16GVK",
+        "HARGA": "Rp 12,340,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR1 1GB PC3200 ",
+        "DDR": "DDR1",
+        "MODUL": "PC3200",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 450,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 1GB PC5300 ",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 225,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 2GB PC5300 ",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 375,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 1GB PC6400 ",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 225,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 2GB PC6400 ",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 375,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 1GB PC10600/1333Mhz ",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 168,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 2GB PC10600/PC12800",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 188,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 4GB PC10600/PC12800",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 338,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 8GB PC10600/PC12800",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 598,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR4 4GB PC17000",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 388,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR4 8GB PC17000",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 698,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR2 PC6400 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 99,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR2 PC6400 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 163,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR2 PC6400 1GB With Heatsink",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 129,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR2 PC6400 2GB With Heatsink",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 193,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 1GB",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 118,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 2GB ",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 163,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 262,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 475,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 1GB With Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 146,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 2GB With Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 191,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 4GB With Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 290,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC10600 8GB With Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 500,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 165,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 263,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC12800 2GB With Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 193,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX DDR3 PC12800 4GB With Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 291,000"
+    },
+    {
+        "MERK": "Visipro",
+        "NAMA": "Visipro DDR3 PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 195,000"
+    },
+    {
+        "MERK": "Visipro",
+        "NAMA": "Visipro DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 340,000"
+    },
+    {
+        "MERK": "Visipro",
+        "NAMA": "Visipro DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 635,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR3 PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 330,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 650,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR3 PC17000 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "AX3U2133W8G10-DBV-RG",
+        "HARGA": "Rp 1,000,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR3 PC15000 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "AX3U1866W8G10-DBV-RG",
+        "HARGA": "Rp 957,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "AX3U1600W8G9-DBV-RG",
+        "HARGA": "Rp 826,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR4 PC17000 4GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "AD4U2133W4G15-R",
+        "HARGA": "Rp 551,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR4 PC17000 8GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "AD4U2133W8G15-R",
+        "HARGA": "Rp 942,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR4 PC19200 8GB (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "AX4U2400W4G8-DRZ",
+        "HARGA": "Rp 1,000,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR4 PC19200 16GB (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "AX4U2400W8G16-DRZ",
+        "HARGA": "Rp 1,885,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR4 PC19200 16GB (4x4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "AX4U2400W4G16-QRZ",
+        "HARGA": "Rp 2,044,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata DDR4 PC19200 32GB (4X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "AX4U2400W8G32-QRZ",
+        "HARGA": "Rp 3,451,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR2 PC5300 667Mhz 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 313,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR2 PC5300 667Mhz 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 534,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR2 PC6400 800Mhz 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 313,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR2 PC6400 800Mhz 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 534,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC8500 1066Mhz 1GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 286,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC8500 1066Mhz 2GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 348,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC8500 1066Mhz 4GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC10600 1333Mhz 1GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 286,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC10600 1333Mhz 2GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 348,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC10600 1333Mhz 4GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC12800 1600Mhz 2GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 380,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC12800 1600Mhz 4GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 513,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam DDR3 PC12800 1600Mhz 8GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 941,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC12800 1600Mhz 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 206,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC12800 1600Mhz 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 280,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC12800 1600Mhz 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC12800 1600Mhz 2GBBlack Panther",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 269,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC12800 1600Mhz 4GBBlack Panther",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 364,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC12800 1600Mhz 8GBBlack Panther (4GBX2)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 639,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer DDR3 PC14900 1866Mhz 8GB Kit 4GBX2Armor CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC14900",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 985,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR1 Signature Line Series PC3200 1GB",
+        "DDR": "DDR1",
+        "MODUL": "PC3200",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "PSD 1G 400H",
+        "HARGA": "Rp 177,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR2 Signature Line Series PC6400 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "PSD2 2G 800H",
+        "HARGA": "Rp 290,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Signature Line Series PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "PSD3 2G 1600 H",
+        "HARGA": "Rp 199,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Signature Line Series PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "PSD3 4G 1600 H / PVL3 4G 160C1 BLBL",
+        "HARGA": "Rp 317,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Signature Line Series PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "PSD3 8G 1600 H / PVL3 8G 160C1 BLBL",
+        "HARGA": "Rp 534,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Signature Line Kit Series PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "PSD3 4G 1600 KH",
+        "HARGA": "Rp 370,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Signature Line Kit Series PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PSD3 8G 1600 KH",
+        "HARGA": "Rp 540,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC12800 8GB CL9 (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 160 C9K",
+        "HARGA": "Rp 680,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC15000 8GB CL9 (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 186 C9K",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC17000 8GB CL11 (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 213 C1K",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC19000 8GB CL11 (Black Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 240 C1K",
+        "HARGA": "Rp 850,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC12800 8GB CL9 (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 160 C9KRD",
+        "HARGA": "Rp 680,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC15000 8GB CL9 (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 186 C9KRD",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC17000 8GB CL11 (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 213 C1KRD",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC17000 16GB CL11 (Red Heatspreader)",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "PV3 16G 213 C1KRD",
+        "HARGA": "Rp 1,620,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC12800 8GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 160 C9KBL",
+        "HARGA": "Rp 680,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC15000 8GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 186 C9KBL",
+        "HARGA": "Rp 770,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series PC17000 8GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "PV3 8G 213 C1KBL",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR3 Viper 3 Series Quad Channel PC15000 32GB CL10",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "PV3 32G 186 C0QKBL",
+        "HARGA": "Rp 2,190,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Signature Line Series PC17000 4GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "PSD4 4G 2133",
+        "HARGA": "Rp 305,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Signature Line Series PC17000 8GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "PSD4 8G 2133",
+        "HARGA": "Rp 570,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Signature Line Series PC17000 16GB",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "PSD4 16G 2133 KH",
+        "HARGA": "Rp 1,120,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Series PC19200 8GB CL10 (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "PV4 8G 240 C5K",
+        "HARGA": "Rp 715,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Series PC24000 8GB CL10 (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "PV4 8G 300 C6K",
+        "HARGA": "Rp 865,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Series PC27200 8GB CL10 (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "PV4 8G 340 C6K",
+        "HARGA": "Rp 965,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Series PC19200 16GB CL10 (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "PV4 16G 240 C5K",
+        "HARGA": "Rp 1,290,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Series PC27200 16GB CL10 (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "PV4 16G 340 C6K",
+        "HARGA": "Rp 1,680,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Series Quad Channel PC24000 16GB CL10 (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "PV4 16G 300 C6QK",
+        "HARGA": "Rp 1,590,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Xtreme PC19200 8GB CL10 (2X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "PX4 8G 240 C5K",
+        "HARGA": "Rp 720,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Xtreme PC19200 16GB CL10 (2X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB (2x8GB)",
+        "PART NUMBER": "PX4 16G 240 C5K",
+        "HARGA": "Rp 1,295,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Xtreme Quad Channel PC19200 16GB CL10 (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "PX4 16G 240 C5QK",
+        "HARGA": "Rp 1,299,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Xtreme Quad Channel PC24000 16GB CL10 (4X4GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC24000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB (4x4GB)",
+        "PART NUMBER": "PX4 16G 300 C6QK",
+        "HARGA": "Rp 1,590,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Xtreme Quad Channel PC19200 32GB CL10 (4X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "PX4 32G 240 C5QK",
+        "HARGA": "Rp 3,650,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot DDR4 Viper 4 Xtreme Quad Channel PC22400 32GB CL10 (4X8GB)",
+        "DDR": "DDR4",
+        "MODUL": "PC22400",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB (4x8GB)",
+        "PART NUMBER": "PX4 32G 280 C6QK",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC BLADE SO-DIMM DDR3 2GB PC12800 Low VoltageWith Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 180,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC BLADE SO-DIMM DDR3 4GB PC12800 Low VoltageWith Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 285,000"
+    },
+    {
+        "MERK": "OCPC",
+        "NAMA": "OCPC BLADE SO-DIMM DDR3 8GB PC12800 Low VoltageWith Heatsink",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 525,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR2 2GB PC5300",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "VS2GSDS667D2",
+        "HARGA": "Rp 405,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR2 2GB PC6400",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "VS2GSDS800D2",
+        "HARGA": "Rp 405,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 2GB PC10666 (1X2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "CMSO2GX3M1A1333C9",
+        "HARGA": "Rp 235,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC10666 (2X2GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSO4GX3M2A1333C9",
+        "HARGA": "Rp 460,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC10666 (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSO4GX3M1A1333C9",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC12800 (1X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSO4GX3M1A1600C11",
+        "HARGA": "Rp 340,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC10666 (2X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSO8GX3M2A1333C9",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC10666 (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSO8GX3M1A1333C9",
+        "HARGA": "Rp 580,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC12800 (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSO8GX3M1A1600C11",
+        "HARGA": "Rp 580,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC12800 (1X4GB)Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSO4GX3M1C1600C11",
+        "HARGA": "Rp 345,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC12800 (1X8GB)Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSO8GX3M1C1600C11",
+        "HARGA": "Rp 590,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 16GB PC12800 (2X8GB)Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "CMSO16GX3M2C1600C11",
+        "HARGA": "Rp 1,170,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC12800 (2X4GB)Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSX8GX3M2B1600C9",
+        "HARGA": "Rp 705,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 16GB PC12800 (2X8GB)Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "CMSX16GX3M2B1600C9",
+        "HARGA": "Rp 1,260,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR4 4GB PC17000- (1X4GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSO4GX4M1A2133C15",
+        "HARGA": "Rp 440,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR4 8GB PC17000- (1X8GB) ",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSO8GX4M1A2133C15",
+        "HARGA": "Rp 675,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC12800 (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSX4GX3M1A1600C9",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC12800 (2X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSX8GX3M2A1600C9",
+        "HARGA": "Rp 705,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC12800 (1X8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSX8GX3M1A1600C10",
+        "HARGA": "Rp 645,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 16GB PC12800 (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "CMSX16GX3M2A1600C10",
+        "HARGA": "Rp 1,235,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 16GB PC15000 (2X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "CMSX16GX3M2A1866C10",
+        "HARGA": "Rp 1,660,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC8500For Mac Apple (1X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSA4GX3M1A1066C7",
+        "HARGA": "Rp 420,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC8500For Mac Apple (2X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSA8GX3M2A1066C7",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 4GB PC10666For Mac Apple (1X4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "CMSA4GX3M1A1333C9",
+        "HARGA": "Rp 420,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC10666For Mac Apple (2X4GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSA8GX3M2A1333C9",
+        "HARGA": "Rp 785,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC10666For Mac Apple (1X8GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSA8GX3M1A1333C9",
+        "HARGA": "Rp 645,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 8GB PC12800- For Mac Apple (1X8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "CMSA8GX3M1A1600C11",
+        "HARGA": "Rp 645,000"
+    },
+    {
+        "MERK": "Corsair",
+        "NAMA": "Corsair SO-DIMM DDR3 16GB PC12800- For Mac Apple (2X8GB) ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "CMSA16GX3M2A1600C11",
+        "HARGA": "Rp 1,260,000"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SO-DIMM DDR3 PC12800 2GB ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SO-DIMM DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 459,000"
+    },
+    {
+        "MERK": "Samsung",
+        "NAMA": "Samsung SO-DIMM DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 1,040,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR2 PC6400 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "TED22GM800C6-S01",
+        "HARGA": "Rp 315,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "TED32G1600C11-S01",
+        "HARGA": "Rp 181,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 2GB Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB Low Voltage",
+        "PART NUMBER": "TED32G1600C11-S01",
+        "HARGA": "Rp 191,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "TED34GM1600C11-S01",
+        "HARGA": "Rp 277,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 4GBLow Voltage -",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "TED3L4GM1600C11-S01",
+        "HARGA": "Rp 293,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "TED38G1600C11-S01",
+        "HARGA": "Rp 510,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 8GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "TED3L8GM1600C11-S01 ",
+        "HARGA": "Rp 550,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC10600 2GB For Mac",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB For Mac",
+        "PART NUMBER": "TAD32048M1333HC9-S",
+        "HARGA": "Rp 315,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 2GB For Mac",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB For Mac",
+        "PART NUMBER": "TMD32GM1600HC11-S01",
+        "HARGA": "Rp 315,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 4GB For Mac",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB For Mac",
+        "PART NUMBER": "TMD34GM1600HC11-S01",
+        "HARGA": "Rp 555,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR3 PC12800 8GB For MacLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB For Mac",
+        "PART NUMBER": "TMD3L8G1600HC11-S01",
+        "HARGA": "Rp 570,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR4 PC19200 8GB",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "TED48G2400C16-SBK",
+        "HARGA": "Rp 705,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team Elite SO-DIMM DDR4 PC19200 4GB",
+        "DDR": "DDR4",
+        "MODUL": "PC19200",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "TED44G2400C16-SBK",
+        "HARGA": "Rp 360,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR2 1GB PC6400 ",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR2 2GB PC6400 ",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR3 2GB PC12800 ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 198,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR3 2GB PC12800 Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 215,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR3 4GB PC12800 Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 350,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR3 8GB PC12800 Low Voltage ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 625,000"
+    },
+    {
+        "MERK": "Kingston",
+        "NAMA": "Kingston SO-DIMM DDR3 8GB PC12800 ",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Single Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 648,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 2GB SQ / CL9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "F3-10666CL9S-2GBSQ",
+        "HARGA": "Rp 210,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 4GB SQ  / CL9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL9D-4GBSQ",
+        "HARGA": "Rp 614,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 4GB SQ / CL9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666CL9S-4GBSQ",
+        "HARGA": "Rp 310,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 4GB SQ / CL9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "F3-10666C9S-4GNS",
+        "HARGA": "Rp 573,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 4GB SQ / CL9-9-9-24 For Apple",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "FA-10666CL9S-4GBSQ",
+        "HARGA": "Rp 396,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 8GBSQ  / CL9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB",
+        "PART NUMBER": "F3-10666CL9D-8GBSQ",
+        "HARGA": "Rp 1,105,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC10666 16GBSQ  / CL9-9-9-24",
+        "DDR": "DDR3",
+        "MODUL": "PC10666",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB",
+        "PART NUMBER": "F3-10666CL9D-16GBSQ",
+        "HARGA": "Rp 2,060,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 2GB SQ / CL9-9-9-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB SQ",
+        "PART NUMBER": "F3-12800CL9S-2GBSQ",
+        "HARGA": "Rp 210,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 4GB SQ / CL11-11-11-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB SQ",
+        "PART NUMBER": "F3-12800CL11S-4GBSQ",
+        "HARGA": "Rp 375,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 8GB SQ / CL11-11-11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB SQ",
+        "PART NUMBER": "F3-1600C11S-8GSQ",
+        "HARGA": "Rp 709,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 4GB SL / CL9-9-9-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB SL",
+        "PART NUMBER": "F3-1600C9S-4GRSL",
+        "HARGA": "Rp 335,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 4GB SL  / CL9-9-9-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "4GB SL",
+        "PART NUMBER": "F3-1600C9D-8GRSL",
+        "HARGA": "Rp 750,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 8GB SL / CL9-9-9-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB SL",
+        "PART NUMBER": "F3-1600C9S-8GRSL",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC12800 16GB SL  / CL9-9-9-28",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB SL",
+        "PART NUMBER": "F3-1600C9D-16GRSL",
+        "HARGA": "Rp 1,398,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC15000 4GB SL / CL10-10-10-32",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB SL",
+        "PART NUMBER": "F3-1866C10S-4GRSL",
+        "HARGA": "Rp 627,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC15000 8GB SL  / CL10-10-10-32",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB SL",
+        "PART NUMBER": "F3-1866C10D-8GRSL",
+        "HARGA": "Rp 1,228,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC15000 8GB SL / CL10-10-10-32",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB SL",
+        "PART NUMBER": "F3-1866C10S-8GRSL",
+        "HARGA": "Rp 1,214,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC15000 16GB SL  / CL10-10-10-32",
+        "DDR": "DDR3",
+        "MODUL": "PC15000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB SL",
+        "PART NUMBER": "F3-1866C10D-16GRSL",
+        "HARGA": "Rp 2,373,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC17000 4GB SL / CL11-11-11-36",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB SL",
+        "PART NUMBER": "F3-2133C11S-4GRSL",
+        "HARGA": "Rp 457,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC17000 8GB SL  / CL11-11-11-36",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB SL",
+        "PART NUMBER": "F3-2133C11D-8GRSL",
+        "HARGA": "Rp 893,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC17000 8GB SL / CL11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB SL",
+        "PART NUMBER": "F3-2133C11S-8GRSL",
+        "HARGA": "Rp 921,000"
+    },
+    {
+        "MERK": "Gskill",
+        "NAMA": "Gskill SO-DIMM DDR3 PC17000 16GB SL  / CL11-11-11-31",
+        "DDR": "DDR3",
+        "MODUL": "PC17000",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "16GB SL",
+        "PART NUMBER": "F3-2133C11D-16GRSL",
+        "HARGA": "Rp 1,814,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR2 PC5300 667Mhz 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 313,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR2 PC5300 667Mhz 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 534,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR2 PC6400 800Mhz 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 313,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR2 PC6400 800Mhz 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 534,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC8500 1066Mhz 1GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 286,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC8500 1066Mhz 2GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 348,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC8500 1066Mhz 4GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC10600 1333Mhz 1GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 286,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC10600 1333Mhz 2GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 348,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC10600 1333Mhz 4GB CL9",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC12800 1600Mhz 2GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 380,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC12800 1600Mhz 4GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 513,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend JetRam SO-DIMM DDR3 PC12800 1600Mhz 8GB CL11",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 941,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR2 PC5300 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 225,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR2 PC5300 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 375,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR2 PC6400 1GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 225,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR2 PC6400 2GB",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 375,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC8500 1GB",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 79,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC8500 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 195,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC8500 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 368,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600 1GB",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 168,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600/PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 188,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600/PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 338,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600/PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 598,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600/PC12800 2GB Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 188,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600/PC12800 4GB Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 338,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN SO-DIMM DDR3 PC10600/PC12800 8GB Low Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC23400",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 598,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX SO-DIMM DDR3 PC10600 2GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 167,000"
+    },
+    {
+        "MERK": "VenomRX",
+        "NAMA": "VenomRX SO-DIMM DDR3 PC10600 4GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 265,000"
+    },
+    {
+        "MERK": "Visipro",
+        "NAMA": "Visipro SO-DIMM DDR3 PC12800 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 185,000"
+    },
+    {
+        "MERK": "Visipro",
+        "NAMA": "Visipro SO-DIMM DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 345,000"
+    },
+    {
+        "MERK": "Visipro",
+        "NAMA": "Visipro SO-DIMM DDR3 PC12800 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 610,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SO-DIMM DDR3 PC12800 2GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SO-DIMM DDR3 PC12800 4GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 335,000"
+    },
+    {
+        "MERK": "Adata",
+        "NAMA": "Adata SO-DIMM DDR3 PC12800 8GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 655,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer SO-DIMM DDR3 PC8500 1066Mhz 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC8500",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 149,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer SO-DIMM DDR3 PC10600 1333Mhz 1GB ",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 75,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer SO-DIMM DDR3 PC12800 1600Mhz 2GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 234,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer SO-DIMM DDR3 PC12800 1600Mhz 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 464,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer SO-DIMM DDR3 PC12800 1600Mhz 4GBLow Voltage",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 342,000"
+    },
+    {
+        "MERK": "Apacer",
+        "NAMA": "Apacer SO-DIMM DDR3 PC12800 1600Mhz 8GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot SO-DIMM DDR3 PC10600 2GB",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "PSD3 2G 1333 S ",
+        "HARGA": "Rp 207,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot SO-DIMM DDR3 PC12800 4GB",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "PSD3 4G 1600 S ",
+        "HARGA": "Rp 315,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot SO-DIMM DDR3 PC12800 8GB (2x4GB)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "Dual Channel",
+        "SIZE": "8GB (2x4GB)",
+        "PART NUMBER": "PSA3 8G 1600 SK",
+        "HARGA": "Rp 735,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot SO-DIMM DDR3 PC12800 4GB(Low Voltage)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "PSD3 4G 1600 L2S ",
+        "HARGA": "Rp 330,000"
+    },
+    {
+        "MERK": "Patriot",
+        "NAMA": "Patriot SO-DIMM DDR3 PC12800 8GB(Low Voltage)",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "PSD3 8G 1600 L2S ",
+        "HARGA": "Rp 540,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR4 ECC Reg Server Ram 16GB 2133Mhz T4E1R10S62000 (2XR4)",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "T4E1R10S62000 2XR4",
+        "HARGA": "Rp 2,540,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR4 ECC Reg Server Ram 8GB 2133Mhz T4D6R10S62000 (1XR4)",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "T4D6R10S62000 1XR4",
+        "HARGA": "Rp 1,385,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR4 ECC Unbuffered Server Ram 8GB 2133Mhz ",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "T4E1R10S6200001",
+        "HARGA": "Rp 1,180,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR4 ECC Unbuffered Server Ram 4GB 2133Mhz ",
+        "DDR": "DDR4",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "T4D6R10S6200001",
+        "HARGA": "Rp 650,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Reg Server Ram 16GB 1600Mhz T4E1R05H32156 (2Rx8)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "T4E1R05H32156 2Rx8",
+        "HARGA": "Rp 2,150,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Reg Server Ram 8GB 1600Mhz T4D4R05H32014 (2Rx8)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "T4D4R05H32014 2Rx8",
+        "HARGA": "Rp 1,145,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Reg Server Ram 4GB 1600Mhz T4C8R05H32054 (2Rx8)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "T4C8R05H32054 2Rx8",
+        "HARGA": "Rp 520,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Unbuffered Server and Workstation 8GB 1600Mhz T4D4C05H32043 (2XR8)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "T4D4C05H32043 2XR8",
+        "HARGA": "Rp 830,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Unbuffered Server and Workstation 4GB 1600Mhz T4C2C05H32043 (2XR8)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "T4C2C05H32043 2XR8",
+        "HARGA": "Rp 480,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Unbuffered Server 8GB 1600Mhz T4D4C05H4204301 (1.35V)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "T4D4C05H4204301 1.35V",
+        "HARGA": "Rp 850,000"
+    },
+    {
+        "MERK": "Team",
+        "NAMA": "Team DDR3 ECC Unbuffered Server 4GB 1600Mhz T4C8C05H4204201 (1.35V)",
+        "DDR": "DDR3",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "T4C8C05H4204201 1.35V",
+        "HARGA": "Rp 490,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend TS2GCQ1038 RAM Module2 GB (2 x 1 GB)PC2700ECCRegistered",
+        "DDR": "DDR2",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "PC2700ECC",
+        "HARGA": "Rp 2,560,000"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend FB DIMM DDR2 667/533 512MB ECC Register ()",
+        "DDR": "DDR2",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "512MB",
+        "PART NUMBER": "TS64MFB72V6J-T",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend FB DIMM DDR2 667/533 1GB ECC Register ()",
+        "DDR": "DDR2",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "TS128MFB72V6J-T",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend FB DIMM DDR2 667/533 2GB ECC Register ()",
+        "DDR": "DDR2",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "TS256MFB72V6K-T",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "Transcend",
+        "NAMA": "Transcend FB DIMM DDR2 667/533 4GB ECC Register ()",
+        "DDR": "DDR2",
+        "MODUL": "PC0",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "TS512MFB72V6K-T",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR1 PC3200 1GB ECC REG",
+        "DDR": "DDR1",
+        "MODUL": "PC3200",
+        "CHANNEL": "N/A",
+        "SIZE": "1GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "N/A"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 PC5300 2GB ECC",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 528,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 PC6400 2GB ECC",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 528,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 PC5300 2GB ECC REG",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 588,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR2 PC6400 4GB ECC REG",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 1,080,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC10600 2GB ECC REG",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 338,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC10600 4GB ECC REG",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 598,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC12800 4GB ECC REG",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 598,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC12800 8GB ECC REG",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 988,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC12800 16GB ECC REG",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "16GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 2,388,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC12800 32GB ECC REG",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 5,888,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR4 PC17000 32GB ECC REG",
+        "DDR": "DDR4",
+        "MODUL": "PC17000",
+        "CHANNEL": "N/A",
+        "SIZE": "32GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 6,288,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC10600 2GB ECC",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 298,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC10600 4GB ECC",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 498,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC10600 8GB ECC",
+        "DDR": "DDR3",
+        "MODUL": "PC10600",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 888,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC12800 4GB ECC",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 498,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN DDR3 PC12800 8GB ECC",
+        "DDR": "DDR3",
+        "MODUL": "PC12800",
+        "CHANNEL": "N/A",
+        "SIZE": "8GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 888,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN FB DIMM DDR2 PC5300 2GB Register",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN FB DIMM DDR2 PC5300 4GB Register",
+        "DDR": "DDR2",
+        "MODUL": "PC5300",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 1,280,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN FB DIMM DDR2 PC6400 2GB Register",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "2GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 880,000"
+    },
+    {
+        "MERK": "V-GeN",
+        "NAMA": "V-GeN FB DIMM DDR2 PC6400 4GB Register",
+        "DDR": "DDR2",
+        "MODUL": "PC6400",
+        "CHANNEL": "N/A",
+        "SIZE": "4GB",
+        "PART NUMBER": "N/A",
+        "HARGA": "Rp 1,280,000"
+    }
+]
+}
