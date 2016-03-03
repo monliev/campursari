@@ -1,0 +1,1077 @@
+{
+  "contacts":
+  [
+    {
+        "NAMA PROSESOR": "Intel Core i7-5930K 3.5Ghz ",
+        "FREQ": "3.5Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 2011-v3",
+        "HARGA": "Rp. 9.150.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-5820K 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 2011-v3",
+        "HARGA": "Rp. 6.350.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-5960X 3.0Ghz ",
+        "FREQ": "3.0Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 2011-v3",
+        "HARGA": "Rp. 17.590.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3-4160 3.6Ghz ",
+        "FREQ": "3.6Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 1.545.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3-4170 3.7Ghz ",
+        "FREQ": "3.7Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 1.605.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3-4150 3.5Ghz ",
+        "FREQ": "3.5Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 1.495.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3-4130 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 1.475.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3-6100 3.7Ghz ",
+        "FREQ": "3.7Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 1.725.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-4690 3.5Ghz ",
+        "FREQ": "3.5Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 3.160.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-4590 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 2.890.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-4460 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 2.485.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-4770 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 4.445.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-6600 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 3.260.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-6500 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 2.985.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-6400 2.7Ghz ",
+        "FREQ": "2.7Ghz ",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 2.770.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-4790 3.6Ghz ",
+        "FREQ": "3.6Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 4.485.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G4400 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 875.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-6700 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 4.715.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7 4820K 3.7Ghz ",
+        "FREQ": "3.7Ghz ",
+        "CACHE": "Cache 10MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 2011",
+        "HARGA": "Rp. 4.435.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7 4930K 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 12MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 2011",
+        "HARGA": "Rp. 8.000,-.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7 4960X 3.5Ghz ",
+        "FREQ": "3.5Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 2011",
+        "HARGA": "Rp. 14.769.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3240 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 723.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3220 3.0Ghz ",
+        "FREQ": "3.0Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 745.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3250 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 760.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3260 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 850.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3258 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 990.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3420 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 1.019.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3450 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 1.029.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G2030 3.0Ghz ",
+        "FREQ": "3.0Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155 ",
+        "HARGA": "Rp. 835.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G1610 2.6Ghz ",
+        "FREQ": "2.6Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 506.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G2120 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 889.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G2130 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 892.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3 3220 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 1.610.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3 3240 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 1.610.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3 3250 3.5Ghz ",
+        "FREQ": "3.5Ghz ",
+        "CACHE": "Cache 3MB",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 1.655.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3220 3.0Ghz ",
+        "FREQ": "3.0Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 675.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G3240 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 720.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G1620 2.7Ghz ",
+        "FREQ": "2.7Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 535.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G840 2.8Ghz ",
+        "FREQ": "2.8Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 603.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G1610 2.6Ghz ",
+        "FREQ": "2.6Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 458.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G1620 2.7Ghz ",
+        "FREQ": "2.7Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 485.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G2020 2.9Ghz ",
+        "FREQ": "2.9Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 695.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G2030 3.0Ghz ",
+        "FREQ": "3.0Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 770.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G630 2.7Ghz ",
+        "FREQ": "2.7Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 663.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G640 2.8Ghz ",
+        "FREQ": "2.8Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 629.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Pentium G645 2.9Ghz ",
+        "FREQ": "2.9Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 636.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i3 2100 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 1.290.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5 3470 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 2.515.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5 3340 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 2.730.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5 3340 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 2.338.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5 3550 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 2.420.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5 3470 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 1155",
+        "HARGA": "Rp. 2.800.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E6300 1.86Ghz FSB 1066 Mhz ",
+        "FREQ": "1.86Ghz",
+        "CACHE": "Cache 2MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 90.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E6400 1.96Ghz FSB 1066 Mhz ",
+        "FREQ": "1.96Ghz",
+        "CACHE": "Cache 2MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 105.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E6550 2.30Ghz FSB 1066 Mhz ",
+        "FREQ": "2.30Ghz",
+        "CACHE": "Cache 2MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 100.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E7400 2.8Ghz FSB 1066 Mhz ",
+        "FREQ": "2.8Ghz",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 110.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E7500 2.93Ghz FSB 1066 Mhz ",
+        "FREQ": "2.93Ghz",
+        "CACHE": "Cache 3MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 130.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Quad Q8300 2.5Ghz FSB 1333 Mhz ",
+        "FREQ": "2.5Ghz",
+        "CACHE": "Cache 4MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 862.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E8300 2.83Ghz FSB 1333 Mhz ",
+        "FREQ": "2.83Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 190.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E8400 3.0Ghz FSB 1333 Mhz ",
+        "FREQ": "3.0Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 155.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Duo E8500 3.16Ghz FSB 1333 Mhz ",
+        "FREQ": "3.16Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 205.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Quad Q9300 2.5Ghz FSB 1333 Mhz ",
+        "FREQ": "2.5Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 1.723.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core 2 Quad Q9400 2.66Ghz FSB 1333 Mhz ",
+        "FREQ": "2.66Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 1.310.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Dual Core E5700 3.0Ghz FSB 800 Mhz ",
+        "FREQ": "3.0Ghz",
+        "CACHE": "Cache 2MB ",
+        "TYPE": "[Tray]",
+        "SOCKET": "Socket LGA 775",
+        "HARGA": "Rp. 115.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-4690K 3.5Ghz Up To 3.9Ghz ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 3.500.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i5-6600K 3.5Ghz Up To 3.9Ghz ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 6MB ",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 3.650.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-6700K 4.0Ghz Up To 4.2Ghz ",
+        "FREQ": "4.0Ghz",
+        "CACHE": "Cache 8MB ",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1151",
+        "HARGA": "Rp. 5.285.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Core i7-4790K 4.0Ghz Up To 4.4Ghz ",
+        "FREQ": "4.0Ghz",
+        "CACHE": "Cache 8MB ",
+        "TYPE": "[Box]",
+        "SOCKET": "Socket LGA 1150",
+        "HARGA": "Rp. 5.025.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2687Wv2 3.4Ghz ",
+        "FREQ": "3.4Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 29.812.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2690v2 3.0Ghz ",
+        "FREQ": "3.0Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 29.059.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2680v2 2.8Ghz ",
+        "FREQ": "2.8Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 24.342.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2670v2 2.5Ghz ",
+        "FREQ": "2.5Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 21.948.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2660v2 2.2Ghz ",
+        "FREQ": "2.2Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 19.692.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2650v2 2.6Ghz ",
+        "FREQ": "2.6Ghz ",
+        "CACHE": "Cache 20MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 16.615.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2640v2 2Ghz ",
+        "FREQ": "2 2Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 12.649.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2630v2 2.6Ghz ",
+        "FREQ": "2.6Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 8.752.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2620v2 2.1Ghz ",
+        "FREQ": "2.1Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 5.510.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2620v3 2.1Ghz ",
+        "FREQ": "2.1Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 6.705.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2609v3 2.5Ghz ",
+        "FREQ": "2.5Ghz ",
+        "CACHE": "Cache 10MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 5.110.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2609v2 2.5Ghz ",
+        "FREQ": "2.5Ghz ",
+        "CACHE": "Cache 10MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 4.800.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2609 2.4Ghz ",
+        "FREQ": "2.4Ghz ",
+        "CACHE": "Cache 10MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA2011",
+        "HARGA": "Rp. 4.103.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2420 1.9Ghz ",
+        "FREQ": "1.9Ghz ",
+        "CACHE": "Cache 15MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1356",
+        "HARGA": "Rp. 5.265.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2407 2.2Ghz ",
+        "FREQ": "2.2Ghz ",
+        "CACHE": "Cache 10MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1356",
+        "HARGA": "Rp. 3.487.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5-2407V2 2.2Ghz ",
+        "FREQ": "2.2Ghz ",
+        "CACHE": "Cache 10MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1356",
+        "HARGA": "Rp. 3.692.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5620 2.4Ghz ",
+        "FREQ": "2.4Ghz ",
+        "CACHE": "Cache 12MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1366",
+        "HARGA": "Rp. 5.538.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E5606 2.3Ghz ",
+        "FREQ": "2.3Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1366",
+        "HARGA": "Rp. 3.214.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E3-1220V3 3.1Ghz ",
+        "FREQ": "3.1Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1150",
+        "HARGA": "Rp. 3.300.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E3-1230V3 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1150",
+        "HARGA": "Rp. 4.150.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E3-1231V3 3.3Ghz ",
+        "FREQ": "3.3Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1150",
+        "HARGA": "Rp. 4.060.000,-"
+    },
+    {
+        "NAMA PROSESOR": "Intel Xeon E3-1225V3 3.2Ghz ",
+        "FREQ": "3.2Ghz ",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": "LGA1150",
+        "HARGA": "Rp. 3.320.000,-"
+    },
+    {
+        "NAMA PROSESOR": "AMD Athlon 5150 ",
+        "FREQ": "1.6Ghz",
+        "CACHE": "N/A",
+        "TYPE": "N/A",
+        "SOCKET": " AM1 - New Socket",
+        "HARGA": "Rp 660,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Athlon 5350 ",
+        "FREQ": "2.5Ghz",
+        "CACHE": "N/A",
+        "TYPE": "N/A",
+        "SOCKET": " AM1 - New Socket",
+        "HARGA": "Rp 790,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD ATHLON II X2 260 ",
+        "FREQ": "3.2Ghz",
+        "CACHE": "Cache 2MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM4",
+        "HARGA": "N/A"
+    },
+    {
+        "NAMA PROSESOR": "AMD ATHLON II X2 270 ",
+        "FREQ": "3.4Ghz",
+        "CACHE": "Cache 2MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM5",
+        "HARGA": "Rp 515,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD ATHLON II X2 280 ",
+        "FREQ": "3.4Ghz",
+        "CACHE": "Cache 2MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM6",
+        "HARGA": "Rp 391,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD ATHLON II X3 455 ",
+        "FREQ": "3.3Ghz",
+        "CACHE": "Cache 1.5MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM7",
+        "HARGA": "Rp 875,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD ATHLON X2 7550 ",
+        "FREQ": "2.5Ghz",
+        "CACHE": "Cache 1MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM2/AM2+",
+        "HARGA": "Rp 410,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Athlon X4-840 Quad",
+        "FREQ": "3.1Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 885,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD ATHLON64 3500+ ",
+        "FREQ": "2.2Ghz",
+        "CACHE": "Cache 512KB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM2/AM2+",
+        "HARGA": "Rp 385,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Godavari A10-7870K (Radeon R7 series) ",
+        "FREQ": "3.9Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,950,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Godavari A8-7670K (Radeon R7 series) ",
+        "FREQ": "3.6Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,510,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A10-7700K (Radeon R7 series) ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,635,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A10-7800 (Radeon R7 series) ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,750,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A10-7850K (Radeon R7 series) ",
+        "FREQ": "3.7Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,810,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A6-7400K (Radeon R4 series) ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 2x1MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 835,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A6-7400K (Radeon R4 series) ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 2x1MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 780,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A8-7600 (Radeon R7 series) ",
+        "FREQ": "3.1Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,250,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri A8-7650K (Radeon R7 series) ",
+        "FREQ": "3.3Ghz",
+        "CACHE": "Cache 2x2MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 1,410,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Kaveri Athlon X4-860K Quad",
+        "FREQ": "3.7Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2+",
+        "HARGA": "Rp 985,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Llano A6-3500 (Radeon HD6530D) ",
+        "FREQ": "2.1Ghz",
+        "CACHE": "Cache 3MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM1",
+        "HARGA": "Rp 585,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Llano A8-3870K (Radeon HD6550D) ",
+        "FREQ": "3.0Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2",
+        "HARGA": "Rp 1,085,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Opteron 2214 ",
+        "FREQ": "2.2Ghz",
+        "CACHE": "Cache 2MB",
+        "TYPE": "[Box]",
+        "SOCKET": "",
+        "HARGA": "Rp 1,570,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD PHENOM II X2 555 ",
+        "FREQ": "3.2Ghz",
+        "CACHE": "Cache 1MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM8",
+        "HARGA": "Rp 635,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD PHENOM X3 8750 ",
+        "FREQ": "2.4Ghz",
+        "CACHE": "Cache 3.5MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM2/AM2+",
+        "HARGA": "Rp 425,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Richland A10-6800K (Radeon HD8670D) ",
+        "FREQ": "4.1Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM9",
+        "HARGA": "Rp 1,770,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Richland A4-6300 (Radeon HD8370D) ",
+        "FREQ": "3.7Ghz",
+        "CACHE": "Cache 1MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM4",
+        "HARGA": "Rp 475,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Richland A4-7300 (Radeon HD8470D) ",
+        "FREQ": "3.8Ghz",
+        "CACHE": "Cache 1MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM5",
+        "HARGA": "Rp 560,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Richland A6-6400K (Radeon HD8470D) ",
+        "FREQ": "3.9Ghz",
+        "CACHE": "Cache 1MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM6",
+        "HARGA": "Rp 690,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Richland A6-6420K (Radeon HD8470D) ",
+        "FREQ": "4.0Ghz",
+        "CACHE": "Cache 1MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM7",
+        "HARGA": "Rp 815,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Richland A8-6600K (Radeon HD8570D) ",
+        "FREQ": "3.9Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM8",
+        "HARGA": "Rp 1,210,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD SEMPRON 1200 2.1 Ghz 64KB 45W",
+        "FREQ": "2.1Ghz",
+        "CACHE": "Cache 64KB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM2/AM2+",
+        "HARGA": "Rp 210,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD SEMPRON 145  45W",
+        "FREQ": "2.8Ghz",
+        "CACHE": "N/A",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3",
+        "HARGA": "Rp 450,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD SEMPRON 2600  128KB 45W",
+        "FREQ": "1.6Ghz",
+        "CACHE": "Cache 128KB",
+        "TYPE": "[Tray]",
+        "SOCKET": " AM2/AM2+",
+        "HARGA": "Rp 185,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Sempron 2650 ",
+        "FREQ": "1.45Ghz",
+        "CACHE": "N/A",
+        "TYPE": "N/A",
+        "SOCKET": " AM1 - New Socket",
+        "HARGA": "Rp 455,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Sempron 3850 ",
+        "FREQ": "1.3Ghz",
+        "CACHE": "N/A",
+        "TYPE": "N/A",
+        "SOCKET": " AM1 - New Socket",
+        "HARGA": "Rp 530,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Trinity A8-5600K (Radeon HD7560D) ",
+        "FREQ": "3.6Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "N/A",
+        "SOCKET": " FM2",
+        "HARGA": "Rp 1,150,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Trinity A8-5600K [TRAY] (Radeon HD7560D) ",
+        "FREQ": "3.6Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "[Tray]",
+        "SOCKET": " FM3",
+        "HARGA": "N/A"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-4300 ",
+        "FREQ": "3.8Ghz",
+        "CACHE": "Cache 4MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 1,185,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-6300 ",
+        "FREQ": "3.5Ghz",
+        "CACHE": "Cache 6MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 1,385,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-8320E ",
+        "FREQ": "3.2Ghz",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 1,910,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-8350 ",
+        "FREQ": "4.0Ghz",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 2,385,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-8370E ",
+        "FREQ": "3.3Ghz",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 2,710,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-9370 ",
+        "FREQ": "4.4Ghz",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 2,960,000"
+    },
+    {
+        "NAMA PROSESOR": "AMD Vishera FX-9590 ",
+        "FREQ": "4.7Ghz",
+        "CACHE": "Cache 8MB",
+        "TYPE": "[Box]",
+        "SOCKET": " AM3+",
+        "HARGA": "Rp 3,410,000"
+    }
+]
+}
