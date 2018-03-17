@@ -2,7 +2,7 @@
  "enterkomputer_1": [
   {
    "name": "Processor",
-   "url": "https://www.enterkomputer.com/processor.php",
+   "uri": "https://www.enterkomputer.com/processor.php",
    "produk": [
     {
      "jenis": "Intel Core i9-7980XE 2.6Ghz Up To 4.2Ghz - Cache 24.75MB [Box] Socket LGA 2066 - Skylake-X Series",
@@ -440,7 +440,7 @@
   },
   {
    "name": "Motherboard",
-   "url": "https://www.enterkomputer.com/motherboard.php",
+   "uri": "https://www.enterkomputer.com/motherboard.php",
    "produk": [
     {
      "jenis": "MAXSUN MS-iCraft Z370 Gaming (LGA1151, Z370, DDR4, USB3.1, SATA3)",
@@ -1522,7 +1522,7 @@
   },
   {
    "name": "Harddisk",
-   "url": "https://www.enterkomputer.com/harddisk.php",
+   "uri": "https://www.enterkomputer.com/harddisk.php",
    "produk": [
     {
      "jenis": "WDC 80GB IDE 8MB - Used & Garansi 3 Bulan",
@@ -1828,7 +1828,7 @@
   },
   {
    "name": "SSD",
-   "url": "https://www.enterkomputer.com/ssd.php",
+   "uri": "https://www.enterkomputer.com/ssd.php",
    "produk": [
     {
      "jenis": "KLEVV SSD NEO N600 120GB - D120GAA-N600",
@@ -2338,7 +2338,7 @@
   },
   {
    "name": "Memory Ram",
-   "url": "https://www.enterkomputer.com/memoryram.php",
+   "uri": "https://www.enterkomputer.com/memoryram.php",
    "produk": [
     {
      "jenis": "KLEVV DDR4 BOLT Series PC19200 2400MHz 4GB (1X4GB) - KM4B4GX1N-2400-15-15-15-35-0",
@@ -4368,7 +4368,7 @@
   },
   {
    "name": "VGA Card",
-   "url": "https://www.enterkomputer.com/vga.php",
+   "uri": "https://www.enterkomputer.com/vga.php",
    "produk": [
     {
      "jenis": "GALAX Geforce GTX 1080 Ti 11GB DDR5X 352 Bit HOF (HALL OF FAME) - With LCD Display",
@@ -4450,7 +4450,7 @@
   },
   {
    "name": "Power Supply",
-   "url": "https://www.enterkomputer.com/psu.php",
+   "uri": "https://www.enterkomputer.com/psu.php",
    "produk": [
     {
      "jenis": "Seasonic ECO Series 430W - ECO-430 - 80+ Bronze Certified - 3 Years Warranty Replacement - Retail Box (NO OEM)",
@@ -4588,7 +4588,7 @@
   },
   {
    "name": "Casing",
-   "url": "https://www.enterkomputer.com/casing.php",
+   "uri": "https://www.enterkomputer.com/casing.php",
    "produk": [
     {
      "jenis": "1STPLAYER Gaming Case Fire Dancing V3 - Full Transparant Window - 3 X led Fan",
@@ -4602,7 +4602,7 @@
   },
   {
    "name": "LCD",
-   "url": "https://www.enterkomputer.com/lcd.php",
+   "uri": "https://www.enterkomputer.com/lcd.php",
    "produk": [
     {
      "jenis": "HP LED 19\" V194",
@@ -4648,7 +4648,7 @@
   },
   {
    "name": "Optical Drive",
-   "url": "https://www.enterkomputer.com/optical.php",
+   "uri": "https://www.enterkomputer.com/optical.php",
    "produk": [
     {
      "jenis": "PIONEER BLURAY WRITER BDR-209DBK",
@@ -4662,7 +4662,7 @@
   },
   {
    "name": "Keyboard & Mouse",
-   "url": "https://www.enterkomputer.com/keyboard.php",
+   "uri": "https://www.enterkomputer.com/keyboard.php",
    "produk": [
     {
      "jenis": "1STPLAYER Gaming Mechanical Feeling Keyboard FIREDANCING GK3 - Lighting Bezel - 7 LED Color - Waterproof",
@@ -4724,7 +4724,7 @@
   },
   {
    "name": "Software & OS",
-   "url": "https://www.enterkomputer.com/software.php",
+   "uri": "https://www.enterkomputer.com/software.php",
    "produk": [
     {
      "jenis": "Windows 10 Home",
