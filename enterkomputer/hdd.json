@@ -1,0 +1,306 @@
+{
+   "name": "Harddisk",
+   "url": "https://www.enterkomputer.com/harddisk.php",
+   "produk": [
+    {
+     "jenis": "WDC 80GB IDE 8MB - Used & Garansi 3 Bulan",
+     "harga": "Rp 85,000"
+    },
+    {
+     "jenis": "WDC 120GB IDE 8MB - Used & Garansi 3 Bulan",
+     "harga": "Rp 100,000"
+    },
+    {
+     "jenis": "WDC 320GB IDE 8MB - Used & Garansi 1 Th",
+     "harga": "Rp 280,000"
+    },
+    {
+     "jenis": "WDC 160GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 160,000"
+    },
+    {
+     "jenis": "WDC 250GB SATA2 8MB - Used & Garansi 1 Th",
+     "harga": "Rp 200,000"
+    },
+    {
+     "jenis": "WDC 320GB SATA2 8MB - Used & Garansi 1 Th",
+     "harga": "Rp 240,000"
+    },
+    {
+     "jenis": "WDC AV GP / Green 500GB For CCTV 24 Hours - Used & Garansi 1 Th",
+     "harga": "Rp 445,000"
+    },
+    {
+     "jenis": "WDC 500GB SATA3 - Blue - Garansi 2 Th",
+     "harga": "Rp 625,000"
+    },
+    {
+     "jenis": "WDC 500GB SATA3 32MB - Black Ver.2 - WD5003AZEX - Garansi 5 Th",
+     "harga": "Rp 985,000"
+    },
+    {
+     "jenis": "WDC 1TB SATA3 64MB - Blue - WD10EZEX - Garansi 2 Th",
+     "harga": "Rp 680,000"
+    },
+    {
+     "jenis": "WDC 1TB SATA3 64MB - Black Ver.2 - WD1003FZEX - Garansi 5 Th",
+     "harga": "Rp 1,155,000"
+    },
+    {
+     "jenis": "WDC Purple 1TB For CCTV 24 Hours - WD10PURZ - Garansi 3 Th",
+     "harga": "Rp 680,000"
+    },
+    {
+     "jenis": "WDC 1TB SATA3 128MB - 7200 RPM - Gold - WD1005FBYZ - Garansi 5 Th",
+     "harga": "Rp 1,345,000"
+    },
+    {
+     "jenis": "WDC 2TB SATA3 64MB - Blue - WD20EZRZ - Garansi 2 Th",
+     "harga": "Rp 970,000"
+    },
+    {
+     "jenis": "WDC 2TB SATA3 64MB - Red - WD20EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 1,290,000"
+    },
+    {
+     "jenis": "WDC 2TB SATA3 64MB - Black - WD2003FZEX - Garansi 5 Th",
+     "harga": "Rp 1,870,000"
+    },
+    {
+     "jenis": "WDC Purple 2TB For CCTV 24 Hours - WD20PURZ - Garansi 3 Th",
+     "harga": "Rp 990,000"
+    },
+    {
+     "jenis": "WDC 2TB SATA3 128MB - 7200 RPM - Gold - WD2005FBYZ - Garansi 5 Th",
+     "harga": "Rp 2,150,000"
+    },
+    {
+     "jenis": "WDC 3TB SATA3 64MB - Blue - WD30EZRZ - Garansi 2 Th",
+     "harga": "Rp 1,445,000"
+    },
+    {
+     "jenis": "WDC 3TB SATA3 64MB - Red - WD30EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 1,675,000"
+    },
+    {
+     "jenis": "WDC 3TB SATA3 64MB - Black Ver.2 - WD3003FZEX - Garansi 5 Th",
+     "harga": "Rp 2,580,000"
+    },
+    {
+     "jenis": "WDC Purple 3TB For CCTV 24 Hours - WD30PURX - Garansi 3 Th",
+     "harga": "Rp 1,470,000"
+    },
+    {
+     "jenis": "WDC 4TB SATA3 64MB - Blue - WD40EZRZ - Garansi 2 Th",
+     "harga": "Rp 1,880,000"
+    },
+    {
+     "jenis": "WDC 4TB SATA3 64MB - Red - WD40EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 2,195,000"
+    },
+    {
+     "jenis": "WDC 4TB SATA3 64MB - Black Ver.2 - WD4003FZEX - Garansi 5 Th",
+     "harga": "Rp 3,075,000"
+    },
+    {
+     "jenis": "WDC Purple 4TB For CCTV 24 Hours - WD40PURX - Garansi 3 Th",
+     "harga": "Rp 1,880,000"
+    },
+    {
+     "jenis": "WDC 4TB SATA3 128MB - 7200 RPM - Gold - WD4002FYYZ - Garansi 5 Th",
+     "harga": "Rp 3,590,000"
+    },
+    {
+     "jenis": "WDC 5TB SATA3 64MB - Blue - WD50EZRZ - Garansi 2 Th",
+     "harga": "Rp 2,940,000"
+    },
+    {
+     "jenis": "WDC 5TB SATA3 64MB - Red - WD50EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 2,800,000"
+    },
+    {
+     "jenis": "WDC Purple 5TB For CCTV 24 Hours - WD50PURX - Garansi 3 Th",
+     "harga": "Rp 2,950,000"
+    },
+    {
+     "jenis": "WDC 6TB SATA3 64MB - Blue - WD60EZRZ - Garansi 2 Th",
+     "harga": "Rp 3,070,000"
+    },
+    {
+     "jenis": "WDC 6TB SATA3 64MB - Red - WD60EFRX - Garansi 3 Th (For NAS)",
+     "harga": "Rp 3,410,000"
+    },
+    {
+     "jenis": "WDC Purple 6TB For CCTV 24 Hours - WD60PURZ - Garansi 3 Th",
+     "harga": "Rp 3,220,000"
+    },
+    {
+     "jenis": "WDC 8TB SATA3 128MB - Red - WD80EFZX - Garansi 3 Th (For NAS)",
+     "harga": "Rp 4,425,000"
+    },
+    {
+     "jenis": "WDC Purple 8TB For CCTV 24 Hours - WD80PURX - Garansi 3 Th",
+     "harga": "Rp 4,180,000"
+    },
+    {
+     "jenis": "WDC 8TB SATA3 128MB - 7200 RPM - Gold - WD8002FRYZ - Garansi 5 Th",
+     "harga": "Rp 5,710,000"
+    },
+    {
+     "jenis": "WDC 10TB SATA3 256MB - 7200 RPM - Gold - WD101KRYZ - Garansi 5 Th",
+     "harga": "Rp 7,150,000"
+    },
+    {
+     "jenis": "Toshiba 4TB SATA3 5400RPM For CCTV - TSB-MD04ABA400V",
+     "harga": "Rp 1,775,000"
+    },
+    {
+     "jenis": "Toshiba 500GB SATA3 7200RPM",
+     "harga": "Rp 590,000"
+    },
+    {
+     "jenis": "Toshiba 1TB SATA3 7200RPM",
+     "harga": "Rp 640,000"
+    },
+    {
+     "jenis": "Toshiba 2TB SATA3 7200RPM",
+     "harga": "Rp 930,000"
+    },
+    {
+     "jenis": "Toshiba 3TB SATA3 7200RPM",
+     "harga": "Rp 1,200,000"
+    },
+    {
+     "jenis": "Toshiba 4TB SATA3 7200RPM",
+     "harga": "Rp 1,805,000"
+    },
+    {
+     "jenis": "Toshiba 1TB SATA3 5700RPM For CCTV - TSB-DT01ABA100V",
+     "harga": "Rp 670,000"
+    },
+    {
+     "jenis": "Toshiba 2TB SATA3 5700RPM For CCTV - TSB-DT01ABA200V",
+     "harga": "Rp 940,000"
+    },
+    {
+     "jenis": "Toshiba 4TB SATA3 5700RPM For CCTV - TSB-DT01ABA400V",
+     "harga": "Rp 1,805,000"
+    },
+    {
+     "jenis": "Seagate 80GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 110,000"
+    },
+    {
+     "jenis": "Seagate 120GB IDE",
+     "harga": "Rp 160,000"
+    },
+    {
+     "jenis": "Seagate 160GB IDE",
+     "harga": "Rp 190,000"
+    },
+    {
+     "jenis": "Seagate 160GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 170,000"
+    },
+    {
+     "jenis": "Seagate 250GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 215,000"
+    },
+    {
+     "jenis": "Seagate 320GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 240,000"
+    },
+    {
+     "jenis": "Seagate 500GB SATA3 - BarraCuda Series",
+     "harga": "Rp 650,000"
+    },
+    {
+     "jenis": "Seagate 1TB SATA3 - BarraCuda Series",
+     "harga": "Rp 695,000"
+    },
+    {
+     "jenis": "Seagate Surveillance For CCTV 1TB - SkyHawk Series",
+     "harga": "Rp 675,000"
+    },
+    {
+     "jenis": "Seagate 1TB SSHD - FireCuda Series",
+     "harga": "Rp 1,165,000"
+    },
+    {
+     "jenis": "Seagate Enterprise 1TB - ST1000NM0008",
+     "harga": "Rp 1,590,000"
+    },
+    {
+     "jenis": "Seagate 2TB SATA3 - 7200 RPM - BarraCuda Series",
+     "harga": "Rp 990,000"
+    },
+    {
+     "jenis": "Seagate Enterprise 2TB - ST2000NM0008",
+     "harga": "Rp 2,245,000"
+    },
+    {
+     "jenis": "Seagate Surveillance 2TB - SkyHawk Series",
+     "harga": "Rp 965,000"
+    },
+    {
+     "jenis": "Seagate 2TB For NAS - IronWolf Series",
+     "harga": "Rp 1,290,000"
+    },
+    {
+     "jenis": "Seagate 2TB SSHD - FireCuda Series",
+     "harga": "Rp 1,660,000"
+    },
+    {
+     "jenis": "Seagate 3TB SATA3 64MB - 7200 RPM - BarraCuda Series",
+     "harga": "Rp 1,395,000"
+    },
+    {
+     "jenis": "Seagate Surveillance 3TB - SkyHawk Series",
+     "harga": "Rp 1,460,000"
+    },
+    {
+     "jenis": "Seagate Enterprise 3TB - ST3000NM0005",
+     "harga": "Rp 3,300,000"
+    },
+    {
+     "jenis": "Seagate 4TB SATA3 - 7200 RPM - BarraCuda Series",
+     "harga": "Rp 1,860,000"
+    },
+    {
+     "jenis": "Seagate Surveillance 4TB - SkyHawk Series",
+     "harga": "Rp 1,800,000"
+    },
+    {
+     "jenis": "Seagate 4TB For NAS - IronWolf Series",
+     "harga": "Rp 2,210,000"
+    },
+    {
+     "jenis": "Seagate Enterprise 4TB - ST4000NM0035",
+     "harga": "Rp 3,600,000"
+    },
+    {
+     "jenis": "Seagate Surveillance 6TB - SkyHawk Series",
+     "harga": "Rp 3,220,000"
+    },
+    {
+     "jenis": "Seagate 6TB For NAS - IronWolf Series",
+     "harga": "Rp 3,370,000"
+    },
+    {
+     "jenis": "Seagate Enterprise 6TB - ST6000NM0115",
+     "harga": "Rp 4,920,000"
+    },
+    {
+     "jenis": "Seagate 8TB SATA3 - BarraCuda Pro Series",
+     "harga": "Rp 4,850,000"
+    },
+    {
+     "jenis": "Seagate 8TB For NAS - IronWolf Series",
+     "harga": "Rp 4,330,000"
+    },
+    {
+     "jenis": "Seagate 10TB SATA3 - BarraCuda Pro Series",
+     "harga": "Rp 6,470,000"
+    }
+   ]
+  }
