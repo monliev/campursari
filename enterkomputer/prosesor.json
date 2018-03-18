@@ -1,0 +1,438 @@
+{
+   "name": "Processor",
+   "url": "https://www.enterkomputer.com/processor.php",
+   "produk": [
+    {
+     "jenis": "Intel Core i9-7980XE 2.6Ghz Up To 4.2Ghz - Cache 24.75MB [Box] Socket LGA 2066 - Skylake-X Series",
+     "harga": "Rp 28,999,000"
+    },
+    {
+     "jenis": "Intel Core i9-7900X 3.3Ghz Up To 4.3Ghz - Cache 13.75MB [Box] Socket LGA 2066 - Skylake-X Series",
+     "harga": "Rp 14,199,000"
+    },
+    {
+     "jenis": "Intel Core i7-7740X 4.3Ghz Up To 4.5Ghz - Cache 8MB [Box] Socket LGA 2066 - Kabylake-X Series",
+     "harga": "Rp 4,999,000"
+    },
+    {
+     "jenis": "Intel Core i7-7820X 3.6Ghz Up To 4.3Ghz - Cache 11MB [Box] Socket LGA 2066 - Skylake-X Series",
+     "harga": "Rp 8,599,000"
+    },
+    {
+     "jenis": "Intel Core i7-7800X 3.5Ghz Up To 4.0Ghz - Cache 8.25MB [Box] Socket LGA 2066 - Skylake-X Series",
+     "harga": "Rp 5,579,000"
+    },
+    {
+     "jenis": "Intel Core i5-7640X 4.0Ghz Up To 4.2Ghz - Cache 6MB [Box] Socket LGA 2066 - Kabylake-X Series",
+     "harga": "Rp 3,585,000"
+    },
+    {
+     "jenis": "Intel Core i7-8700K 3.7Ghz Up To 4.7Ghz - Cache 12MB [Box] Socket LGA 1151 - Coffeelake Series",
+     "harga": "Rp 6,225,000"
+    },
+    {
+     "jenis": "Intel Core i7-8700 3.2Ghz Up To 4.6Ghz - Cache 12MB [Box] Socket LGA 1151 - Coffeelake Series",
+     "harga": "Rp 5,225,000"
+    },
+    {
+     "jenis": "Intel Core i7-7700K 4.2Ghz Up To 4.5Ghz - Cache 8MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 5,000,000"
+    },
+    {
+     "jenis": "Intel Core i7-7700 3.6Ghz - Cache 8MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 4,475,000"
+    },
+    {
+     "jenis": "Intel Core i7-6700K 4.0Ghz Up To 4.2Ghz - Cache 8MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 4,540,000"
+    },
+    {
+     "jenis": "Intel Core i7-6700 3.4Ghz - Cache 8MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 4,485,000"
+    },
+    {
+     "jenis": "Intel Core i5-8600K 3.6Ghz Up To 4.3Ghz - Cache 9MB [Box] Socket LGA 1151 - Coffeelake Series",
+     "harga": "Rp 4,250,000"
+    },
+    {
+     "jenis": "Intel Core i5-8400 2.8Ghz Up To 4.0Ghz - Cache 9MB [Box] Socket LGA 1151 - Coffeelake Series",
+     "harga": "Rp 3,050,000"
+    },
+    {
+     "jenis": "Intel Core i5-7600K 3.8Ghz Up To 4.2Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 3,535,000"
+    },
+    {
+     "jenis": "Intel Core i5-7600 3.5Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 3,225,000"
+    },
+    {
+     "jenis": "Intel Core i5-7500 3.4Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 2,950,000"
+    },
+    {
+     "jenis": "Intel Core i5-7400 3.0Ghz - Cache 6MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 2,570,000"
+    },
+    {
+     "jenis": "Intel Core i5-6600K 3.5Ghz Up To 3.9Ghz - Cache 6MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 3,530,000"
+    },
+    {
+     "jenis": "Intel Core i5-6600 3.3Ghz - Cache 6MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 2,910,000"
+    },
+    {
+     "jenis": "Intel Core i5-6500 3.2Ghz - Cache 6MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 2,815,000"
+    },
+    {
+     "jenis": "Intel Core i5-6400 2.7Ghz - Cache 6MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 2,510,000"
+    },
+    {
+     "jenis": "Intel Core i3-8350K 4.0Ghz - Cache 8MB [Box] Socket LGA 1151 - Coffeelake Series",
+     "harga": "Rp 2,945,000"
+    },
+    {
+     "jenis": "Intel Core i3-8100 3.6Ghz - Cache 6MB [Box] Socket LGA 1151 - Coffeelake Series",
+     "harga": "Rp 1,850,000"
+    },
+    {
+     "jenis": "Intel Core i3-7350K 4.2Ghz - Cache 4MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 2,130,000"
+    },
+    {
+     "jenis": "Intel Core i3-7300 4.0Ghz - Cache 4MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 2,190,000"
+    },
+    {
+     "jenis": "Intel Core i3-7100 3.9Ghz - Cache 3MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 1,570,000"
+    },
+    {
+     "jenis": "Intel Core i3-7100 3.9Ghz - Cache 3MB [Tray] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 1,470,000"
+    },
+    {
+     "jenis": "Intel Core i3-7100T 3.4Ghz - Cache 3MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 1,575,000"
+    },
+    {
+     "jenis": "Intel Core i3-6100 3.7Ghz - Cache 3MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 1,525,000"
+    },
+    {
+     "jenis": "Intel Core i3-6100 3.7Ghz - Cache 3MB [Tray] + Fan - Socket LGA 1151 - Garansi 3 Tahun",
+     "harga": "Rp 1,500,000"
+    },
+    {
+     "jenis": "Intel Pentium G4620 3.7Ghz - Cache 3MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 1,405,000"
+    },
+    {
+     "jenis": "Intel Pentium G4600 3.6Ghz - Cache 3MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 1,030,000"
+    },
+    {
+     "jenis": "Intel Pentium G4560 3.5Ghz - Cache 3MB [Box] Socket LGA 1151 - Kabylake Series",
+     "harga": "Rp 930,000"
+    },
+    {
+     "jenis": "Intel Pentium G4400 3.3Ghz - Cache 3MB [Box] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 699,000"
+    },
+    {
+     "jenis": "Intel Pentium G4400 3.3Ghz - Cache 3MB [Tray] Socket LGA 1151 - Skylake Series",
+     "harga": "Rp 660,000"
+    },
+    {
+     "jenis": "Intel Pentium G3260 3.3Ghz Cache 3MB [Box] Socket LGA 1150 - Haswell Series",
+     "harga": "Rp 1,070,000"
+    },
+    {
+     "jenis": "Intel Pentium G3260 3.3Ghz Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+     "harga": "Rp 975,000"
+    },
+    {
+     "jenis": "Intel Pentium G3250 3.2Ghz Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+     "harga": "Rp 935,000"
+    },
+    {
+     "jenis": "Intel Pentium G3220 3.0Ghz Cache 3MB [Tray] Socket LGA 1150 - Haswell Series",
+     "harga": "Rp 935,000"
+    },
+    {
+     "jenis": "Intel Core i3-4170 3.7Ghz - Cache 3MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 1,575,000"
+    },
+    {
+     "jenis": "Intel Core i3-4160 3.6Ghz - Cache 3MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 1,555,000"
+    },
+    {
+     "jenis": "Intel Core i3-4150 3.5Ghz - Cache 3MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 1,245,000"
+    },
+    {
+     "jenis": "Intel Core i5-4690K 3.5Ghz Up To 3.9Ghz - Cache 6MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 3,245,000"
+    },
+    {
+     "jenis": "Intel Core i5-4690 3.5Ghz - Cache 6MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 2,905,000"
+    },
+    {
+     "jenis": "Intel Core i5-4590 3.3Ghz - Cache 6MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 2,660,000"
+    },
+    {
+     "jenis": "Intel Core i5-4460 3.2Ghz - Cache 6MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 2,530,000"
+    },
+    {
+     "jenis": "Intel Core i5-4460 3.2Ghz - Cache 6MB [Tray] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 2,285,000"
+    },
+    {
+     "jenis": "Intel Core i7-4790K 4.0Ghz Up To 4.4Ghz - Cache 8MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 4,650,000"
+    },
+    {
+     "jenis": "Intel Core i7-4790 3.6Ghz - Cache 8MB [Box] Socket LGA 1150 - Haswell Refresh Series",
+     "harga": "Rp 4,510,000"
+    },
+    {
+     "jenis": "Intel Core i7-4770 3.4Ghz - Cache 6MB [Box] Socket LGA 1150 - Haswell Series",
+     "harga": "Rp N/A"
+    },
+    {
+     "jenis": "Intel Core i7-6950X 3.0Ghz - Cache 25MB [Box] Socket LGA 2011-v3 - Broadwell-E Series",
+     "harga": "Rp 24,599,000"
+    },
+    {
+     "jenis": "Intel Core i7-6900K 3.2Ghz - Cache 20MB [Box] Socket LGA 2011-v3 - Broadwell-E Series",
+     "harga": "Rp 15,729,000"
+    },
+    {
+     "jenis": "Intel Core i7-6850K 3.6Ghz - Cache 15MB [Box] Socket LGA 2011-v3 - Broadwell-E Series",
+     "harga": "Rp 7,260,000"
+    },
+    {
+     "jenis": "Intel Core i7-6800K 3.4Ghz - Cache 15MB [Box] Socket LGA 2011-v3 - Broadwell-E Series",
+     "harga": "Rp 5,589,000"
+    },
+    {
+     "jenis": "Intel Core i7-5930K 3.5Ghz - Cache 15MB [Box] Socket LGA 2011-v3 - Haswell-E Series",
+     "harga": "Rp 8,680,000"
+    },
+    {
+     "jenis": "Intel Pentium G2130 3.2Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 427,000"
+    },
+    {
+     "jenis": "Intel Pentium G2120 3.1Ghz Cache 3MB [Tray] Socket LGA 1155 + Deepcool Fan",
+     "harga": "Rp 590,000"
+    },
+    {
+     "jenis": "Intel Pentium G2030 3.0Ghz Cache 3MB [Box] Socket LGA 1155",
+     "harga": "Rp 905,000"
+    },
+    {
+     "jenis": "Intel Pentium G2030 3.0Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 435,000"
+    },
+    {
+     "jenis": "Intel Pentium G2020 2.9Ghz Cache 3MB [Box] Socket LGA 1155",
+     "harga": "Rp 810,000"
+    },
+    {
+     "jenis": "Intel Pentium G2020 2.9Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 390,000"
+    },
+    {
+     "jenis": "Intel Pentium G2010 2.8Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 470,000"
+    },
+    {
+     "jenis": "Intel Pentium G1620 2.7Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 325,000"
+    },
+    {
+     "jenis": "Intel Pentium G840 2.8Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 300,000"
+    },
+    {
+     "jenis": "Intel Pentium G645 2.9Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 300,000"
+    },
+    {
+     "jenis": "Intel Pentium G640 2.8Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 280,000"
+    },
+    {
+     "jenis": "Intel Pentium G620 2.6Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 265,000"
+    },
+    {
+     "jenis": "Intel Core i3 3250 3.5Ghz Cache 3MB [Box] Socket LGA 1155",
+     "harga": "Rp 1,265,000"
+    },
+    {
+     "jenis": "Intel Core i3 3240 3.4Ghz Cache 3MB[Tray] Socket LGA 1155",
+     "harga": "Rp 695,000"
+    },
+    {
+     "jenis": "Intel Core i3 3220 3.3Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 659,000"
+    },
+    {
+     "jenis": "Intel Core i3-2130 3.4Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 620,000"
+    },
+    {
+     "jenis": "Intel Core i3-2125 3.3Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 612,000"
+    },
+    {
+     "jenis": "Intel Core i3-2120 3.3Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 595,000"
+    },
+    {
+     "jenis": "Intel Core i3 2100 3.1Ghz Cache 3MB [Tray] Socket LGA 1155",
+     "harga": "Rp 570,000"
+    },
+    {
+     "jenis": "Intel Core i5 3550 3.3Ghz Cache 6MB [Tray] Socket LGA 1155",
+     "harga": "Rp 1,250,000"
+    },
+    {
+     "jenis": "Intel Core i5 3470 3.2Ghz Cache 6MB [Tray] Socket LGA 1155",
+     "harga": "Rp 1,095,000"
+    },
+    {
+     "jenis": "Intel Core i5-2400 3.1 GHz - Cache 6MB [Tray] Socket LGA 1155",
+     "harga": "Rp 870,000"
+    },
+    {
+     "jenis": "Intel Core 2 Duo E8500 3.16Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775",
+     "harga": "Rp 130,000"
+    },
+    {
+     "jenis": "Intel Core 2 Duo E8400 3.0Ghz FSB 1333 Mhz Cache 6MB [Tray] Socket LGA 775",
+     "harga": "Rp 120,000"
+    },
+    {
+     "jenis": "Intel Core 2 Duo E7500 2.93Ghz FSB 1066 Mhz Cache 3MB [Tray] Socket LGA 775",
+     "harga": "Rp 110,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2697v4, 2.3Ghz, Cache 45MB, LGA 2011-v3",
+     "harga": "Rp 40,985,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2695v4, 2.1Ghz, Cache 45MB, LGA 2011-v3",
+     "harga": "Rp 36,785,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2690v4, 2.6Ghz, Cache 35MB, LGA2011-v3",
+     "harga": "Rp 31,725,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2683v4, 2.1Ghz, Cache 40MB, LGA2011-v3",
+     "harga": "Rp 28,140,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2660v4 2.0Ghz, Cache 35MB, LGA2011-v3",
+     "harga": "Rp 21,975,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2650v4 2.3Ghz, Cache 30MB, LGA2011-v3",
+     "harga": "Rp 17,770,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2640v4, 2.4Ghz, Cache 25MB, LGA2011-v3",
+     "harga": "Rp 14,600,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2630v4, 2.4Ghz, Cache 20MB, LGA2011-v3",
+     "harga": "Rp 10,435,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2620v4, 2.4Ghz, Cache 15MB, LGA2011-v3",
+     "harga": "Rp 6,550,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2609v4, 1.7Ghz, Cache 20MB, LGA2011-v3",
+     "harga": "Rp 4,885,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2603v4, 1.7Ghz, Cache 15MB, LGA2011-v3",
+     "harga": "Rp 3,445,000"
+    },
+    {
+     "jenis": "Intel Xeon E5-2609v3, 1.9Ghz, Cache 15MB, LGA2011-v3",
+     "harga": "Rp 4,675,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1225V3, 3.2Ghz, Cache 8MB, LGA1150",
+     "harga": "Rp 3,020,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1220V3, 3.1Ghz, Cache 8MB, LGA1150",
+     "harga": "Rp 2,965,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1245V6, 3.7Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 4,645,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1240V6, 3.5Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 4,415,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1230V6, 3.5Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 4,060,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1225V6, 3.3Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 3,400,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1220V6, 3.0Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 3,200,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1240V5, 3.5Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 4,450,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1230V5, 3.3Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 4,100,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1225V5, 3.2Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 3,560,000"
+    },
+    {
+     "jenis": "Intel Xeon E3-1220V5, 3.1Ghz, Cache 8MB, LGA1151",
+     "harga": "Rp 2,955,000"
+    },
+    {
+     "jenis": "Intel Thermal Solution Combo for LGA2011 - RTS2011AC FHS 2011",
+     "harga": "Rp 380,000"
+    },
+    {
+     "jenis": "Intel Thermal Solution Active for LGA2011 - BXTS13A FHS 2011",
+     "harga": "Rp 465,000"
+    },
+    {
+     "jenis": "Intel Thermal Solution for LGA2011 E5-2600 Processors - BXSTS200C",
+     "harga": "Rp 635,000"
+    },
+    {
+     "jenis": "Intel Thermal Solution (Passive) for LGA2011 - STS200P",
+     "harga": "Rp 545,000"
+    }
+   ]
+  }
