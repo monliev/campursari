@@ -1,0 +1,82 @@
+  {
+   "name": "Software & OS",
+   "url": "https://www.enterkomputer.com/software.php",
+   "produk": [
+    {
+     "jenis": "Windows 10 Home",
+     "harga": "Rp 1,495,000"
+    },
+    {
+     "jenis": "Windows 10 Home FPP",
+     "harga": "Rp 1,815,000"
+    },
+    {
+     "jenis": "Windows 10 Professional",
+     "harga": "Rp 2,110,000"
+    },
+    {
+     "jenis": "Windows 10 Professional FPP",
+     "harga": "Rp 2,970,000"
+    },
+    {
+     "jenis": "Windows 8.1 SL - 32 Bit",
+     "harga": "Rp 1,505,000"
+    },
+    {
+     "jenis": "Windows 8.1 Pro - 64 Bit",
+     "harga": "Rp 2,065,000"
+    },
+    {
+     "jenis": "Windows 8.1 Pro - 32 Bit",
+     "harga": "Rp 1,805,000"
+    },
+    {
+     "jenis": "Windows 7 Starter Edition OEM",
+     "harga": "Rp 715,000"
+    },
+    {
+     "jenis": "Windows 7 Home Basic OEM - 32 Bit",
+     "harga": "Rp 1,425,000"
+    },
+    {
+     "jenis": "Windows 7 Home Basic OEM - 64 Bit",
+     "harga": "Rp 1,495,000"
+    },
+    {
+     "jenis": "Windows 7 Home Premium OEM - 32 Bit",
+     "harga": "Rp 1,370,000"
+    },
+    {
+     "jenis": "Windows 7 Professional OEM - 32 Bit",
+     "harga": "Rp 2,405,000"
+    },
+    {
+     "jenis": "Windows 7 Professional OEM - 64 Bit",
+     "harga": "Rp 2,425,000"
+    },
+    {
+     "jenis": "Windows Server Standard 2008R2 64 BIT OEM Include 5 Client SP 1",
+     "harga": "Rp 9,670,000"
+    },
+    {
+     "jenis": "Windows Server Standard 2012R2 64 BIT x64 (Tanpa CAL Server)",
+     "harga": "Rp 10,570,000"
+    },
+    {
+     "jenis": "Windows Server 2016",
+     "harga": "Rp 10,690,000"
+    },
+    {
+     "jenis": "Cal For Windows Server Standard 2008 - 5 Cal",
+     "harga": "Rp 2,015,000"
+    },
+    {
+     "jenis": "Cal For Windows Server Standard 2012 - 5 Cal",
+     "harga": "Rp 2,005,000"
+    },
+    {
+     "jenis": "Cal For Windows Server 2016 - 5 Cal",
+     "harga": "Rp 2,130,000"
+    }
+   ]
+  }
